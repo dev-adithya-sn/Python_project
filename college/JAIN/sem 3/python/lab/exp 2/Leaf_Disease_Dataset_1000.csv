@@ -1,0 +1,1001 @@
+Sample_ID,Plant_Type,Disease_Class,Leaf_Color_Index,Spot_Count,Spot_Size_mm,Temperature_C,Humidity_%,Soil_pH,Nitrogen,Phosphorus,Potassium,Disease_Severity,Target_Label
+L0001,Tomato,Healthy,0.316,0,0,22.7,59,5.8,76,106,179,Healthy,0
+L0002,Tomato,Healthy,0.684,0,0,18.5,50,6,179,97,46,Healthy,0
+L0003,Grape,Healthy,0.429,0,0,29,79,6.5,164,95,111,Healthy,0
+L0004,Tomato,Healthy,0.793,0,0,20.7,72,6.3,89,47,126,Healthy,0
+L0005,Tomato,Healthy,0.36,0,0,19.6,67,6.9,61,113,157,Healthy,0
+L0006,Grape,Healthy,0.381,0,0,33.7,50,6.8,142,93,89,Healthy,0
+L0007,Tomato,Healthy,0.33,0,0,21.9,63,7.8,109,32,137,Healthy,0
+L0008,Apple,Healthy,0.595,0,0,32.2,55,6.4,103,105,108,Healthy,0
+L0009,Tomato,Healthy,0.696,0,0,20.9,91,6.1,168,68,109,Healthy,0
+L0010,Grape,Healthy,0.443,0,0,23.5,94,7.3,108,24,120,Healthy,0
+L0011,Corn,Healthy,0.474,0,0,21.6,81,7.5,130,47,207,Healthy,0
+L0012,Corn,Healthy,0.557,0,0,33.5,74,5.8,85,51,183,Healthy,0
+L0013,Grape,Healthy,0.471,0,0,27.9,82,6.4,106,37,170,Healthy,0
+L0014,Corn,Healthy,0.359,0,0,18.8,52,5.9,90,107,148,Healthy,0
+L0015,Grape,Healthy,0.341,0,0,24.5,74,6.7,191,21,214,Healthy,0
+L0016,Tomato,Healthy,0.743,0,0,27.1,62,7.3,137,34,115,Healthy,0
+L0017,Corn,Healthy,0.403,0,0,18.1,91,7.5,117,84,85,Healthy,0
+L0018,Grape,Healthy,0.893,0,0,32.8,64,7.4,179,97,90,Healthy,0
+L0019,Potato,Healthy,0.543,0,0,20.7,94,7.6,50,96,122,Healthy,0
+L0020,Corn,Healthy,0.313,0,0,33.8,64,6.1,111,92,60,Healthy,0
+L0021,Tomato,Healthy,0.776,0,0,31.9,93,6.7,82,36,208,Healthy,0
+L0022,Corn,Healthy,0.915,0,0,20.8,78,7.5,158,47,178,Healthy,0
+L0023,Potato,Healthy,0.763,0,0,24.8,87,7,162,86,155,Healthy,0
+L0024,Tomato,Healthy,0.461,0,0,19.1,46,6.9,108,95,96,Healthy,0
+L0025,Tomato,Healthy,0.346,0,0,28.7,59,5.7,58,62,58,Healthy,0
+L0026,Grape,Healthy,0.455,0,0,29.4,58,6.7,196,93,161,Healthy,0
+L0027,Potato,Healthy,0.81,0,0,31.7,57,5.7,160,65,148,Healthy,0
+L0028,Corn,Healthy,0.604,0,0,30.4,88,7,75,27,143,Healthy,0
+L0029,Apple,Healthy,0.82,0,0,19.9,57,5.9,164,37,148,Healthy,0
+L0030,Potato,Healthy,0.481,0,0,22.2,49,6.5,190,32,52,Healthy,0
+L0031,Grape,Healthy,0.843,0,0,34.5,93,7.5,92,72,164,Healthy,0
+L0032,Corn,Healthy,0.439,0,0,24.8,48,5.9,50,69,107,Healthy,0
+L0033,Corn,Healthy,0.485,0,0,29.8,91,7.8,192,104,164,Healthy,0
+L0034,Potato,Healthy,0.423,0,0,21.7,48,6.8,188,27,120,Healthy,0
+L0035,Tomato,Healthy,0.333,0,0,26.1,78,5.9,180,30,87,Healthy,0
+L0036,Tomato,Healthy,0.687,0,0,29.5,60,6.4,195,51,188,Healthy,0
+L0037,Grape,Healthy,0.326,0,0,19.4,87,6.8,183,60,106,Healthy,0
+L0038,Potato,Healthy,0.735,0,0,23.3,61,6.4,126,78,120,Healthy,0
+L0039,Tomato,Healthy,0.306,0,0,28.6,81,7.8,68,88,94,Healthy,0
+L0040,Grape,Healthy,0.472,0,0,33.9,49,7.5,144,56,80,Healthy,0
+L0041,Corn,Healthy,0.842,0,0,30,84,7.8,185,21,210,Healthy,0
+L0042,Grape,Healthy,0.495,0,0,29.3,53,6.1,77,115,181,Healthy,0
+L0043,Potato,Healthy,0.477,0,0,28.3,90,6.3,117,84,165,Healthy,0
+L0044,Apple,Healthy,0.888,0,0,32.4,50,7,120,25,40,Healthy,0
+L0045,Apple,Healthy,0.801,0,0,28.8,61,5.9,163,90,220,Healthy,0
+L0046,Corn,Healthy,0.665,0,0,19.9,89,7.6,189,24,134,Healthy,0
+L0047,Grape,Healthy,0.659,0,0,25.3,47,6.2,60,65,93,Healthy,0
+L0048,Potato,Healthy,0.734,0,0,24,80,7.5,154,99,79,Healthy,0
+L0049,Potato,Healthy,0.862,0,0,34.6,56,7.5,56,42,125,Healthy,0
+L0050,Corn,Healthy,0.821,0,0,32.7,60,6.1,77,68,49,Healthy,0
+L0051,Corn,Healthy,0.445,0,0,31.9,74,6.3,108,48,46,Healthy,0
+L0052,Potato,Healthy,0.559,0,0,22.7,49,7.7,121,64,204,Healthy,0
+L0053,Grape,Healthy,0.56,0,0,34.7,79,6.3,57,34,106,Healthy,0
+L0054,Potato,Healthy,0.677,0,0,34.7,47,5.7,161,64,120,Healthy,0
+L0055,Corn,Healthy,0.694,0,0,26.7,69,7.6,98,52,51,Healthy,0
+L0056,Corn,Healthy,0.301,0,0,33.7,79,7.1,100,66,150,Healthy,0
+L0057,Tomato,Healthy,0.917,0,0,33.7,84,6.2,81,112,116,Healthy,0
+L0058,Grape,Healthy,0.501,0,0,24.9,70,7.1,191,36,89,Healthy,0
+L0059,Corn,Healthy,0.732,0,0,24.4,92,7.6,195,58,143,Healthy,0
+L0060,Grape,Healthy,0.842,0,0,23.2,58,6.5,198,97,207,Healthy,0
+L0061,Apple,Healthy,0.602,0,0,25.5,58,6.7,93,104,61,Healthy,0
+L0062,Apple,Healthy,0.635,0,0,28.8,66,5.7,110,106,119,Healthy,0
+L0063,Potato,Healthy,0.824,0,0,20.5,47,6.1,171,98,58,Healthy,0
+L0064,Corn,Healthy,0.569,0,0,28.7,57,7.2,148,83,142,Healthy,0
+L0065,Potato,Healthy,0.396,0,0,29.7,93,7.5,77,119,148,Healthy,0
+L0066,Potato,Healthy,0.414,0,0,34.3,78,6.6,192,51,71,Healthy,0
+L0067,Corn,Healthy,0.387,0,0,25.9,78,7.8,131,116,153,Healthy,0
+L0068,Grape,Healthy,0.83,0,0,33.2,72,7.4,190,77,80,Healthy,0
+L0069,Corn,Healthy,0.593,0,0,30.8,85,6.1,183,82,200,Healthy,0
+L0070,Potato,Healthy,0.478,0,0,19.3,63,6,135,60,178,Healthy,0
+L0071,Tomato,Healthy,0.39,0,0,21.9,89,5.9,104,28,146,Healthy,0
+L0072,Corn,Healthy,0.515,0,0,25.9,48,6,157,69,189,Healthy,0
+L0073,Tomato,Healthy,0.857,0,0,31,69,6.6,140,58,139,Healthy,0
+L0074,Corn,Healthy,0.65,0,0,30.5,83,7.6,174,48,109,Healthy,0
+L0075,Corn,Healthy,0.616,0,0,24.6,87,7.1,153,112,82,Healthy,0
+L0076,Corn,Healthy,0.898,0,0,34.7,79,5.6,150,95,184,Healthy,0
+L0077,Tomato,Healthy,0.355,0,0,25.3,74,5.9,116,68,123,Healthy,0
+L0078,Potato,Healthy,0.596,0,0,23.7,69,6.1,157,52,60,Healthy,0
+L0079,Corn,Healthy,0.313,0,0,27.2,67,6,67,119,206,Healthy,0
+L0080,Tomato,Healthy,0.79,0,0,34.1,57,7.4,89,50,72,Healthy,0
+L0081,Corn,Healthy,0.735,0,0,27.6,58,6.6,115,118,134,Healthy,0
+L0082,Potato,Healthy,0.694,0,0,34.4,90,5.8,91,59,67,Healthy,0
+L0083,Grape,Healthy,0.317,0,0,23.3,88,7.6,146,70,90,Healthy,0
+L0084,Tomato,Healthy,0.685,0,0,32.1,60,5.7,127,107,193,Healthy,0
+L0085,Tomato,Healthy,0.818,0,0,27.6,47,6.3,159,104,134,Healthy,0
+L0086,Tomato,Healthy,0.629,0,0,23.8,71,7.4,77,75,132,Healthy,0
+L0087,Corn,Healthy,0.76,0,0,25.4,91,6.7,119,98,177,Healthy,0
+L0088,Corn,Healthy,0.602,0,0,32,82,6.1,112,31,111,Healthy,0
+L0089,Corn,Healthy,0.459,0,0,25.9,84,7,136,23,166,Healthy,0
+L0090,Apple,Healthy,0.418,0,0,21.6,61,6.3,120,91,42,Healthy,0
+L0091,Grape,Healthy,0.916,0,0,19.5,91,6.4,192,117,101,Healthy,0
+L0092,Corn,Healthy,0.72,0,0,26.3,95,5.5,125,48,143,Healthy,0
+L0093,Potato,Healthy,0.499,0,0,27.9,75,6.8,138,74,180,Healthy,0
+L0094,Apple,Healthy,0.529,0,0,25.7,64,6.1,80,112,89,Healthy,0
+L0095,Apple,Healthy,0.378,0,0,27.1,93,7.1,99,47,163,Healthy,0
+L0096,Apple,Healthy,0.771,0,0,34.6,78,6.9,75,44,115,Healthy,0
+L0097,Potato,Healthy,0.535,0,0,23.1,90,6.7,120,25,53,Healthy,0
+L0098,Grape,Healthy,0.49,0,0,34,85,7.5,175,33,43,Healthy,0
+L0099,Grape,Healthy,0.485,0,0,26.1,66,5.9,63,52,162,Healthy,0
+L0100,Tomato,Healthy,0.834,0,0,24.8,49,6.8,63,39,78,Healthy,0
+L0101,Tomato,Early Blight,0.946,24,1.39,31,83,6.9,107,119,173,Severe,1
+L0102,Corn,Early Blight,0.493,33,4.91,25.3,81,6.9,75,117,93,Moderate,1
+L0103,Apple,Early Blight,0.729,18,1.68,21,49,5.9,154,77,216,Severe,1
+L0104,Apple,Early Blight,0.321,35,2.66,22.8,74,5.7,109,53,200,Severe,1
+L0105,Potato,Early Blight,0.576,47,4.58,29,62,7.4,68,27,82,Severe,1
+L0106,Grape,Early Blight,0.899,43,3.79,26,64,7.1,119,84,178,Moderate,1
+L0107,Tomato,Early Blight,0.689,33,7.17,30.5,83,6.1,73,49,212,Moderate,1
+L0108,Tomato,Early Blight,0.95,42,5.54,22.6,47,7.3,94,80,172,Severe,1
+L0109,Apple,Early Blight,0.418,33,4.89,28.8,76,7.7,170,64,144,Severe,1
+L0110,Tomato,Early Blight,0.858,25,2.97,29.8,63,7,152,117,180,Moderate,1
+L0111,Tomato,Early Blight,0.504,34,2.92,34.5,70,7.5,50,104,178,Mild,1
+L0112,Tomato,Early Blight,0.422,31,3.21,30.9,85,6.5,63,46,108,Moderate,1
+L0113,Apple,Early Blight,0.585,13,5.74,20.1,85,6.9,111,110,80,Severe,1
+L0114,Tomato,Early Blight,0.659,40,1.2,34.9,52,6.6,80,102,79,Moderate,1
+L0115,Apple,Early Blight,0.631,50,2.55,32.2,75,6.1,191,38,138,Moderate,1
+L0116,Grape,Early Blight,0.785,43,1.52,19.2,94,7.3,156,63,169,Mild,1
+L0117,Apple,Early Blight,0.772,5,6.78,27.9,87,6.6,88,77,177,Moderate,1
+L0118,Apple,Early Blight,0.659,27,4.58,25.7,65,7.5,111,93,138,Moderate,1
+L0119,Tomato,Early Blight,0.507,31,4.05,33.5,69,6.4,88,83,49,Mild,1
+L0120,Grape,Early Blight,0.516,37,1.25,32.4,51,6.7,166,21,76,Mild,1
+L0121,Potato,Early Blight,0.349,46,6.36,22.5,84,7.1,70,62,212,Moderate,1
+L0122,Apple,Early Blight,0.707,29,7.16,26.3,79,5.6,67,50,201,Severe,1
+L0123,Potato,Early Blight,0.785,23,3.75,19.7,85,7.1,75,76,82,Severe,1
+L0124,Tomato,Early Blight,0.33,24,6.47,23,68,6.5,112,87,145,Severe,1
+L0125,Potato,Early Blight,0.41,48,1.09,32.8,84,7.1,177,94,76,Severe,1
+L0126,Apple,Early Blight,0.599,34,5.5,33.3,74,7.6,189,40,58,Mild,1
+L0127,Grape,Early Blight,0.494,27,7.72,29.7,74,7.4,100,69,163,Moderate,1
+L0128,Corn,Early Blight,0.672,20,4.81,34.9,63,5.6,151,55,42,Mild,1
+L0129,Tomato,Early Blight,0.892,48,6.09,32.2,63,7.3,108,97,130,Severe,1
+L0130,Potato,Early Blight,0.704,45,5.58,30.3,87,7.1,85,100,64,Mild,1
+L0131,Tomato,Early Blight,0.501,46,3.81,27.9,91,5.8,125,61,146,Severe,1
+L0132,Potato,Early Blight,0.811,17,7.07,24.2,77,7.6,92,52,163,Mild,1
+L0133,Tomato,Early Blight,0.604,26,1.06,30.8,59,7.5,151,91,133,Moderate,1
+L0134,Tomato,Early Blight,0.472,30,1.43,24.3,92,7,199,68,203,Mild,1
+L0135,Potato,Early Blight,0.606,11,5.15,34,65,7.6,106,102,56,Moderate,1
+L0136,Apple,Early Blight,0.722,34,1.38,18.8,47,6.2,176,34,64,Severe,1
+L0137,Potato,Early Blight,0.553,39,3.28,34.1,89,7.7,157,95,79,Mild,1
+L0138,Tomato,Early Blight,0.842,46,5.12,34,62,5.6,144,47,153,Moderate,1
+L0139,Apple,Early Blight,0.365,20,5.64,27.3,86,6.3,151,55,88,Moderate,1
+L0140,Tomato,Early Blight,0.731,34,5.31,28.2,46,5.6,135,51,72,Mild,1
+L0141,Tomato,Early Blight,0.839,18,4.66,28,59,6.3,87,120,192,Severe,1
+L0142,Potato,Early Blight,0.942,22,4.55,31.6,52,7,56,36,43,Mild,1
+L0143,Grape,Early Blight,0.51,20,1.81,18.9,92,6.5,79,115,56,Moderate,1
+L0144,Apple,Early Blight,0.634,33,1.32,26.6,84,5.6,183,58,157,Moderate,1
+L0145,Tomato,Early Blight,0.949,6,6.85,25.2,51,6.6,163,29,60,Severe,1
+L0146,Potato,Early Blight,0.343,43,2.56,28.8,80,7.1,147,96,175,Moderate,1
+L0147,Grape,Early Blight,0.694,34,1.24,29.9,86,7,191,112,95,Moderate,1
+L0148,Potato,Early Blight,0.569,33,6.71,24.8,91,5.7,159,60,210,Moderate,1
+L0149,Potato,Early Blight,0.746,28,4.06,19.6,50,5.7,74,115,135,Moderate,1
+L0150,Tomato,Early Blight,0.681,40,4.71,23.6,52,6.4,158,112,53,Mild,1
+L0151,Apple,Early Blight,0.529,43,4.83,21.6,87,6.6,77,64,182,Moderate,1
+L0152,Apple,Early Blight,0.673,12,6.55,32.4,94,7.4,192,23,195,Moderate,1
+L0153,Apple,Early Blight,0.319,49,2.55,31,66,6.3,96,38,184,Severe,1
+L0154,Tomato,Early Blight,0.392,30,5.25,18.5,92,6.7,146,73,156,Severe,1
+L0155,Apple,Early Blight,0.503,15,2.93,34,83,5.7,63,39,80,Moderate,1
+L0156,Tomato,Early Blight,0.477,8,5.46,26.3,73,6.5,105,116,171,Severe,1
+L0157,Corn,Early Blight,0.372,27,5.59,28.1,78,7,61,48,141,Mild,1
+L0158,Tomato,Early Blight,0.433,8,7.59,31,93,6.1,133,35,41,Severe,1
+L0159,Potato,Early Blight,0.384,32,4.49,21.9,80,7.4,140,29,141,Moderate,1
+L0160,Corn,Early Blight,0.312,7,7.41,32.7,81,6.5,153,110,203,Severe,1
+L0161,Tomato,Early Blight,0.563,23,7.75,20.9,84,6.6,142,31,151,Moderate,1
+L0162,Corn,Early Blight,0.683,20,4.43,24.7,64,7.2,106,62,83,Mild,1
+L0163,Tomato,Early Blight,0.645,37,1.95,31.2,67,7.2,87,50,66,Mild,1
+L0164,Potato,Early Blight,0.413,21,1.65,30.9,49,5.9,176,79,184,Mild,1
+L0165,Grape,Early Blight,0.718,33,7.9,23.5,85,6.2,162,28,160,Severe,1
+L0166,Apple,Early Blight,0.818,45,4.94,24,49,6.2,165,24,54,Moderate,1
+L0167,Tomato,Early Blight,0.719,23,7.83,19.5,83,6.7,168,94,181,Moderate,1
+L0168,Corn,Early Blight,0.891,7,4.79,21.2,83,6.6,88,27,155,Severe,1
+L0169,Tomato,Early Blight,0.628,26,1.79,22.2,73,7.8,184,86,196,Mild,1
+L0170,Apple,Early Blight,0.897,28,3.41,31.2,88,6.9,135,28,124,Mild,1
+L0171,Corn,Early Blight,0.485,40,5.93,29.2,83,7.5,135,30,189,Mild,1
+L0172,Apple,Early Blight,0.502,14,5.42,29.3,53,6.9,71,59,183,Severe,1
+L0173,Apple,Early Blight,0.829,46,5.53,32.1,92,7.8,184,31,205,Moderate,1
+L0174,Grape,Early Blight,0.535,32,3.22,21.1,58,6.3,174,44,97,Severe,1
+L0175,Tomato,Early Blight,0.492,14,6.41,26.6,79,7.4,184,24,209,Mild,1
+L0176,Potato,Early Blight,0.688,44,1.66,21.1,89,7.3,92,112,152,Moderate,1
+L0177,Apple,Early Blight,0.74,31,2.28,25.6,63,7.2,164,49,176,Mild,1
+L0178,Corn,Early Blight,0.888,24,1.96,29.5,81,7.8,168,118,112,Mild,1
+L0179,Grape,Early Blight,0.572,37,1.72,21.4,83,5.8,114,26,204,Moderate,1
+L0180,Grape,Early Blight,0.907,28,5.84,26.8,52,6.2,91,54,155,Moderate,1
+L0181,Corn,Early Blight,0.36,14,7.33,31.9,67,7.6,156,26,141,Severe,1
+L0182,Potato,Early Blight,0.551,28,1.11,21.8,65,7.6,135,38,75,Severe,1
+L0183,Corn,Early Blight,0.752,23,1.54,30,73,6.9,70,22,105,Mild,1
+L0184,Grape,Early Blight,0.911,14,5.07,25.2,94,6.2,127,35,52,Mild,1
+L0185,Grape,Early Blight,0.597,31,1.33,33.4,83,6.7,181,93,101,Mild,1
+L0186,Apple,Early Blight,0.579,14,5.11,22.1,71,5.9,71,87,132,Severe,1
+L0187,Grape,Early Blight,0.63,38,7.91,27.4,69,7.5,61,101,139,Mild,1
+L0188,Tomato,Early Blight,0.532,21,1.01,22.1,87,6.9,198,114,125,Moderate,1
+L0189,Apple,Early Blight,0.655,7,6.6,21,94,7.1,172,100,86,Mild,1
+L0190,Corn,Early Blight,0.324,9,2.01,31.4,47,6.2,129,85,141,Mild,1
+L0191,Apple,Early Blight,0.324,35,5.35,22.9,94,5.6,134,54,71,Severe,1
+L0192,Corn,Early Blight,0.783,32,7.21,24.6,56,6.6,177,67,172,Moderate,1
+L0193,Corn,Early Blight,0.351,10,5.02,32,79,6.2,76,30,123,Moderate,1
+L0194,Apple,Early Blight,0.59,23,5.88,20.8,73,6.3,60,113,130,Severe,1
+L0195,Apple,Early Blight,0.716,32,6.44,19,87,7,143,85,213,Severe,1
+L0196,Potato,Early Blight,0.852,6,5.59,25.4,53,5.7,143,66,138,Mild,1
+L0197,Grape,Early Blight,0.4,7,3.87,24.3,73,7.3,196,37,175,Severe,1
+L0198,Apple,Early Blight,0.722,30,2.37,19.9,92,5.9,182,69,183,Moderate,1
+L0199,Apple,Early Blight,0.758,21,2.11,28.4,89,7.6,175,45,71,Mild,1
+L0200,Corn,Early Blight,0.412,9,5.85,35,88,7.7,131,105,128,Mild,1
+L0201,Grape,Late Blight,0.652,9,7.18,32.5,90,7.1,94,66,170,Severe,2
+L0202,Potato,Late Blight,0.815,12,2.28,26.4,68,6.8,144,79,181,Mild,2
+L0203,Tomato,Late Blight,0.343,44,3.49,30.2,75,6.7,154,93,58,Mild,2
+L0204,Tomato,Late Blight,0.592,25,5.6,23.9,94,6.8,200,43,73,Mild,2
+L0205,Tomato,Late Blight,0.84,37,4.39,23.2,55,6.2,107,64,172,Moderate,2
+L0206,Apple,Late Blight,0.428,10,7.67,22.7,85,6.2,186,31,168,Moderate,2
+L0207,Grape,Late Blight,0.912,15,1.66,29.2,91,7.6,136,92,50,Severe,2
+L0208,Tomato,Late Blight,0.917,10,6.28,22.5,58,7.3,156,99,203,Mild,2
+L0209,Grape,Late Blight,0.488,36,7.67,26.2,88,6.4,166,29,216,Mild,2
+L0210,Corn,Late Blight,0.57,15,3.98,23.8,54,6.2,131,113,128,Mild,2
+L0211,Apple,Late Blight,0.635,13,1.3,22.1,52,6.1,113,38,64,Moderate,2
+L0212,Corn,Late Blight,0.862,23,3.64,34.4,55,7.4,197,112,120,Mild,2
+L0213,Corn,Late Blight,0.947,15,4,32.9,76,5.6,150,84,157,Mild,2
+L0214,Grape,Late Blight,0.529,18,0.88,26.4,86,7,123,88,42,Mild,2
+L0215,Potato,Late Blight,0.874,32,5.96,31,68,5.6,63,92,183,Mild,2
+L0216,Grape,Late Blight,0.488,28,3.4,25.7,80,6.1,80,36,64,Mild,2
+L0217,Apple,Late Blight,0.663,28,3.24,20.5,83,6.7,178,25,51,Moderate,2
+L0218,Apple,Late Blight,0.823,13,4.39,20.5,77,5.8,131,40,140,Mild,2
+L0219,Grape,Late Blight,0.519,24,6.71,27,90,6.8,171,22,134,Severe,2
+L0220,Tomato,Late Blight,0.937,48,4.88,31.5,91,7.5,56,96,161,Moderate,2
+L0221,Grape,Late Blight,0.675,46,5.91,27.9,55,6.7,147,38,214,Moderate,2
+L0222,Grape,Late Blight,0.916,7,1.32,18.3,65,6.5,155,108,92,Mild,2
+L0223,Grape,Late Blight,0.898,37,7.05,30.5,48,7.1,182,46,183,Moderate,2
+L0224,Corn,Late Blight,0.642,47,2.85,20.9,79,6.3,140,106,214,Moderate,2
+L0225,Apple,Late Blight,0.697,49,1.94,22.2,80,6.2,126,118,113,Severe,2
+L0226,Corn,Late Blight,0.506,18,3.12,33.9,95,7.2,123,35,186,Severe,2
+L0227,Corn,Late Blight,0.882,39,3.46,23.9,94,7.4,124,25,113,Severe,2
+L0228,Apple,Late Blight,0.901,10,5.42,30.7,58,6,187,54,183,Severe,2
+L0229,Potato,Late Blight,0.371,22,6.06,22.1,48,7,185,48,203,Severe,2
+L0230,Tomato,Late Blight,0.569,8,5.88,19.7,94,5.8,190,40,144,Mild,2
+L0231,Corn,Late Blight,0.723,35,6.17,22.9,63,7,72,103,186,Severe,2
+L0232,Tomato,Late Blight,0.894,39,1.81,33,56,7.6,59,70,166,Mild,2
+L0233,Tomato,Late Blight,0.306,23,4.76,19.8,66,6.2,189,87,166,Mild,2
+L0234,Corn,Late Blight,0.477,37,6.57,23.6,91,6.6,115,111,87,Mild,2
+L0235,Apple,Late Blight,0.669,26,6.18,21,85,7.6,159,85,123,Mild,2
+L0236,Tomato,Late Blight,0.42,30,1.55,23.5,60,5.5,148,50,154,Mild,2
+L0237,Apple,Late Blight,0.679,26,4.8,22.4,68,7.1,65,105,70,Moderate,2
+L0238,Potato,Late Blight,0.564,24,4.27,33.2,90,7.3,80,101,115,Moderate,2
+L0239,Potato,Late Blight,0.442,44,1.5,20.6,92,7.8,145,73,219,Moderate,2
+L0240,Grape,Late Blight,0.821,35,6.69,31,88,7.2,70,87,154,Severe,2
+L0241,Apple,Late Blight,0.351,50,4.73,19,80,7.6,101,93,177,Severe,2
+L0242,Apple,Late Blight,0.855,15,3.81,29.6,90,6.8,73,85,154,Mild,2
+L0243,Potato,Late Blight,0.634,34,3.93,19,74,7,128,112,45,Mild,2
+L0244,Tomato,Late Blight,0.785,21,4.84,18.8,67,7.1,188,27,57,Moderate,2
+L0245,Apple,Late Blight,0.566,7,6.27,31,91,7,157,67,137,Moderate,2
+L0246,Corn,Late Blight,0.352,29,7.73,32.9,53,7,139,35,85,Moderate,2
+L0247,Grape,Late Blight,0.383,30,7.84,32.2,93,5.6,126,79,212,Severe,2
+L0248,Corn,Late Blight,0.646,39,6.68,22.2,67,5.9,98,112,68,Severe,2
+L0249,Corn,Late Blight,0.7,47,7.52,33.1,60,6,75,96,48,Mild,2
+L0250,Tomato,Late Blight,0.459,43,0.83,25.5,79,6,64,37,168,Moderate,2
+L0251,Grape,Late Blight,0.507,19,4.98,29.4,65,6,86,104,173,Moderate,2
+L0252,Apple,Late Blight,0.479,31,4.68,28.1,92,7.6,159,91,166,Mild,2
+L0253,Corn,Late Blight,0.811,27,2.89,25.1,54,6.2,97,116,177,Mild,2
+L0254,Potato,Late Blight,0.495,20,5.81,31.7,48,6.8,156,91,175,Moderate,2
+L0255,Potato,Late Blight,0.466,29,2.98,19.3,73,7.4,73,88,88,Mild,2
+L0256,Corn,Late Blight,0.738,22,5.02,32.9,57,7.4,200,112,211,Mild,2
+L0257,Corn,Late Blight,0.436,18,7.3,23.2,45,6,98,114,70,Severe,2
+L0258,Potato,Late Blight,0.752,35,5.78,24.7,60,6.8,122,68,159,Severe,2
+L0259,Apple,Late Blight,0.5,46,3.2,33,74,5.7,170,117,121,Severe,2
+L0260,Apple,Late Blight,0.569,28,4.72,21.8,54,5.5,191,94,188,Mild,2
+L0261,Apple,Late Blight,0.399,31,2.97,24.5,60,6.6,136,52,165,Severe,2
+L0262,Corn,Late Blight,0.6,46,6,24,53,7.2,175,43,178,Severe,2
+L0263,Grape,Late Blight,0.322,8,6.85,34.1,87,5.6,51,72,75,Severe,2
+L0264,Tomato,Late Blight,0.76,19,0.57,26.6,68,5.6,173,104,164,Severe,2
+L0265,Grape,Late Blight,0.659,5,0.59,27,62,6.7,123,22,168,Mild,2
+L0266,Corn,Late Blight,0.824,48,7.32,19.8,51,6.7,111,44,198,Severe,2
+L0267,Apple,Late Blight,0.474,21,3.48,24.3,70,6.6,112,109,97,Severe,2
+L0268,Tomato,Late Blight,0.725,48,6.94,30.9,50,6.4,146,90,161,Moderate,2
+L0269,Tomato,Late Blight,0.757,45,1.12,32.4,86,7.3,194,32,175,Mild,2
+L0270,Potato,Late Blight,0.886,19,5.69,27.6,62,5.6,69,107,111,Mild,2
+L0271,Tomato,Late Blight,0.417,41,6.88,18.3,58,6.9,151,29,116,Severe,2
+L0272,Potato,Late Blight,0.668,41,6.87,29.5,79,6.3,85,108,60,Mild,2
+L0273,Tomato,Late Blight,0.363,27,2.24,19.3,83,7.3,151,119,123,Severe,2
+L0274,Apple,Late Blight,0.809,45,3.88,21.9,80,7.7,160,43,214,Mild,2
+L0275,Corn,Late Blight,0.356,47,5.14,31.6,90,5.7,118,39,137,Severe,2
+L0276,Potato,Late Blight,0.781,45,2.88,19.8,45,7.7,163,66,109,Severe,2
+L0277,Tomato,Late Blight,0.422,13,3.87,27.4,71,5.7,72,65,181,Mild,2
+L0278,Grape,Late Blight,0.81,43,6.98,18.2,71,6.4,71,112,183,Mild,2
+L0279,Grape,Late Blight,0.41,41,3.36,20.4,64,6.1,87,28,82,Mild,2
+L0280,Corn,Late Blight,0.495,22,6.37,24.1,60,7.2,176,96,197,Moderate,2
+L0281,Tomato,Late Blight,0.388,34,0.55,24.7,84,6.4,134,76,125,Mild,2
+L0282,Grape,Late Blight,0.388,46,2.9,34.1,57,6.6,95,70,121,Moderate,2
+L0283,Corn,Late Blight,0.929,49,6.36,23.5,62,7.4,150,66,69,Moderate,2
+L0284,Grape,Late Blight,0.948,17,1.85,31,46,7.7,168,110,93,Severe,2
+L0285,Tomato,Late Blight,0.832,23,6.47,25,76,5.8,127,50,104,Moderate,2
+L0286,Corn,Late Blight,0.813,14,1.05,34.8,75,6.8,186,84,217,Severe,2
+L0287,Tomato,Late Blight,0.814,39,3.2,33.2,79,6.9,71,33,103,Moderate,2
+L0288,Apple,Late Blight,0.408,47,5.1,27.6,86,7.1,152,116,124,Severe,2
+L0289,Tomato,Late Blight,0.364,11,2.17,30.7,80,6.8,197,48,154,Moderate,2
+L0290,Corn,Late Blight,0.802,30,4.91,26.5,67,7.8,173,33,115,Moderate,2
+L0291,Tomato,Late Blight,0.84,10,5.98,23.9,66,6.5,102,86,163,Moderate,2
+L0292,Tomato,Late Blight,0.585,35,5.73,23.4,64,5.6,79,22,127,Moderate,2
+L0293,Potato,Late Blight,0.904,11,6.05,26.8,80,5.9,193,74,158,Severe,2
+L0294,Potato,Late Blight,0.421,30,5.43,24.7,92,6.9,100,77,191,Mild,2
+L0295,Tomato,Late Blight,0.758,29,2.04,30.8,95,5.6,76,88,87,Moderate,2
+L0296,Potato,Late Blight,0.597,25,2.47,32.7,78,7.7,130,96,139,Moderate,2
+L0297,Grape,Late Blight,0.374,30,3.14,25.8,56,7.4,126,98,191,Severe,2
+L0298,Potato,Late Blight,0.504,48,2.29,20,68,7.1,180,69,147,Mild,2
+L0299,Grape,Late Blight,0.549,13,1.89,28.8,89,7.6,94,91,82,Severe,2
+L0300,Potato,Late Blight,0.422,23,6.81,28.5,67,7.7,174,37,89,Moderate,2
+L0301,Grape,Bacterial Spot,0.724,40,3.57,26.4,90,7.4,175,41,61,Moderate,3
+L0302,Potato,Bacterial Spot,0.49,6,2.56,27.1,55,7.3,194,115,166,Severe,3
+L0303,Tomato,Bacterial Spot,0.672,37,2.51,27.2,68,6.7,60,117,152,Severe,3
+L0304,Corn,Bacterial Spot,0.367,18,6.73,30.8,64,7.5,58,77,107,Severe,3
+L0305,Corn,Bacterial Spot,0.862,10,1.38,31.8,58,7.4,200,108,129,Moderate,3
+L0306,Corn,Bacterial Spot,0.408,44,1.54,21.5,58,7.4,195,64,176,Severe,3
+L0307,Grape,Bacterial Spot,0.409,43,7.84,23,81,6.1,181,106,64,Moderate,3
+L0308,Tomato,Bacterial Spot,0.945,31,7,20.2,53,6.1,132,51,213,Mild,3
+L0309,Potato,Bacterial Spot,0.675,36,2.52,25,73,5.7,73,71,171,Moderate,3
+L0310,Apple,Bacterial Spot,0.596,22,4.16,27.9,94,7.4,73,113,157,Severe,3
+L0311,Apple,Bacterial Spot,0.853,47,6.47,24.8,72,7.4,176,54,122,Severe,3
+L0312,Grape,Bacterial Spot,0.676,26,4.75,26.3,66,7.6,62,25,65,Moderate,3
+L0313,Tomato,Bacterial Spot,0.381,34,6.93,25.5,45,7.8,159,45,216,Severe,3
+L0314,Apple,Bacterial Spot,0.403,46,7.5,22.7,86,6.3,71,67,210,Mild,3
+L0315,Tomato,Bacterial Spot,0.558,15,2.79,29.9,59,6.5,73,110,64,Severe,3
+L0316,Corn,Bacterial Spot,0.351,18,4.95,26.8,73,5.5,137,35,148,Mild,3
+L0317,Corn,Bacterial Spot,0.346,13,3.37,30.4,51,5.7,144,58,75,Severe,3
+L0318,Potato,Bacterial Spot,0.344,13,4.72,28.4,55,6.5,104,100,78,Moderate,3
+L0319,Corn,Bacterial Spot,0.859,44,1.15,19.7,93,5.8,148,64,149,Moderate,3
+L0320,Potato,Bacterial Spot,0.48,13,1.13,27.4,83,7.2,122,119,216,Moderate,3
+L0321,Apple,Bacterial Spot,0.434,47,5.05,21.2,70,6.2,63,120,101,Mild,3
+L0322,Tomato,Bacterial Spot,0.457,29,5.29,19.2,45,7.8,131,36,139,Moderate,3
+L0323,Apple,Bacterial Spot,0.655,31,1.8,26,94,5.7,200,28,43,Severe,3
+L0324,Tomato,Bacterial Spot,0.9,18,7.62,24.8,63,6.9,178,118,146,Moderate,3
+L0325,Corn,Bacterial Spot,0.354,49,4.52,28.5,62,5.7,70,85,92,Moderate,3
+L0326,Apple,Bacterial Spot,0.554,39,5.26,32.2,88,7,129,109,151,Mild,3
+L0327,Tomato,Bacterial Spot,0.459,20,7.43,20,84,6.9,129,105,208,Severe,3
+L0328,Tomato,Bacterial Spot,0.308,16,1.53,18.2,76,7.7,183,86,106,Severe,3
+L0329,Potato,Bacterial Spot,0.787,28,7.05,30.5,52,7.3,57,62,149,Mild,3
+L0330,Tomato,Bacterial Spot,0.471,38,7.81,28.7,76,6.5,142,27,167,Moderate,3
+L0331,Apple,Bacterial Spot,0.402,15,6.3,33.2,88,7.2,108,114,170,Severe,3
+L0332,Tomato,Bacterial Spot,0.459,7,4.04,24.5,54,5.9,59,90,207,Mild,3
+L0333,Apple,Bacterial Spot,0.461,19,7.37,23.4,49,6.8,80,84,212,Moderate,3
+L0334,Potato,Bacterial Spot,0.823,16,7.86,34.2,49,7.5,122,119,119,Mild,3
+L0335,Grape,Bacterial Spot,0.597,10,3.27,23,95,6.2,112,79,134,Moderate,3
+L0336,Potato,Bacterial Spot,0.776,36,4.6,31.5,54,5.5,154,23,99,Severe,3
+L0337,Tomato,Bacterial Spot,0.918,27,0.51,29.2,92,7.2,76,46,175,Severe,3
+L0338,Corn,Bacterial Spot,0.925,31,7.79,20.4,62,5.7,109,86,145,Mild,3
+L0339,Corn,Bacterial Spot,0.933,28,1.14,19.6,53,7,150,29,191,Severe,3
+L0340,Corn,Bacterial Spot,0.731,8,1.48,23,65,7.6,150,109,123,Severe,3
+L0341,Apple,Bacterial Spot,0.452,33,7.58,20.3,94,6.8,89,33,82,Moderate,3
+L0342,Apple,Bacterial Spot,0.564,34,4.52,34.4,58,6.5,168,53,70,Moderate,3
+L0343,Apple,Bacterial Spot,0.837,15,5.73,18.7,65,5.8,113,65,141,Mild,3
+L0344,Apple,Bacterial Spot,0.469,8,7.93,18.5,70,7.5,192,115,180,Severe,3
+L0345,Corn,Bacterial Spot,0.366,11,6.45,20.1,48,7.4,106,36,90,Mild,3
+L0346,Tomato,Bacterial Spot,0.679,28,2.44,31.8,46,7.8,100,102,153,Moderate,3
+L0347,Apple,Bacterial Spot,0.38,10,7.57,18.9,81,6.5,151,83,47,Mild,3
+L0348,Corn,Bacterial Spot,0.412,48,2.11,21.2,62,6.5,88,24,197,Moderate,3
+L0349,Potato,Bacterial Spot,0.721,44,4.24,33,75,5.6,121,69,75,Severe,3
+L0350,Grape,Bacterial Spot,0.462,17,7.96,27.2,46,7.8,141,81,179,Moderate,3
+L0351,Grape,Bacterial Spot,0.627,27,3.41,21.1,65,6.9,57,119,111,Moderate,3
+L0352,Grape,Bacterial Spot,0.532,35,4.88,22,55,5.7,111,54,176,Mild,3
+L0353,Potato,Bacterial Spot,0.674,8,7.87,24.6,56,5.9,131,114,218,Severe,3
+L0354,Tomato,Bacterial Spot,0.757,42,3.14,27.7,54,6.8,98,83,178,Moderate,3
+L0355,Corn,Bacterial Spot,0.325,16,0.92,28.2,46,6.7,50,62,197,Moderate,3
+L0356,Apple,Bacterial Spot,0.766,13,7.39,32.4,65,5.6,87,95,220,Mild,3
+L0357,Grape,Bacterial Spot,0.859,12,7.7,24.4,87,6.4,75,63,117,Mild,3
+L0358,Potato,Bacterial Spot,0.776,13,3.78,28.9,76,7,94,110,183,Moderate,3
+L0359,Apple,Bacterial Spot,0.445,44,4.92,21,64,7.2,125,36,85,Severe,3
+L0360,Grape,Bacterial Spot,0.555,5,7.96,34.4,47,5.9,131,98,96,Severe,3
+L0361,Tomato,Bacterial Spot,0.909,41,1.55,30.7,60,6.3,131,41,202,Severe,3
+L0362,Apple,Bacterial Spot,0.59,50,2.49,22.2,49,6.3,77,112,40,Mild,3
+L0363,Corn,Bacterial Spot,0.776,29,7.77,33,76,7.5,139,89,136,Mild,3
+L0364,Grape,Bacterial Spot,0.723,35,5.65,20.8,49,7.3,58,57,45,Mild,3
+L0365,Tomato,Bacterial Spot,0.348,21,1.78,24.4,91,5.7,73,63,192,Moderate,3
+L0366,Tomato,Bacterial Spot,0.58,35,5.4,28.3,72,5.9,75,62,92,Severe,3
+L0367,Grape,Bacterial Spot,0.769,31,5.97,22.5,63,6.2,74,26,140,Mild,3
+L0368,Corn,Bacterial Spot,0.4,40,3.21,25.3,63,7.4,172,45,64,Severe,3
+L0369,Potato,Bacterial Spot,0.715,18,7.83,26.1,52,6.2,151,80,165,Mild,3
+L0370,Tomato,Bacterial Spot,0.717,21,3.41,24.3,69,6.3,164,25,107,Severe,3
+L0371,Apple,Bacterial Spot,0.447,34,2.51,19,93,7.1,74,30,211,Moderate,3
+L0372,Corn,Bacterial Spot,0.931,39,4.92,27.4,69,7.4,157,88,215,Moderate,3
+L0373,Potato,Bacterial Spot,0.61,41,1.09,33.3,90,5.6,196,86,186,Moderate,3
+L0374,Potato,Bacterial Spot,0.378,44,6.18,20.9,55,7.7,99,36,50,Severe,3
+L0375,Corn,Bacterial Spot,0.431,10,6.67,20.5,83,6.1,67,31,139,Moderate,3
+L0376,Grape,Bacterial Spot,0.512,30,2.57,25.8,45,7.3,200,86,147,Severe,3
+L0377,Potato,Bacterial Spot,0.396,31,4.91,30.9,51,7.6,194,119,65,Mild,3
+L0378,Apple,Bacterial Spot,0.871,39,2.48,29.1,81,6.9,59,42,110,Moderate,3
+L0379,Grape,Bacterial Spot,0.696,14,5.7,18.7,66,7.1,62,115,161,Moderate,3
+L0380,Tomato,Bacterial Spot,0.52,28,6.45,23.3,76,7.5,75,49,74,Moderate,3
+L0381,Apple,Bacterial Spot,0.475,33,3.63,29,57,6.5,154,114,164,Moderate,3
+L0382,Tomato,Bacterial Spot,0.635,28,1.69,23.3,77,6.4,184,92,47,Severe,3
+L0383,Potato,Bacterial Spot,0.844,17,2.37,25.8,68,7.1,120,67,158,Mild,3
+L0384,Tomato,Bacterial Spot,0.743,30,2.31,26.3,73,5.9,171,95,181,Severe,3
+L0385,Potato,Bacterial Spot,0.844,27,2.44,32.1,50,6.2,148,26,81,Moderate,3
+L0386,Potato,Bacterial Spot,0.721,18,5.58,22.6,71,6.7,52,80,73,Severe,3
+L0387,Grape,Bacterial Spot,0.821,16,2.18,28.3,64,7.1,120,74,136,Severe,3
+L0388,Apple,Bacterial Spot,0.442,34,2.77,26.9,84,6.4,76,20,170,Moderate,3
+L0389,Grape,Bacterial Spot,0.721,28,5.07,23.1,51,6.6,136,55,203,Severe,3
+L0390,Apple,Bacterial Spot,0.726,22,7.64,29.1,57,5.8,111,27,193,Moderate,3
+L0391,Apple,Bacterial Spot,0.742,47,5.91,29.1,63,6.1,157,71,139,Moderate,3
+L0392,Grape,Bacterial Spot,0.76,7,4.79,21.2,91,7.1,186,101,161,Severe,3
+L0393,Grape,Bacterial Spot,0.495,27,1.77,29.2,80,5.9,74,80,72,Severe,3
+L0394,Grape,Bacterial Spot,0.796,21,1.87,29.6,66,7,106,65,97,Severe,3
+L0395,Corn,Bacterial Spot,0.812,24,2.98,22.4,63,6.6,80,80,53,Severe,3
+L0396,Grape,Bacterial Spot,0.914,42,1.03,33.1,77,5.8,147,87,116,Severe,3
+L0397,Potato,Bacterial Spot,0.389,8,2,25,81,7.6,167,38,120,Moderate,3
+L0398,Tomato,Bacterial Spot,0.617,16,5.23,21,85,5.6,165,55,93,Severe,3
+L0399,Potato,Bacterial Spot,0.618,41,6.23,19.5,84,6.5,159,71,149,Mild,3
+L0400,Tomato,Bacterial Spot,0.325,29,2,24.3,45,7.6,185,44,44,Moderate,3
+L0401,Potato,Leaf Mold,0.447,5,7.08,23.3,51,6.4,200,59,82,Severe,4
+L0402,Apple,Leaf Mold,0.917,7,3.92,26.8,78,6.3,84,63,165,Mild,4
+L0403,Potato,Leaf Mold,0.916,17,7.39,24.9,59,6,83,47,45,Moderate,4
+L0404,Potato,Leaf Mold,0.38,37,5.83,31.5,69,7.5,115,118,176,Severe,4
+L0405,Grape,Leaf Mold,0.947,8,5.46,29.1,46,5.6,79,73,153,Severe,4
+L0406,Grape,Leaf Mold,0.464,12,5.76,21.5,88,6.9,127,73,209,Moderate,4
+L0407,Grape,Leaf Mold,0.475,47,5.04,20.3,51,6.7,80,56,69,Mild,4
+L0408,Potato,Leaf Mold,0.696,36,6.33,32.1,57,6.3,154,57,81,Mild,4
+L0409,Corn,Leaf Mold,0.892,40,5.66,26.2,60,5.5,72,34,186,Mild,4
+L0410,Potato,Leaf Mold,0.917,36,6.35,19.3,91,5.7,115,102,99,Severe,4
+L0411,Apple,Leaf Mold,0.602,23,1.25,21,47,7.5,142,106,120,Moderate,4
+L0412,Tomato,Leaf Mold,0.853,12,7.18,18.2,53,7,93,62,131,Moderate,4
+L0413,Apple,Leaf Mold,0.871,44,1.2,31.9,56,5.8,152,78,109,Moderate,4
+L0414,Corn,Leaf Mold,0.82,49,5.37,31.5,52,5.8,65,40,66,Moderate,4
+L0415,Corn,Leaf Mold,0.821,42,5.59,21.1,69,7.3,57,107,73,Moderate,4
+L0416,Tomato,Leaf Mold,0.877,36,3.81,19.1,86,6.2,184,118,187,Moderate,4
+L0417,Potato,Leaf Mold,0.936,41,5.52,23.8,78,7.1,74,75,209,Severe,4
+L0418,Corn,Leaf Mold,0.525,20,5.57,24.5,80,7.6,63,21,204,Severe,4
+L0419,Corn,Leaf Mold,0.854,37,7.02,19.3,76,6.2,134,55,52,Mild,4
+L0420,Grape,Leaf Mold,0.718,19,3.52,22,74,6.5,196,77,62,Severe,4
+L0421,Apple,Leaf Mold,0.377,33,4.23,29.1,51,6.4,59,91,180,Moderate,4
+L0422,Grape,Leaf Mold,0.926,10,5.28,33.1,80,6,166,63,133,Mild,4
+L0423,Corn,Leaf Mold,0.516,19,6.26,28.2,90,7,165,34,64,Mild,4
+L0424,Tomato,Leaf Mold,0.522,19,6.72,34.4,63,6.8,145,109,67,Severe,4
+L0425,Corn,Leaf Mold,0.391,15,5.88,30.3,51,6.1,100,44,70,Mild,4
+L0426,Corn,Leaf Mold,0.836,18,1.93,23.7,93,6.5,200,35,155,Moderate,4
+L0427,Grape,Leaf Mold,0.922,47,1.51,26.5,78,7.2,191,75,189,Moderate,4
+L0428,Potato,Leaf Mold,0.75,37,1.8,31.9,51,6.4,132,84,138,Moderate,4
+L0429,Potato,Leaf Mold,0.478,43,7.73,34.5,73,7.4,85,72,194,Moderate,4
+L0430,Apple,Leaf Mold,0.848,37,4.61,23.3,92,7.7,105,45,93,Severe,4
+L0431,Apple,Leaf Mold,0.746,50,7.41,20.3,90,7,95,84,178,Severe,4
+L0432,Apple,Leaf Mold,0.762,45,6.21,27.6,82,6.8,156,106,176,Severe,4
+L0433,Tomato,Leaf Mold,0.64,32,0.69,20.5,87,5.6,118,116,81,Moderate,4
+L0434,Apple,Leaf Mold,0.395,48,0.97,31.3,58,7.2,58,65,155,Moderate,4
+L0435,Grape,Leaf Mold,0.862,44,6.07,27.5,60,6.7,123,108,210,Mild,4
+L0436,Corn,Leaf Mold,0.571,29,6.41,29.6,80,5.6,114,45,198,Mild,4
+L0437,Apple,Leaf Mold,0.791,19,4.6,28.3,94,7.2,99,57,154,Moderate,4
+L0438,Tomato,Leaf Mold,0.422,48,1.8,26.7,69,5.6,121,91,107,Mild,4
+L0439,Grape,Leaf Mold,0.85,15,0.54,25.9,54,5.6,132,96,53,Mild,4
+L0440,Apple,Leaf Mold,0.619,44,4.8,24.1,95,7.1,184,48,87,Severe,4
+L0441,Grape,Leaf Mold,0.404,9,4.57,24.9,67,6,104,104,124,Severe,4
+L0442,Apple,Leaf Mold,0.442,28,6.14,27,80,7.4,52,34,211,Moderate,4
+L0443,Potato,Leaf Mold,0.888,33,5.1,28.6,47,7.1,132,68,69,Moderate,4
+L0444,Grape,Leaf Mold,0.771,21,0.69,26.8,94,6.4,180,77,164,Moderate,4
+L0445,Potato,Leaf Mold,0.508,23,1.12,19.6,94,6.7,51,100,56,Mild,4
+L0446,Potato,Leaf Mold,0.862,47,3.68,19.8,79,7.4,161,102,58,Mild,4
+L0447,Potato,Leaf Mold,0.315,48,5.88,18.6,49,5.6,114,91,58,Severe,4
+L0448,Apple,Leaf Mold,0.565,19,3.88,24.9,65,5.5,80,88,41,Severe,4
+L0449,Tomato,Leaf Mold,0.791,44,4.89,29.9,49,6.3,178,33,114,Severe,4
+L0450,Grape,Leaf Mold,0.356,24,6.24,25.4,70,7.4,57,80,80,Severe,4
+L0451,Potato,Leaf Mold,0.785,19,6.48,32.4,63,7.7,86,58,213,Severe,4
+L0452,Apple,Leaf Mold,0.922,46,0.58,32.9,54,5.8,51,93,192,Severe,4
+L0453,Grape,Leaf Mold,0.916,39,2.79,30.7,91,6.3,155,102,171,Moderate,4
+L0454,Potato,Leaf Mold,0.444,15,6.76,21.3,56,7,195,26,180,Mild,4
+L0455,Grape,Leaf Mold,0.348,46,5.54,22.3,57,7.2,174,62,131,Moderate,4
+L0456,Potato,Leaf Mold,0.365,47,5.15,33.3,65,6.6,134,98,208,Mild,4
+L0457,Grape,Leaf Mold,0.399,49,4.75,31.7,72,5.9,130,51,96,Moderate,4
+L0458,Corn,Leaf Mold,0.48,46,3.2,29.6,66,7.5,168,77,131,Severe,4
+L0459,Grape,Leaf Mold,0.371,36,5.34,19.4,62,7.5,85,88,90,Moderate,4
+L0460,Tomato,Leaf Mold,0.773,45,7.19,32.4,85,5.6,198,94,143,Moderate,4
+L0461,Tomato,Leaf Mold,0.659,18,4.58,35,75,7,88,66,140,Severe,4
+L0462,Apple,Leaf Mold,0.387,42,4.26,19.5,68,6.7,111,98,215,Mild,4
+L0463,Potato,Leaf Mold,0.59,37,1.84,34.1,87,7.5,87,114,163,Mild,4
+L0464,Potato,Leaf Mold,0.795,7,2.24,22.5,59,5.6,102,86,132,Moderate,4
+L0465,Corn,Leaf Mold,0.873,35,0.8,29,51,7.1,183,101,110,Moderate,4
+L0466,Grape,Leaf Mold,0.654,21,1.8,29.1,68,6.9,69,86,104,Severe,4
+L0467,Grape,Leaf Mold,0.564,19,6.63,23.9,95,6.6,51,84,75,Moderate,4
+L0468,Potato,Leaf Mold,0.35,15,5.33,21.6,56,5.9,80,104,98,Moderate,4
+L0469,Tomato,Leaf Mold,0.613,26,4.09,21.6,55,7,155,22,102,Moderate,4
+L0470,Grape,Leaf Mold,0.685,13,1.51,26.7,81,5.8,92,53,86,Mild,4
+L0471,Grape,Leaf Mold,0.93,30,5.28,32.9,91,7,122,30,95,Severe,4
+L0472,Corn,Leaf Mold,0.864,43,1.78,32.1,83,5.8,199,118,86,Moderate,4
+L0473,Grape,Leaf Mold,0.472,47,5.93,23.8,74,6.9,67,49,136,Severe,4
+L0474,Tomato,Leaf Mold,0.311,13,4.42,33.5,88,6.5,88,97,64,Moderate,4
+L0475,Grape,Leaf Mold,0.69,35,7.08,27,93,5.8,173,104,73,Mild,4
+L0476,Tomato,Leaf Mold,0.883,39,6.31,29,78,6.5,61,109,175,Severe,4
+L0477,Corn,Leaf Mold,0.813,19,3.36,28,92,7.6,197,32,148,Moderate,4
+L0478,Corn,Leaf Mold,0.798,21,7.33,19.4,83,7.5,154,52,88,Mild,4
+L0479,Tomato,Leaf Mold,0.676,50,1.38,18.1,86,6,130,72,132,Mild,4
+L0480,Corn,Leaf Mold,0.724,14,2.4,32.5,72,6.8,120,107,141,Mild,4
+L0481,Grape,Leaf Mold,0.809,31,4.12,24.3,80,6.6,128,93,128,Mild,4
+L0482,Potato,Leaf Mold,0.856,30,5.44,30.7,73,7.3,91,32,94,Severe,4
+L0483,Apple,Leaf Mold,0.821,30,5.11,29.6,48,5.9,51,31,77,Severe,4
+L0484,Corn,Leaf Mold,0.357,43,2.47,24.3,83,5.6,148,71,197,Moderate,4
+L0485,Apple,Leaf Mold,0.763,38,4.98,34.1,56,7,162,21,91,Severe,4
+L0486,Apple,Leaf Mold,0.427,38,6.38,26.7,89,6,93,106,49,Severe,4
+L0487,Tomato,Leaf Mold,0.934,20,1.15,22.7,70,6.3,151,71,190,Moderate,4
+L0488,Tomato,Leaf Mold,0.779,38,1.01,19.5,63,7.2,193,94,129,Mild,4
+L0489,Potato,Leaf Mold,0.694,22,1.96,33.8,81,5.5,94,72,169,Moderate,4
+L0490,Tomato,Leaf Mold,0.627,40,3.05,20,77,7.7,187,93,104,Mild,4
+L0491,Corn,Leaf Mold,0.666,33,6.27,30.9,94,6.6,167,95,47,Severe,4
+L0492,Apple,Leaf Mold,0.344,12,5.25,34.9,88,7.1,130,72,130,Moderate,4
+L0493,Tomato,Leaf Mold,0.756,39,2.48,22.9,70,7,137,29,181,Severe,4
+L0494,Apple,Leaf Mold,0.53,35,7.21,22.6,92,7.1,98,83,91,Mild,4
+L0495,Apple,Leaf Mold,0.434,20,2.02,22.2,84,6.3,77,35,60,Mild,4
+L0496,Corn,Leaf Mold,0.699,47,6.23,27.2,47,7.5,145,99,120,Severe,4
+L0497,Apple,Leaf Mold,0.619,41,7.88,33.6,62,6.4,197,36,53,Moderate,4
+L0498,Corn,Leaf Mold,0.911,32,0.74,23.9,88,7.3,167,35,218,Severe,4
+L0499,Apple,Leaf Mold,0.748,34,0.59,21.6,82,5.7,142,98,106,Severe,4
+L0500,Apple,Leaf Mold,0.454,40,4.04,28.4,68,5.9,158,46,147,Mild,4
+L0501,Apple,Septoria Leaf Spot,0.855,28,2.6,21.1,53,7.8,108,32,109,Severe,5
+L0502,Corn,Septoria Leaf Spot,0.857,40,1.97,31.6,92,5.8,52,42,147,Mild,5
+L0503,Grape,Septoria Leaf Spot,0.647,13,2.87,26.3,61,6.8,195,26,141,Moderate,5
+L0504,Potato,Septoria Leaf Spot,0.339,49,6.6,26.1,85,5.7,135,53,132,Mild,5
+L0505,Grape,Septoria Leaf Spot,0.906,40,2.43,18.3,52,6.3,100,93,187,Moderate,5
+L0506,Grape,Septoria Leaf Spot,0.413,46,6.35,24,88,6.7,164,30,137,Severe,5
+L0507,Corn,Septoria Leaf Spot,0.711,23,1.59,20.8,66,6.5,196,71,58,Severe,5
+L0508,Apple,Septoria Leaf Spot,0.448,15,2.88,23,62,6.9,151,54,153,Mild,5
+L0509,Grape,Septoria Leaf Spot,0.928,42,3.6,21.1,46,5.8,110,104,104,Moderate,5
+L0510,Tomato,Septoria Leaf Spot,0.437,49,3.48,19.6,75,6.8,56,118,141,Severe,5
+L0511,Tomato,Septoria Leaf Spot,0.471,10,1.66,29.1,69,6.2,113,114,112,Severe,5
+L0512,Potato,Septoria Leaf Spot,0.385,45,6.79,18.5,87,6.3,133,80,159,Moderate,5
+L0513,Grape,Septoria Leaf Spot,0.589,22,7.77,29.9,56,6.9,166,100,202,Severe,5
+L0514,Grape,Septoria Leaf Spot,0.716,32,4.5,33.5,75,6.7,72,76,118,Severe,5
+L0515,Apple,Septoria Leaf Spot,0.401,31,0.58,26.9,93,7.5,138,56,160,Moderate,5
+L0516,Corn,Septoria Leaf Spot,0.916,5,4.08,18.2,72,7.3,109,20,180,Severe,5
+L0517,Corn,Septoria Leaf Spot,0.873,17,3.78,22.2,90,7.2,149,68,96,Moderate,5
+L0518,Corn,Septoria Leaf Spot,0.706,10,4.37,31.6,84,7.4,119,56,206,Moderate,5
+L0519,Apple,Septoria Leaf Spot,0.568,39,6.9,21.1,63,5.8,166,99,155,Severe,5
+L0520,Grape,Septoria Leaf Spot,0.62,49,2.9,20.6,79,5.6,76,56,108,Moderate,5
+L0521,Corn,Septoria Leaf Spot,0.773,50,2.25,20.6,76,6,157,59,167,Mild,5
+L0522,Tomato,Septoria Leaf Spot,0.515,34,6.83,34.2,48,6.1,150,29,179,Moderate,5
+L0523,Potato,Septoria Leaf Spot,0.882,16,2.38,24.5,45,5.8,113,69,153,Moderate,5
+L0524,Potato,Septoria Leaf Spot,0.6,7,6.28,26.9,58,6.6,129,61,80,Mild,5
+L0525,Grape,Septoria Leaf Spot,0.639,7,2.4,28.9,57,6.3,63,105,95,Severe,5
+L0526,Corn,Septoria Leaf Spot,0.511,20,1.76,22.7,52,6.4,112,21,50,Mild,5
+L0527,Corn,Septoria Leaf Spot,0.747,49,1.66,31.1,60,5.9,73,107,198,Severe,5
+L0528,Tomato,Septoria Leaf Spot,0.339,45,5.33,29.9,95,5.7,174,49,121,Moderate,5
+L0529,Apple,Septoria Leaf Spot,0.824,46,3.79,21.3,89,6.4,84,52,50,Severe,5
+L0530,Corn,Septoria Leaf Spot,0.663,50,4.57,26.3,81,5.9,139,61,159,Moderate,5
+L0531,Grape,Septoria Leaf Spot,0.404,43,4.48,25.6,61,6.7,166,20,203,Moderate,5
+L0532,Potato,Septoria Leaf Spot,0.874,29,5.15,24.2,84,6,66,104,177,Severe,5
+L0533,Grape,Septoria Leaf Spot,0.744,17,6.24,20.6,63,6.2,132,34,64,Moderate,5
+L0534,Tomato,Septoria Leaf Spot,0.328,47,7.53,21,47,6,174,44,65,Severe,5
+L0535,Corn,Septoria Leaf Spot,0.728,41,4.44,29.9,61,5.6,106,97,58,Mild,5
+L0536,Corn,Septoria Leaf Spot,0.903,18,6.74,26,85,5.6,192,115,146,Mild,5
+L0537,Tomato,Septoria Leaf Spot,0.835,50,2.49,18.7,49,7.4,69,47,172,Moderate,5
+L0538,Potato,Septoria Leaf Spot,0.646,11,1.92,26.9,60,6.8,95,91,182,Mild,5
+L0539,Grape,Septoria Leaf Spot,0.533,11,3.94,29.3,51,5.9,96,90,142,Moderate,5
+L0540,Potato,Septoria Leaf Spot,0.647,26,5,33.9,65,6.8,133,67,145,Severe,5
+L0541,Apple,Septoria Leaf Spot,0.695,32,4.72,21.6,94,6.8,115,66,155,Severe,5
+L0542,Tomato,Septoria Leaf Spot,0.772,30,7.87,28.1,78,5.8,127,20,116,Moderate,5
+L0543,Apple,Septoria Leaf Spot,0.314,18,6.66,29.7,62,7.6,180,91,186,Mild,5
+L0544,Tomato,Septoria Leaf Spot,0.325,14,3.17,20.4,68,7.5,113,49,105,Severe,5
+L0545,Grape,Septoria Leaf Spot,0.56,10,7.38,30.5,91,6.2,173,42,164,Moderate,5
+L0546,Grape,Septoria Leaf Spot,0.833,49,1.22,28.9,47,7.2,197,68,60,Severe,5
+L0547,Apple,Septoria Leaf Spot,0.872,26,3.76,33.8,52,7.5,108,115,207,Mild,5
+L0548,Corn,Septoria Leaf Spot,0.335,5,4.43,23.4,81,5.8,178,109,96,Severe,5
+L0549,Corn,Septoria Leaf Spot,0.931,8,6.15,27.8,50,6,124,120,140,Mild,5
+L0550,Apple,Septoria Leaf Spot,0.354,13,4.79,18.8,70,6.1,152,84,151,Mild,5
+L0551,Potato,Septoria Leaf Spot,0.613,13,1.99,24.7,81,6,184,51,102,Severe,5
+L0552,Corn,Septoria Leaf Spot,0.51,22,7.43,19.5,87,6.5,143,64,88,Mild,5
+L0553,Grape,Septoria Leaf Spot,0.726,27,6.27,20.9,67,6.9,163,99,77,Moderate,5
+L0554,Potato,Septoria Leaf Spot,0.43,7,3.3,30.9,50,5.8,63,51,198,Moderate,5
+L0555,Tomato,Septoria Leaf Spot,0.523,23,6.53,23.2,75,5.6,103,114,177,Mild,5
+L0556,Grape,Septoria Leaf Spot,0.64,18,2.44,26.2,91,7.8,54,68,189,Mild,5
+L0557,Tomato,Septoria Leaf Spot,0.466,38,0.95,21.4,89,6.9,63,79,207,Severe,5
+L0558,Corn,Septoria Leaf Spot,0.729,9,5.47,33.5,68,7.5,54,57,206,Mild,5
+L0559,Corn,Septoria Leaf Spot,0.631,19,5.82,33.4,76,7.5,186,31,87,Moderate,5
+L0560,Corn,Septoria Leaf Spot,0.664,37,5.84,18.7,78,6.2,175,70,80,Mild,5
+L0561,Apple,Septoria Leaf Spot,0.531,27,2.77,34.9,77,6.1,65,100,105,Mild,5
+L0562,Grape,Septoria Leaf Spot,0.917,6,2.19,23.8,70,7,72,113,137,Moderate,5
+L0563,Grape,Septoria Leaf Spot,0.867,48,5.65,25.1,81,5.9,129,97,124,Severe,5
+L0564,Potato,Septoria Leaf Spot,0.434,39,1.54,27.2,57,7.5,129,108,220,Moderate,5
+L0565,Corn,Septoria Leaf Spot,0.947,13,7.82,20.5,81,7.6,131,28,182,Severe,5
+L0566,Potato,Septoria Leaf Spot,0.506,12,7.1,30.4,93,6.2,155,72,117,Severe,5
+L0567,Apple,Septoria Leaf Spot,0.399,45,1.91,20.2,46,7.3,118,97,185,Moderate,5
+L0568,Grape,Septoria Leaf Spot,0.451,19,5.66,24.1,89,7.3,84,84,194,Severe,5
+L0569,Apple,Septoria Leaf Spot,0.42,50,3.41,26.1,55,5.9,58,72,43,Moderate,5
+L0570,Potato,Septoria Leaf Spot,0.783,31,7.91,30.9,49,5.9,162,98,165,Moderate,5
+L0571,Corn,Septoria Leaf Spot,0.877,25,3.71,31.2,83,7.2,147,112,120,Severe,5
+L0572,Grape,Septoria Leaf Spot,0.686,44,4.44,32.9,95,5.6,77,77,156,Moderate,5
+L0573,Grape,Septoria Leaf Spot,0.65,20,7.88,18.7,69,6.7,62,44,114,Mild,5
+L0574,Apple,Septoria Leaf Spot,0.803,30,2.64,20.8,63,6.9,63,108,172,Moderate,5
+L0575,Corn,Septoria Leaf Spot,0.359,34,4.25,21.1,82,7.7,189,37,140,Mild,5
+L0576,Corn,Septoria Leaf Spot,0.316,25,3.9,33.2,57,7.5,73,52,122,Moderate,5
+L0577,Potato,Septoria Leaf Spot,0.767,46,1.43,19.9,73,7,71,87,138,Severe,5
+L0578,Grape,Septoria Leaf Spot,0.917,37,3.34,24.5,94,5.9,135,92,208,Severe,5
+L0579,Potato,Septoria Leaf Spot,0.416,15,5.84,25.1,64,7.2,164,56,200,Mild,5
+L0580,Potato,Septoria Leaf Spot,0.924,12,0.53,31,45,6.6,177,89,41,Mild,5
+L0581,Potato,Septoria Leaf Spot,0.441,36,5.45,25.7,73,5.7,51,51,180,Severe,5
+L0582,Grape,Septoria Leaf Spot,0.833,44,2.06,21.1,48,7,59,38,48,Moderate,5
+L0583,Grape,Septoria Leaf Spot,0.494,41,7.4,18.8,71,7.8,91,106,112,Severe,5
+L0584,Grape,Septoria Leaf Spot,0.672,47,4.72,34.4,92,6.8,59,31,116,Severe,5
+L0585,Corn,Septoria Leaf Spot,0.833,28,6.19,32.3,49,6.2,84,35,217,Moderate,5
+L0586,Grape,Septoria Leaf Spot,0.569,26,2.07,21.6,48,5.8,185,31,163,Moderate,5
+L0587,Grape,Septoria Leaf Spot,0.907,49,7.9,22.9,83,7.4,116,87,187,Severe,5
+L0588,Potato,Septoria Leaf Spot,0.699,27,4.22,30.4,76,6.6,96,98,99,Severe,5
+L0589,Potato,Septoria Leaf Spot,0.301,23,0.68,28.6,52,7.2,103,98,146,Severe,5
+L0590,Apple,Septoria Leaf Spot,0.527,7,6.55,21.6,85,6,122,52,57,Moderate,5
+L0591,Grape,Septoria Leaf Spot,0.657,24,6.25,19.9,66,6.3,195,98,47,Moderate,5
+L0592,Apple,Septoria Leaf Spot,0.842,17,7.42,26.1,75,7.3,84,81,79,Mild,5
+L0593,Grape,Septoria Leaf Spot,0.882,34,3.97,31.8,92,5.6,183,58,184,Severe,5
+L0594,Apple,Septoria Leaf Spot,0.661,48,0.64,27.8,66,7.3,140,28,78,Severe,5
+L0595,Apple,Septoria Leaf Spot,0.939,6,5.2,32.3,81,6.9,97,96,69,Moderate,5
+L0596,Apple,Septoria Leaf Spot,0.761,50,2.54,19.5,60,6.4,127,47,174,Moderate,5
+L0597,Tomato,Septoria Leaf Spot,0.543,16,0.78,21.4,50,6.5,56,81,168,Moderate,5
+L0598,Apple,Septoria Leaf Spot,0.9,17,5.99,26.9,94,6.3,75,86,213,Mild,5
+L0599,Tomato,Septoria Leaf Spot,0.599,18,5.85,26.9,45,6.2,61,107,192,Mild,5
+L0600,Corn,Septoria Leaf Spot,0.878,26,1.27,31,92,6.2,197,117,119,Mild,5
+L0601,Apple,Powdery Mildew,0.43,18,2.65,27,94,6.5,80,54,78,Severe,6
+L0602,Tomato,Powdery Mildew,0.31,22,5.17,26.7,58,6.7,190,60,109,Mild,6
+L0603,Apple,Powdery Mildew,0.673,50,1.78,23.3,66,6.7,62,36,47,Mild,6
+L0604,Tomato,Powdery Mildew,0.369,48,0.9,25.2,56,7.1,164,98,131,Moderate,6
+L0605,Potato,Powdery Mildew,0.763,26,5.53,27.1,93,7.3,195,36,63,Moderate,6
+L0606,Tomato,Powdery Mildew,0.596,34,5.63,30.1,74,6.6,107,38,197,Severe,6
+L0607,Corn,Powdery Mildew,0.419,28,7.38,23.6,65,6.5,57,28,161,Moderate,6
+L0608,Corn,Powdery Mildew,0.6,27,1.78,31.1,83,6.8,180,33,143,Mild,6
+L0609,Apple,Powdery Mildew,0.661,11,1.03,23.1,74,6.4,155,50,198,Severe,6
+L0610,Potato,Powdery Mildew,0.933,40,3.38,23.8,89,6.9,161,92,127,Mild,6
+L0611,Potato,Powdery Mildew,0.413,49,5.52,30.6,90,6.8,174,34,191,Severe,6
+L0612,Apple,Powdery Mildew,0.661,34,6.67,21,70,5.7,77,107,192,Severe,6
+L0613,Corn,Powdery Mildew,0.719,25,0.96,21.7,53,7.5,50,116,77,Moderate,6
+L0614,Corn,Powdery Mildew,0.645,14,3.42,27.8,57,6,131,58,185,Severe,6
+L0615,Corn,Powdery Mildew,0.767,24,7.36,34.8,82,5.5,180,71,72,Severe,6
+L0616,Apple,Powdery Mildew,0.886,8,7.76,18,80,7.4,141,34,112,Moderate,6
+L0617,Corn,Powdery Mildew,0.756,20,3.46,23.4,69,6.4,161,89,94,Mild,6
+L0618,Corn,Powdery Mildew,0.39,16,4.67,32.3,68,7.4,89,56,211,Severe,6
+L0619,Tomato,Powdery Mildew,0.347,13,0.62,30.3,76,7,84,30,75,Mild,6
+L0620,Corn,Powdery Mildew,0.881,31,5.72,33.8,84,5.9,180,74,181,Severe,6
+L0621,Apple,Powdery Mildew,0.447,29,3.69,18.1,76,7.4,110,111,168,Moderate,6
+L0622,Grape,Powdery Mildew,0.675,31,0.75,18.6,75,7.1,78,94,163,Moderate,6
+L0623,Potato,Powdery Mildew,0.775,10,4.45,32.6,93,7.3,169,86,60,Severe,6
+L0624,Tomato,Powdery Mildew,0.459,44,5.23,29.3,87,5.7,188,94,119,Severe,6
+L0625,Apple,Powdery Mildew,0.648,8,0.58,25.7,75,6.8,134,73,130,Severe,6
+L0626,Potato,Powdery Mildew,0.323,23,7.42,30.7,91,7.3,116,27,201,Moderate,6
+L0627,Potato,Powdery Mildew,0.672,42,5.42,23,92,6.9,123,82,61,Moderate,6
+L0628,Tomato,Powdery Mildew,0.853,37,2.58,20.3,62,6.1,115,21,68,Mild,6
+L0629,Grape,Powdery Mildew,0.78,16,5.44,24.3,56,6.1,110,82,86,Severe,6
+L0630,Apple,Powdery Mildew,0.94,7,7.76,28.1,54,7.4,155,118,138,Severe,6
+L0631,Corn,Powdery Mildew,0.772,47,1.75,27.8,67,5.6,117,116,69,Mild,6
+L0632,Corn,Powdery Mildew,0.559,15,2.76,30.7,93,7.6,109,68,214,Mild,6
+L0633,Corn,Powdery Mildew,0.471,29,4.48,25.4,63,7.6,164,68,213,Severe,6
+L0634,Tomato,Powdery Mildew,0.363,38,4.48,24,72,6.9,119,62,109,Moderate,6
+L0635,Apple,Powdery Mildew,0.725,11,3.43,31.1,92,6.1,200,118,89,Moderate,6
+L0636,Potato,Powdery Mildew,0.504,26,0.58,18.1,49,5.5,75,87,66,Severe,6
+L0637,Apple,Powdery Mildew,0.443,33,2.62,21.3,46,6.9,64,96,208,Severe,6
+L0638,Tomato,Powdery Mildew,0.76,43,1.4,32.6,53,6.4,194,43,68,Mild,6
+L0639,Apple,Powdery Mildew,0.491,16,5.45,19.3,74,7.6,120,118,149,Severe,6
+L0640,Apple,Powdery Mildew,0.467,47,6.36,22.7,48,6.4,135,27,106,Severe,6
+L0641,Corn,Powdery Mildew,0.345,16,7.85,21.4,70,5.9,175,33,76,Moderate,6
+L0642,Potato,Powdery Mildew,0.699,32,1.3,25.5,61,5.7,68,29,186,Severe,6
+L0643,Corn,Powdery Mildew,0.312,21,4.23,29.1,45,7.6,149,54,78,Severe,6
+L0644,Corn,Powdery Mildew,0.674,26,4.37,34,76,6.6,153,113,57,Severe,6
+L0645,Tomato,Powdery Mildew,0.55,19,5.67,31.3,52,6.8,141,62,214,Severe,6
+L0646,Tomato,Powdery Mildew,0.711,30,7.69,19.5,79,7.5,137,30,157,Moderate,6
+L0647,Potato,Powdery Mildew,0.415,46,0.79,24.5,57,6.2,149,33,201,Moderate,6
+L0648,Corn,Powdery Mildew,0.355,27,5.25,30.5,53,5.6,56,112,191,Severe,6
+L0649,Corn,Powdery Mildew,0.341,36,4.55,23.2,79,7.7,165,22,49,Mild,6
+L0650,Apple,Powdery Mildew,0.812,8,0.82,20,86,7,167,106,177,Moderate,6
+L0651,Potato,Powdery Mildew,0.901,42,0.78,20.4,86,5.5,61,51,219,Mild,6
+L0652,Tomato,Powdery Mildew,0.412,13,0.87,23.2,95,5.7,93,95,56,Severe,6
+L0653,Corn,Powdery Mildew,0.687,12,5.12,19.1,57,6.5,152,61,70,Mild,6
+L0654,Grape,Powdery Mildew,0.389,41,6.77,31.5,93,5.6,94,62,56,Severe,6
+L0655,Potato,Powdery Mildew,0.792,22,1.76,24.3,55,6.5,198,25,74,Mild,6
+L0656,Grape,Powdery Mildew,0.544,45,1.68,33,50,5.5,95,31,220,Mild,6
+L0657,Apple,Powdery Mildew,0.571,42,6.56,31.1,89,5.8,86,101,109,Severe,6
+L0658,Corn,Powdery Mildew,0.456,33,1.81,29.8,83,5.9,177,98,62,Severe,6
+L0659,Apple,Powdery Mildew,0.572,24,4.68,21.3,78,7.7,142,117,178,Severe,6
+L0660,Corn,Powdery Mildew,0.801,19,5.44,22.7,57,5.8,88,107,161,Severe,6
+L0661,Potato,Powdery Mildew,0.736,16,0.82,29,63,6,114,62,197,Moderate,6
+L0662,Tomato,Powdery Mildew,0.781,7,7.44,21,95,5.6,181,34,58,Moderate,6
+L0663,Grape,Powdery Mildew,0.677,33,3.64,30.7,65,6,78,61,98,Mild,6
+L0664,Corn,Powdery Mildew,0.865,20,3.32,21.8,75,6.8,63,75,77,Mild,6
+L0665,Corn,Powdery Mildew,0.416,44,3.3,25.8,57,7,119,45,125,Mild,6
+L0666,Grape,Powdery Mildew,0.339,7,1.52,32.5,74,6.5,137,48,115,Mild,6
+L0667,Grape,Powdery Mildew,0.889,15,4.84,27.4,59,5.7,183,82,95,Severe,6
+L0668,Corn,Powdery Mildew,0.481,35,5.98,30.5,60,6.1,161,94,96,Severe,6
+L0669,Grape,Powdery Mildew,0.884,14,3.63,18.8,75,7.2,179,24,148,Severe,6
+L0670,Corn,Powdery Mildew,0.826,30,5.72,19.7,76,6.1,192,116,43,Severe,6
+L0671,Potato,Powdery Mildew,0.386,31,2.72,29,50,5.5,128,40,220,Severe,6
+L0672,Grape,Powdery Mildew,0.316,41,3.91,31.1,90,6.4,144,100,158,Moderate,6
+L0673,Tomato,Powdery Mildew,0.859,45,1.03,33.2,66,6.7,125,74,109,Severe,6
+L0674,Grape,Powdery Mildew,0.674,44,2.05,29.6,84,7.5,64,85,212,Severe,6
+L0675,Tomato,Powdery Mildew,0.549,8,3.99,18.7,68,5.9,193,110,57,Moderate,6
+L0676,Potato,Powdery Mildew,0.39,50,3.01,27.2,86,6.6,198,109,93,Severe,6
+L0677,Apple,Powdery Mildew,0.529,19,2.51,29.6,62,5.6,145,64,155,Severe,6
+L0678,Grape,Powdery Mildew,0.839,37,4.03,27,79,7.6,165,99,134,Moderate,6
+L0679,Tomato,Powdery Mildew,0.422,49,7.13,19.5,70,7.6,123,29,67,Severe,6
+L0680,Tomato,Powdery Mildew,0.753,22,4.22,32.9,78,7.7,55,57,146,Mild,6
+L0681,Potato,Powdery Mildew,0.608,39,3.65,30.5,46,6.2,66,22,99,Severe,6
+L0682,Apple,Powdery Mildew,0.568,46,3.07,29,65,6.6,185,90,153,Severe,6
+L0683,Grape,Powdery Mildew,0.386,24,6.42,20.9,61,6,145,56,52,Moderate,6
+L0684,Apple,Powdery Mildew,0.596,27,1.75,33.7,90,6.7,96,42,217,Mild,6
+L0685,Potato,Powdery Mildew,0.455,14,0.81,23.4,53,6.5,144,43,92,Severe,6
+L0686,Tomato,Powdery Mildew,0.733,50,7.84,20.5,73,6.7,91,88,117,Severe,6
+L0687,Corn,Powdery Mildew,0.905,6,6.26,34.1,65,5.9,189,84,124,Mild,6
+L0688,Apple,Powdery Mildew,0.608,50,2.67,34,81,7,194,113,153,Severe,6
+L0689,Tomato,Powdery Mildew,0.776,49,7.25,20.4,80,5.8,56,71,198,Moderate,6
+L0690,Apple,Powdery Mildew,0.36,33,0.91,28.9,82,6.7,121,45,45,Mild,6
+L0691,Corn,Powdery Mildew,0.74,39,7.68,34.6,70,5.9,131,97,194,Mild,6
+L0692,Apple,Powdery Mildew,0.558,8,5.87,25.3,69,6.4,122,64,129,Severe,6
+L0693,Grape,Powdery Mildew,0.357,33,5.96,25.6,71,7.3,123,40,148,Moderate,6
+L0694,Potato,Powdery Mildew,0.843,31,4.98,20.4,64,6.6,184,62,56,Severe,6
+L0695,Tomato,Powdery Mildew,0.304,29,5.29,22.6,56,6.8,195,116,75,Severe,6
+L0696,Corn,Powdery Mildew,0.488,16,4.18,32,64,7.4,127,83,183,Mild,6
+L0697,Potato,Powdery Mildew,0.317,34,0.52,22.5,85,7.4,170,35,207,Severe,6
+L0698,Corn,Powdery Mildew,0.417,23,7.3,29,46,5.8,120,83,57,Severe,6
+L0699,Grape,Powdery Mildew,0.612,28,3.77,22.4,88,6.6,80,67,171,Severe,6
+L0700,Tomato,Powdery Mildew,0.849,41,1.72,19,65,6.6,84,65,81,Severe,6
+L0701,Apple,Rust,0.573,22,7.34,24.1,63,6.2,69,85,89,Mild,7
+L0702,Tomato,Rust,0.689,16,1.75,23.5,65,7.4,127,54,215,Severe,7
+L0703,Apple,Rust,0.362,49,4.85,32,45,5.8,122,67,164,Severe,7
+L0704,Potato,Rust,0.367,26,1.66,21.8,57,7.3,193,98,216,Moderate,7
+L0705,Grape,Rust,0.756,39,6.52,25.1,49,5.8,83,22,162,Severe,7
+L0706,Apple,Rust,0.39,24,3.81,34.8,78,7.3,137,42,117,Moderate,7
+L0707,Potato,Rust,0.384,12,5.71,29.7,64,5.8,83,30,148,Mild,7
+L0708,Tomato,Rust,0.312,12,4.13,25.3,57,5.7,181,95,55,Severe,7
+L0709,Apple,Rust,0.328,12,2.76,18.2,51,7.3,102,95,91,Moderate,7
+L0710,Apple,Rust,0.319,47,1.59,30.7,62,7.7,139,65,81,Mild,7
+L0711,Potato,Rust,0.628,44,1.01,31.9,93,5.5,105,111,89,Severe,7
+L0712,Grape,Rust,0.303,15,5.94,33.7,77,7.5,171,66,218,Moderate,7
+L0713,Corn,Rust,0.738,16,1.3,32.2,69,6.5,181,49,144,Severe,7
+L0714,Tomato,Rust,0.603,25,4.4,26.4,68,7.1,192,112,50,Mild,7
+L0715,Corn,Rust,0.375,25,2.63,28.2,64,7.1,163,48,181,Mild,7
+L0716,Corn,Rust,0.423,23,1.02,32.3,75,7.7,144,42,43,Moderate,7
+L0717,Tomato,Rust,0.558,36,4.42,29.5,52,5.8,152,108,191,Severe,7
+L0718,Tomato,Rust,0.536,15,1.99,21.4,70,5.8,158,112,167,Mild,7
+L0719,Grape,Rust,0.686,50,6.17,31.6,70,6.3,153,82,170,Moderate,7
+L0720,Corn,Rust,0.37,14,2.38,26.5,85,7.7,57,32,53,Moderate,7
+L0721,Tomato,Rust,0.932,36,3.37,29.5,54,6.2,74,117,59,Mild,7
+L0722,Corn,Rust,0.815,38,2.01,29.3,76,6.7,188,63,178,Severe,7
+L0723,Tomato,Rust,0.944,6,7.1,20,73,6.2,146,76,157,Severe,7
+L0724,Potato,Rust,0.662,7,6.95,23.2,90,5.9,160,37,119,Mild,7
+L0725,Corn,Rust,0.797,29,4.77,26.3,80,7.1,196,80,161,Severe,7
+L0726,Grape,Rust,0.336,15,2.48,28,69,6.9,140,118,112,Severe,7
+L0727,Tomato,Rust,0.684,8,1.46,24.2,92,6.8,137,68,64,Moderate,7
+L0728,Apple,Rust,0.568,27,0.92,22.2,60,7,71,108,56,Moderate,7
+L0729,Apple,Rust,0.41,12,4.54,18.6,87,7.5,195,85,147,Moderate,7
+L0730,Corn,Rust,0.682,6,7.89,24.4,69,6.2,75,82,65,Moderate,7
+L0731,Potato,Rust,0.518,48,4.27,31,66,5.9,126,66,151,Severe,7
+L0732,Tomato,Rust,0.846,36,4.52,22.9,48,6.2,196,71,97,Mild,7
+L0733,Grape,Rust,0.362,10,3.03,19.1,78,6.6,103,64,59,Severe,7
+L0734,Grape,Rust,0.823,24,3.75,27.2,57,6.5,114,99,171,Severe,7
+L0735,Grape,Rust,0.417,47,0.64,30,56,6.8,104,104,159,Moderate,7
+L0736,Grape,Rust,0.826,45,6.9,33.4,81,7.2,65,86,91,Moderate,7
+L0737,Potato,Rust,0.456,34,6.1,31,72,6.4,66,101,92,Moderate,7
+L0738,Apple,Rust,0.72,22,2.42,28.2,70,6,88,44,47,Moderate,7
+L0739,Corn,Rust,0.615,24,7.93,25.2,47,6,119,37,47,Mild,7
+L0740,Grape,Rust,0.414,22,6.89,34.4,76,7.3,64,30,120,Moderate,7
+L0741,Tomato,Rust,0.885,24,3.55,24.2,87,7.5,151,112,75,Severe,7
+L0742,Grape,Rust,0.777,12,7.5,26.9,82,7.7,184,52,167,Mild,7
+L0743,Grape,Rust,0.379,20,6.55,23.6,82,7.2,110,74,95,Mild,7
+L0744,Potato,Rust,0.439,11,2.56,24.9,82,5.6,186,67,219,Mild,7
+L0745,Grape,Rust,0.575,25,5.62,34.4,95,7.7,142,80,134,Mild,7
+L0746,Grape,Rust,0.323,6,6.05,31.6,48,7.1,111,52,181,Moderate,7
+L0747,Apple,Rust,0.887,24,5.64,27.1,60,7.5,149,21,140,Moderate,7
+L0748,Tomato,Rust,0.909,24,6.18,23.1,55,7.6,131,118,204,Moderate,7
+L0749,Apple,Rust,0.863,7,6.67,34,75,7.2,135,111,148,Moderate,7
+L0750,Apple,Rust,0.629,15,3.14,28.2,80,7.2,166,108,47,Mild,7
+L0751,Potato,Rust,0.71,46,6.43,20.3,70,6,128,60,187,Mild,7
+L0752,Potato,Rust,0.462,12,5.85,31,86,7.3,155,60,155,Mild,7
+L0753,Apple,Rust,0.413,13,4.95,23.6,63,6,156,67,86,Moderate,7
+L0754,Grape,Rust,0.446,29,7.61,33.7,86,6.9,108,31,158,Moderate,7
+L0755,Potato,Rust,0.332,21,5.14,28.2,54,5.7,144,41,185,Mild,7
+L0756,Grape,Rust,0.583,5,7.4,25.7,88,6.6,107,111,92,Mild,7
+L0757,Apple,Rust,0.785,22,3.37,25.3,58,6.9,122,113,213,Mild,7
+L0758,Potato,Rust,0.566,31,1.59,22.9,61,6,165,51,134,Mild,7
+L0759,Corn,Rust,0.356,48,4.02,32.8,89,6.4,104,111,138,Severe,7
+L0760,Grape,Rust,0.467,32,1.21,19,66,7.6,170,65,195,Severe,7
+L0761,Tomato,Rust,0.303,43,4.28,24.5,70,7,83,91,50,Severe,7
+L0762,Apple,Rust,0.41,16,4.2,23.8,74,5.8,131,110,175,Severe,7
+L0763,Apple,Rust,0.376,14,0.83,20.2,62,7.2,160,56,107,Moderate,7
+L0764,Grape,Rust,0.503,21,7.2,23.4,76,7.3,88,91,208,Severe,7
+L0765,Tomato,Rust,0.423,33,0.91,21.1,75,6.1,169,75,69,Severe,7
+L0766,Corn,Rust,0.532,7,5.82,26.2,76,5.8,87,35,129,Moderate,7
+L0767,Apple,Rust,0.417,18,1.76,26.6,62,6.8,199,47,189,Mild,7
+L0768,Grape,Rust,0.417,38,7.4,22.2,76,7.1,134,23,112,Mild,7
+L0769,Tomato,Rust,0.556,48,4.93,34.2,65,5.9,70,78,208,Severe,7
+L0770,Apple,Rust,0.686,34,0.54,34.5,86,6.9,165,61,185,Moderate,7
+L0771,Tomato,Rust,0.821,18,2.62,31.6,92,5.7,147,31,142,Mild,7
+L0772,Potato,Rust,0.927,16,6.99,19.5,58,5.9,153,56,205,Moderate,7
+L0773,Tomato,Rust,0.494,14,6.51,30.5,64,7.6,83,65,210,Severe,7
+L0774,Grape,Rust,0.43,28,3.84,24.6,62,6.8,158,31,148,Mild,7
+L0775,Potato,Rust,0.582,44,3.7,18.7,66,7.7,107,102,215,Moderate,7
+L0776,Corn,Rust,0.643,14,5.35,19.4,74,6.5,172,58,78,Severe,7
+L0777,Apple,Rust,0.847,48,4.42,23,48,6.8,61,85,67,Mild,7
+L0778,Corn,Rust,0.361,32,5.46,27.7,61,6.3,199,30,168,Severe,7
+L0779,Corn,Rust,0.417,12,1.87,24.7,50,6.5,126,60,190,Mild,7
+L0780,Corn,Rust,0.705,34,2.49,34.4,56,6,70,115,194,Severe,7
+L0781,Tomato,Rust,0.582,48,0.63,24.7,45,5.9,172,78,217,Moderate,7
+L0782,Grape,Rust,0.772,47,2.77,31.8,84,6.3,151,58,62,Moderate,7
+L0783,Tomato,Rust,0.424,13,6.62,29.8,57,7.5,103,81,206,Mild,7
+L0784,Potato,Rust,0.583,46,5.2,31.4,57,5.7,168,38,161,Mild,7
+L0785,Tomato,Rust,0.408,6,1.64,29.9,76,6.6,165,94,102,Moderate,7
+L0786,Grape,Rust,0.839,23,3.44,23.7,51,6.9,160,73,166,Mild,7
+L0787,Grape,Rust,0.775,42,7.99,18.6,70,6.6,174,49,55,Severe,7
+L0788,Corn,Rust,0.675,6,4.65,22.6,86,6.5,171,34,166,Severe,7
+L0789,Apple,Rust,0.591,46,3.77,20.7,91,5.9,138,76,99,Severe,7
+L0790,Grape,Rust,0.891,19,3.04,28.2,90,7,83,57,139,Severe,7
+L0791,Apple,Rust,0.817,48,6.5,32.4,84,6,72,105,163,Moderate,7
+L0792,Potato,Rust,0.402,16,4.19,31.5,76,6.2,103,91,52,Mild,7
+L0793,Apple,Rust,0.532,27,1.69,32.1,77,5.6,66,63,150,Mild,7
+L0794,Potato,Rust,0.378,44,2.18,22.4,66,7.3,61,118,182,Mild,7
+L0795,Grape,Rust,0.693,14,1.28,18.9,73,7.3,78,33,196,Moderate,7
+L0796,Grape,Rust,0.327,11,1.29,28.7,58,7.6,90,113,114,Severe,7
+L0797,Grape,Rust,0.624,33,7.03,20.6,68,6.3,85,35,91,Severe,7
+L0798,Tomato,Rust,0.459,31,6.57,23.8,77,5.9,118,67,146,Moderate,7
+L0799,Potato,Rust,0.399,45,6.15,25.2,59,5.8,159,72,144,Moderate,7
+L0800,Apple,Rust,0.913,38,3.82,31.1,90,7.4,67,30,126,Moderate,7
+L0801,Potato,Mosaic Virus,0.582,30,3.45,18.6,86,5.8,197,27,201,Moderate,8
+L0802,Grape,Mosaic Virus,0.932,47,3.64,33.1,89,6.8,127,112,120,Severe,8
+L0803,Apple,Mosaic Virus,0.885,5,5.08,20.5,70,6.5,102,89,199,Moderate,8
+L0804,Corn,Mosaic Virus,0.753,46,7.16,31.3,70,7.3,127,30,49,Severe,8
+L0805,Corn,Mosaic Virus,0.771,26,6.05,20.1,79,6.2,73,85,181,Severe,8
+L0806,Apple,Mosaic Virus,0.792,38,1.7,18.5,95,6.7,116,50,117,Moderate,8
+L0807,Grape,Mosaic Virus,0.372,32,0.95,24.3,85,6.7,81,26,206,Severe,8
+L0808,Apple,Mosaic Virus,0.672,33,0.54,23.8,60,7.4,198,92,200,Mild,8
+L0809,Grape,Mosaic Virus,0.452,39,2.74,29.3,90,6.8,85,111,136,Severe,8
+L0810,Tomato,Mosaic Virus,0.513,20,4.87,32,68,6.5,87,111,148,Severe,8
+L0811,Tomato,Mosaic Virus,0.34,10,7.16,26.1,73,5.7,184,71,190,Moderate,8
+L0812,Corn,Mosaic Virus,0.867,38,4.88,28.8,73,7.1,175,113,146,Severe,8
+L0813,Grape,Mosaic Virus,0.383,14,5.83,20.2,90,6.7,185,35,217,Mild,8
+L0814,Corn,Mosaic Virus,0.321,34,1.68,27.5,52,6.9,154,34,70,Mild,8
+L0815,Apple,Mosaic Virus,0.326,41,1.65,24.3,68,6.2,174,23,76,Moderate,8
+L0816,Corn,Mosaic Virus,0.332,42,7.21,33.1,58,5.9,175,20,71,Mild,8
+L0817,Tomato,Mosaic Virus,0.866,27,3.63,27.7,81,6.5,136,120,136,Severe,8
+L0818,Potato,Mosaic Virus,0.795,43,4.29,25.8,73,7,88,113,123,Moderate,8
+L0819,Grape,Mosaic Virus,0.566,44,2.25,24.7,79,5.6,163,114,111,Mild,8
+L0820,Potato,Mosaic Virus,0.76,10,4.79,31.5,90,6.2,81,102,183,Severe,8
+L0821,Grape,Mosaic Virus,0.652,17,6.18,34.3,78,5.9,171,84,44,Mild,8
+L0822,Grape,Mosaic Virus,0.417,47,0.64,31.4,60,7.4,198,76,61,Mild,8
+L0823,Apple,Mosaic Virus,0.561,43,0.84,32.7,46,6.3,96,73,46,Severe,8
+L0824,Corn,Mosaic Virus,0.467,25,1.36,19.7,55,6.2,96,52,62,Severe,8
+L0825,Corn,Mosaic Virus,0.741,24,0.94,34.3,56,5.6,64,58,139,Mild,8
+L0826,Potato,Mosaic Virus,0.568,25,2.93,24.4,52,5.6,111,116,192,Mild,8
+L0827,Corn,Mosaic Virus,0.631,20,4.28,34.1,62,5.6,168,90,144,Severe,8
+L0828,Tomato,Mosaic Virus,0.565,35,2.25,33.1,62,6.8,200,106,65,Mild,8
+L0829,Potato,Mosaic Virus,0.498,40,3.55,19.4,85,6.7,86,67,178,Mild,8
+L0830,Grape,Mosaic Virus,0.919,20,7.71,27.4,47,5.5,168,99,114,Mild,8
+L0831,Tomato,Mosaic Virus,0.339,15,7.41,22.6,61,7.4,147,64,201,Severe,8
+L0832,Grape,Mosaic Virus,0.483,42,1.71,27.1,49,6.2,151,109,71,Mild,8
+L0833,Apple,Mosaic Virus,0.871,40,2.08,26.6,65,7.5,137,101,106,Mild,8
+L0834,Apple,Mosaic Virus,0.46,33,7.87,23.8,74,7.7,134,22,217,Severe,8
+L0835,Tomato,Mosaic Virus,0.696,46,0.53,18.2,56,6.5,175,117,140,Mild,8
+L0836,Tomato,Mosaic Virus,0.65,10,7.19,31.9,73,7,140,68,193,Severe,8
+L0837,Potato,Mosaic Virus,0.845,29,6.59,34.7,52,6.6,99,76,42,Moderate,8
+L0838,Apple,Mosaic Virus,0.742,6,5.82,21.3,84,6.9,106,49,166,Mild,8
+L0839,Apple,Mosaic Virus,0.62,7,5.78,28.3,45,6,151,34,111,Moderate,8
+L0840,Corn,Mosaic Virus,0.411,37,1.95,30.6,88,7.1,194,42,56,Severe,8
+L0841,Tomato,Mosaic Virus,0.383,13,7.5,32.5,78,7.2,120,44,213,Severe,8
+L0842,Grape,Mosaic Virus,0.699,49,5.61,33,45,7.7,63,61,150,Mild,8
+L0843,Tomato,Mosaic Virus,0.742,22,4,24.1,93,5.6,107,26,111,Moderate,8
+L0844,Corn,Mosaic Virus,0.506,39,3.44,23.7,81,7.4,107,108,148,Moderate,8
+L0845,Potato,Mosaic Virus,0.407,20,2.83,28.6,51,5.6,160,23,191,Mild,8
+L0846,Apple,Mosaic Virus,0.461,26,4.05,34.3,48,7.4,183,50,58,Severe,8
+L0847,Corn,Mosaic Virus,0.797,44,5.19,27.8,50,7.7,58,68,120,Severe,8
+L0848,Potato,Mosaic Virus,0.34,9,6.52,18.9,84,6.9,66,33,213,Severe,8
+L0849,Tomato,Mosaic Virus,0.492,40,3.36,19.6,93,6.4,52,78,138,Mild,8
+L0850,Grape,Mosaic Virus,0.702,32,3.05,33.9,95,5.6,182,62,190,Moderate,8
+L0851,Tomato,Mosaic Virus,0.308,11,5.85,28.1,57,7.6,82,101,170,Mild,8
+L0852,Corn,Mosaic Virus,0.613,27,5.16,21.2,53,7.3,65,36,119,Moderate,8
+L0853,Grape,Mosaic Virus,0.924,32,6.16,23.3,79,7.3,87,80,119,Severe,8
+L0854,Apple,Mosaic Virus,0.54,26,0.56,28,88,5.8,110,84,183,Severe,8
+L0855,Apple,Mosaic Virus,0.427,32,2,33.4,95,5.7,98,105,161,Mild,8
+L0856,Corn,Mosaic Virus,0.69,49,2.98,27.8,66,6.9,157,62,81,Severe,8
+L0857,Tomato,Mosaic Virus,0.622,34,7.4,28.9,89,6,104,50,163,Mild,8
+L0858,Corn,Mosaic Virus,0.433,26,1.88,34.8,68,5.5,141,23,182,Severe,8
+L0859,Apple,Mosaic Virus,0.586,14,5.24,33.5,68,5.6,57,45,90,Mild,8
+L0860,Potato,Mosaic Virus,0.875,16,5.89,23.8,80,6.1,100,22,85,Moderate,8
+L0861,Tomato,Mosaic Virus,0.84,11,1.53,29.1,52,6.3,103,59,156,Moderate,8
+L0862,Apple,Mosaic Virus,0.73,28,7.56,34.6,84,7.5,66,35,76,Mild,8
+L0863,Potato,Mosaic Virus,0.646,17,5.71,23.4,72,7.7,112,25,197,Mild,8
+L0864,Grape,Mosaic Virus,0.491,17,1.61,22.2,85,7.3,82,85,189,Severe,8
+L0865,Tomato,Mosaic Virus,0.81,18,6.43,28.5,55,6.7,180,67,167,Moderate,8
+L0866,Potato,Mosaic Virus,0.509,34,3.3,29.8,90,7.7,171,54,188,Severe,8
+L0867,Grape,Mosaic Virus,0.722,45,2.05,33.2,73,7.5,151,47,118,Moderate,8
+L0868,Grape,Mosaic Virus,0.402,29,6.82,22.3,50,5.8,71,57,153,Moderate,8
+L0869,Potato,Mosaic Virus,0.68,27,3.99,28.6,72,6.5,160,72,134,Severe,8
+L0870,Apple,Mosaic Virus,0.549,25,1.85,22,86,5.7,71,57,168,Moderate,8
+L0871,Tomato,Mosaic Virus,0.811,39,7.45,19.7,49,6.3,189,45,125,Severe,8
+L0872,Apple,Mosaic Virus,0.463,48,6.09,31.1,62,5.9,85,116,179,Mild,8
+L0873,Apple,Mosaic Virus,0.483,5,3.1,34.9,70,7.4,53,80,207,Moderate,8
+L0874,Corn,Mosaic Virus,0.448,14,5.93,21.6,59,6.7,191,116,159,Severe,8
+L0875,Apple,Mosaic Virus,0.815,34,2.85,21.2,94,7.7,156,46,152,Severe,8
+L0876,Tomato,Mosaic Virus,0.544,40,4.83,20.2,92,5.5,140,63,97,Moderate,8
+L0877,Corn,Mosaic Virus,0.796,32,5.68,23.1,82,5.6,58,37,79,Moderate,8
+L0878,Grape,Mosaic Virus,0.894,41,4.8,24.6,69,6,150,28,176,Moderate,8
+L0879,Corn,Mosaic Virus,0.371,17,4.77,25.7,64,5.7,76,106,181,Moderate,8
+L0880,Grape,Mosaic Virus,0.618,7,1.9,19.2,69,6.2,109,57,208,Mild,8
+L0881,Corn,Mosaic Virus,0.337,9,4.39,20.9,71,6.4,78,36,177,Severe,8
+L0882,Tomato,Mosaic Virus,0.553,35,7.28,21.5,58,6.2,171,40,194,Moderate,8
+L0883,Grape,Mosaic Virus,0.432,24,5.88,25.8,57,5.5,86,77,56,Severe,8
+L0884,Potato,Mosaic Virus,0.642,43,7.33,32.9,74,6.6,60,114,63,Moderate,8
+L0885,Corn,Mosaic Virus,0.525,46,6.82,31.5,70,6.9,94,73,103,Moderate,8
+L0886,Corn,Mosaic Virus,0.598,44,7.33,21.1,81,5.7,61,50,80,Mild,8
+L0887,Grape,Mosaic Virus,0.49,45,7.37,29.9,91,7.6,176,72,181,Moderate,8
+L0888,Tomato,Mosaic Virus,0.791,28,4.28,31.3,71,6.5,114,46,169,Mild,8
+L0889,Tomato,Mosaic Virus,0.348,34,5.71,30.7,69,6.3,152,44,141,Mild,8
+L0890,Apple,Mosaic Virus,0.375,5,7.38,23.6,92,6.6,168,28,61,Mild,8
+L0891,Potato,Mosaic Virus,0.764,47,3.78,26,62,7.4,93,22,195,Severe,8
+L0892,Apple,Mosaic Virus,0.381,16,6.06,20.9,87,7.3,119,39,152,Mild,8
+L0893,Potato,Mosaic Virus,0.764,16,7.2,27,73,7.1,183,102,209,Moderate,8
+L0894,Tomato,Mosaic Virus,0.554,47,2.81,18.9,45,5.6,146,118,91,Severe,8
+L0895,Potato,Mosaic Virus,0.43,28,0.62,18.5,45,6.3,99,107,211,Mild,8
+L0896,Tomato,Mosaic Virus,0.818,19,6.73,20.9,55,5.6,181,33,123,Mild,8
+L0897,Potato,Mosaic Virus,0.706,40,7.51,24.7,72,5.8,104,33,131,Moderate,8
+L0898,Tomato,Mosaic Virus,0.561,16,2.87,24.6,74,6,121,103,199,Moderate,8
+L0899,Tomato,Mosaic Virus,0.876,7,3.58,31,76,7.8,76,111,177,Moderate,8
+L0900,Apple,Mosaic Virus,0.923,15,5,34.7,89,6.4,84,62,84,Severe,8
+L0901,Apple,Anthracnose,0.936,49,5.5,19.1,46,6.9,199,77,137,Severe,9
+L0902,Potato,Anthracnose,0.627,45,5.78,18.2,46,6.9,81,59,100,Severe,9
+L0903,Potato,Anthracnose,0.703,32,0.95,24.4,63,6,146,46,204,Severe,9
+L0904,Grape,Anthracnose,0.943,20,3.83,32.9,53,6.1,60,86,146,Mild,9
+L0905,Tomato,Anthracnose,0.449,23,6,23.8,58,6.7,113,107,218,Severe,9
+L0906,Grape,Anthracnose,0.867,19,4.41,21.1,85,5.5,175,28,89,Severe,9
+L0907,Potato,Anthracnose,0.91,45,1.44,21,80,7.4,102,50,169,Mild,9
+L0908,Corn,Anthracnose,0.502,32,5.91,22.2,56,6.9,127,56,187,Mild,9
+L0909,Potato,Anthracnose,0.477,45,6.36,19.4,68,6.4,92,80,152,Moderate,9
+L0910,Grape,Anthracnose,0.778,37,6.2,31.9,95,6.6,147,74,61,Moderate,9
+L0911,Grape,Anthracnose,0.399,43,5.95,22.4,74,6.2,122,68,183,Moderate,9
+L0912,Tomato,Anthracnose,0.517,35,5.86,21.3,57,5.5,178,113,135,Severe,9
+L0913,Corn,Anthracnose,0.911,30,7.78,24.3,76,6.2,200,29,144,Moderate,9
+L0914,Corn,Anthracnose,0.906,12,1.72,31,61,7.3,139,85,165,Mild,9
+L0915,Apple,Anthracnose,0.753,49,5.38,33.8,92,6.1,172,24,132,Severe,9
+L0916,Tomato,Anthracnose,0.753,50,5.34,22.4,74,7.7,87,52,103,Severe,9
+L0917,Potato,Anthracnose,0.308,42,6.28,29,69,6.4,200,30,172,Severe,9
+L0918,Potato,Anthracnose,0.839,32,2.4,23.1,79,7,147,95,118,Mild,9
+L0919,Tomato,Anthracnose,0.371,31,4.79,31.6,54,6.1,103,115,141,Severe,9
+L0920,Tomato,Anthracnose,0.942,24,6.62,18,49,7.3,156,87,146,Severe,9
+L0921,Corn,Anthracnose,0.411,23,3.31,30,57,6.6,178,34,155,Severe,9
+L0922,Potato,Anthracnose,0.431,18,6.12,31.8,57,6.1,154,76,200,Severe,9
+L0923,Potato,Anthracnose,0.352,11,1.14,20.1,49,6.3,199,50,162,Severe,9
+L0924,Tomato,Anthracnose,0.306,48,2.5,34.2,87,6.8,60,32,94,Moderate,9
+L0925,Corn,Anthracnose,0.692,5,7.9,30.9,76,6.6,136,97,149,Severe,9
+L0926,Apple,Anthracnose,0.95,28,6.63,34,87,6.4,64,65,124,Moderate,9
+L0927,Corn,Anthracnose,0.866,5,3.51,32.2,53,5.6,81,87,111,Mild,9
+L0928,Apple,Anthracnose,0.594,20,5.65,32.8,77,6.5,98,20,203,Severe,9
+L0929,Apple,Anthracnose,0.868,6,7.77,30.5,88,6.5,174,71,196,Moderate,9
+L0930,Corn,Anthracnose,0.91,27,7.56,26.1,87,7.5,75,113,138,Mild,9
+L0931,Potato,Anthracnose,0.763,43,7.02,32.9,95,7.5,179,24,72,Moderate,9
+L0932,Apple,Anthracnose,0.841,10,7.97,34.8,74,5.9,164,34,163,Moderate,9
+L0933,Potato,Anthracnose,0.458,39,1.78,34.1,89,5.7,161,111,47,Severe,9
+L0934,Corn,Anthracnose,0.798,25,2.15,22.4,75,7.7,81,105,74,Mild,9
+L0935,Corn,Anthracnose,0.359,45,5.69,32.8,81,7.3,66,102,127,Severe,9
+L0936,Corn,Anthracnose,0.725,50,6.39,34.4,72,7.4,107,53,69,Moderate,9
+L0937,Tomato,Anthracnose,0.358,10,6.05,33.9,92,7.7,196,67,72,Moderate,9
+L0938,Grape,Anthracnose,0.779,29,2.83,28,57,7.4,158,60,133,Moderate,9
+L0939,Grape,Anthracnose,0.731,13,4.93,19.8,45,6.7,167,60,77,Severe,9
+L0940,Corn,Anthracnose,0.742,19,1.61,22.8,92,7,58,96,121,Moderate,9
+L0941,Tomato,Anthracnose,0.478,37,6.86,27.8,85,7.4,176,57,220,Moderate,9
+L0942,Apple,Anthracnose,0.399,8,5.88,32.4,59,7.1,63,119,85,Moderate,9
+L0943,Apple,Anthracnose,0.94,30,5.44,32.4,46,6.8,136,74,213,Moderate,9
+L0944,Corn,Anthracnose,0.554,27,4.46,22.8,89,7.6,190,70,64,Moderate,9
+L0945,Grape,Anthracnose,0.863,25,0.91,33.9,64,6.6,91,93,75,Mild,9
+L0946,Corn,Anthracnose,0.489,49,1.59,21.7,92,6,52,66,187,Moderate,9
+L0947,Potato,Anthracnose,0.545,48,7.87,29.6,55,7.6,74,65,161,Mild,9
+L0948,Tomato,Anthracnose,0.937,8,5.38,28.1,54,6.9,153,51,48,Mild,9
+L0949,Corn,Anthracnose,0.618,20,5.66,34.2,86,7.2,72,119,158,Mild,9
+L0950,Apple,Anthracnose,0.711,29,3.84,18.2,52,5.7,175,102,211,Severe,9
+L0951,Tomato,Anthracnose,0.681,19,7.91,26.2,89,7.2,96,69,163,Severe,9
+L0952,Corn,Anthracnose,0.494,49,1.44,23.5,90,7.6,187,43,143,Severe,9
+L0953,Corn,Anthracnose,0.661,6,4.52,31.8,76,5.6,199,88,206,Severe,9
+L0954,Tomato,Anthracnose,0.417,18,4.99,21.1,80,6.5,130,35,50,Mild,9
+L0955,Potato,Anthracnose,0.724,41,1.16,22.4,93,5.6,81,84,116,Mild,9
+L0956,Potato,Anthracnose,0.575,39,7.59,18,64,5.6,182,120,115,Moderate,9
+L0957,Corn,Anthracnose,0.391,39,4.18,23.3,67,6.9,180,46,216,Severe,9
+L0958,Tomato,Anthracnose,0.454,47,1.91,23.1,58,7.7,191,47,191,Mild,9
+L0959,Potato,Anthracnose,0.774,22,3.67,27.3,61,6.4,91,71,156,Moderate,9
+L0960,Corn,Anthracnose,0.911,21,1.57,21.5,85,7.2,99,111,135,Mild,9
+L0961,Grape,Anthracnose,0.693,47,3.65,20.6,95,6.5,56,97,103,Severe,9
+L0962,Tomato,Anthracnose,0.645,22,5.63,24.9,66,7,142,62,109,Mild,9
+L0963,Apple,Anthracnose,0.306,19,3.33,34.5,69,7.7,81,42,174,Mild,9
+L0964,Grape,Anthracnose,0.834,24,4.17,27,89,6.8,122,90,109,Severe,9
+L0965,Tomato,Anthracnose,0.411,11,7.6,24.6,67,7.4,186,90,192,Severe,9
+L0966,Grape,Anthracnose,0.383,35,0.57,26.7,54,7,86,68,185,Moderate,9
+L0967,Tomato,Anthracnose,0.897,22,5.29,24.3,94,6.1,157,110,157,Severe,9
+L0968,Apple,Anthracnose,0.819,33,4.27,22.7,72,6.7,108,59,202,Mild,9
+L0969,Corn,Anthracnose,0.801,24,6.84,28.8,49,7.2,73,41,187,Mild,9
+L0970,Apple,Anthracnose,0.66,10,4.2,32.9,72,7.1,84,81,167,Mild,9
+L0971,Grape,Anthracnose,0.754,48,3.54,28.5,92,5.5,158,109,176,Severe,9
+L0972,Potato,Anthracnose,0.946,27,5.46,33.6,78,7.1,60,97,154,Severe,9
+L0973,Grape,Anthracnose,0.887,48,1.81,24.2,53,6.7,63,74,166,Mild,9
+L0974,Apple,Anthracnose,0.93,15,3.03,29.5,79,7.5,80,57,116,Moderate,9
+L0975,Apple,Anthracnose,0.438,23,6.04,27.7,58,7.6,181,24,158,Moderate,9
+L0976,Tomato,Anthracnose,0.531,36,5.12,23.6,67,5.7,139,112,87,Severe,9
+L0977,Tomato,Anthracnose,0.366,27,4.19,19.4,77,7.6,155,35,164,Moderate,9
+L0978,Apple,Anthracnose,0.447,14,3.47,23.1,72,7.6,187,54,67,Mild,9
+L0979,Corn,Anthracnose,0.405,47,3.15,25.4,67,7.5,100,34,88,Moderate,9
+L0980,Potato,Anthracnose,0.556,7,6.08,33.3,55,7,172,105,108,Moderate,9
+L0981,Corn,Anthracnose,0.658,31,6.5,30.1,65,7.2,152,84,139,Mild,9
+L0982,Tomato,Anthracnose,0.815,12,1.45,23.9,45,7.3,110,26,213,Mild,9
+L0983,Grape,Anthracnose,0.779,32,3.76,22.9,76,5.7,159,51,198,Moderate,9
+L0984,Potato,Anthracnose,0.462,37,6.25,32.7,89,6.1,159,45,161,Mild,9
+L0985,Grape,Anthracnose,0.697,11,1.92,32.5,85,7,108,35,73,Severe,9
+L0986,Apple,Anthracnose,0.944,7,7.47,25.2,84,6,63,68,144,Moderate,9
+L0987,Potato,Anthracnose,0.444,24,3.7,19,72,7,127,34,108,Severe,9
+L0988,Apple,Anthracnose,0.763,22,2.35,33.2,56,5.6,63,104,122,Moderate,9
+L0989,Corn,Anthracnose,0.482,23,5.05,25.3,61,7.7,143,62,117,Mild,9
+L0990,Tomato,Anthracnose,0.744,11,6.28,20.2,68,7.2,142,115,190,Mild,9
+L0991,Apple,Anthracnose,0.455,43,2.57,27.9,50,7.5,83,100,194,Severe,9
+L0992,Grape,Anthracnose,0.929,7,7.13,31.9,57,7.1,75,29,179,Mild,9
+L0993,Apple,Anthracnose,0.771,26,7.92,21.4,91,5.9,82,44,147,Severe,9
+L0994,Apple,Anthracnose,0.88,50,6.2,32.4,80,7.7,143,77,201,Severe,9
+L0995,Corn,Anthracnose,0.344,12,3.64,33.8,77,7.3,92,96,110,Severe,9
+L0996,Apple,Anthracnose,0.33,13,4.75,31.5,89,5.9,151,83,215,Severe,9
+L0997,Tomato,Anthracnose,0.408,37,6.13,24.5,94,6.4,119,46,87,Severe,9
+L0998,Grape,Anthracnose,0.442,15,5.73,32.9,95,6.7,178,110,174,Mild,9
+L0999,Potato,Anthracnose,0.493,24,2.51,20,59,5.6,110,57,50,Moderate,9
+L1000,Apple,Anthracnose,0.903,14,2.53,31.4,86,7.8,103,88,69,Severe,9

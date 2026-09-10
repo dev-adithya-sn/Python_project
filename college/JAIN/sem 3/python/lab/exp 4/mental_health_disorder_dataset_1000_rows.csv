@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,Sleep_Hours,Stress_Level_0_10,Anxiety_Score_0_10,Depression_Score_0_10,Social_Support_0_10,Exercise_Hours_Per_Week,Work_Study_Hours_Per_Day,Substance_Use,Family_History,Currently_In_Therapy,Target_Disorder
+P0001,56,Female,5.1,7.4,4.9,1.5,2.6,7.4,5.2,Frequent,No,Yes,No Disorder
+P0002,46,Male,6.2,4.1,2.4,7.5,5.3,2.2,9.9,None,No,Yes,Social Anxiety Disorder
+P0003,32,Male,5.8,4.2,7.9,4.9,5.4,4.9,8.0,Frequent,No,No,No Disorder
+P0004,60,Female,6.4,3.0,10.0,3.6,6.9,3.0,3.2,Occasional,No,No,No Disorder
+P0005,25,Male,6.8,6.5,5.5,4.4,6.3,5.4,8.6,None,No,No,Social Anxiety Disorder
+P0006,38,Female,7.5,7.3,2.6,4.2,3.3,3.2,6.9,None,No,No,Depression
+P0007,56,Male,6.6,6.6,1.0,7.8,8.1,2.5,6.2,None,Yes,No,PTSD
+P0008,36,Female,7.4,9.4,5.7,1.6,6.2,5.6,7.7,None,No,Yes,Social Anxiety Disorder
+P0009,40,Female,6.8,5.5,7.9,2.4,6.2,2.3,8.2,None,No,No,Social Anxiety Disorder
+P0010,28,Male,3.7,7.0,6.2,7.3,5.8,0.7,8.8,None,No,No,Social Anxiety Disorder
+P0011,28,Male,5.3,3.0,5.0,2.9,4.7,2.3,9.8,Occasional,No,No,No Disorder
+P0012,41,Male,6.5,4.6,3.5,6.9,6.3,4.3,8.1,None,No,No,No Disorder
+P0013,53,Male,4.9,7.1,2.2,9.1,6.8,5.7,4.2,None,No,No,No Disorder
+P0014,57,Non-binary,7.6,7.5,7.2,3.4,2.1,3.4,6.2,Occasional,No,No,Depression
+P0015,41,Male,9.0,4.8,7.4,6.3,4.7,5.6,13.7,None,Yes,No,Social Anxiety Disorder
+P0016,20,Female,8.5,5.3,1.0,1.4,5.3,0.8,8.8,Frequent,No,No,Generalized Anxiety Disorder
+P0017,39,Male,6.4,2.0,9.1,6.5,6.3,2.4,12.4,None,No,No,Depression
+P0018,19,Female,8.9,4.7,6.5,5.0,8.3,2.7,10.3,Frequent,No,Yes,Depression
+P0019,41,Female,6.9,7.5,8.6,5.8,4.2,3.0,7.7,None,No,No,PTSD
+P0020,61,Female,6.2,6.8,1.5,2.8,4.8,3.4,7.9,None,No,No,Depression
+P0021,47,Male,5.8,6.7,1.4,0.0,4.7,4.4,7.1,None,No,No,OCD
+P0022,55,Male,6.2,5.6,4.6,5.9,4.1,2.4,3.4,Occasional,No,No,Social Anxiety Disorder
+P0023,19,Male,6.1,5.5,6.3,0.0,5.1,3.5,7.2,Occasional,Yes,No,OCD
+P0024,38,Female,7.0,4.0,9.7,3.6,7.4,3.1,9.9,None,No,Yes,No Disorder
+P0025,50,Female,6.9,7.1,6.8,7.0,3.6,1.5,5.9,Frequent,Yes,No,Depression
+P0026,29,Non-binary,6.7,6.5,4.4,5.0,6.7,3.0,8.1,None,No,Yes,Depression
+P0027,39,Male,7.4,6.6,2.3,9.8,2.2,2.9,9.1,Occasional,No,No,Generalized Anxiety Disorder
+P0028,61,Female,8.5,4.3,8.2,7.3,4.6,2.9,5.2,Occasional,No,No,Generalized Anxiety Disorder
+P0029,42,Female,8.1,0.5,2.5,2.7,5.1,3.3,6.2,None,Yes,Yes,Social Anxiety Disorder
+P0030,44,Male,4.5,8.0,9.2,4.6,9.3,3.3,5.0,None,No,Yes,Generalized Anxiety Disorder
+P0031,59,Male,3.0,4.4,4.3,4.4,5.2,2.4,5.4,Frequent,No,No,Generalized Anxiety Disorder
+P0032,45,Female,8.1,3.5,9.1,0.2,1.2,5.5,4.4,Frequent,Yes,No,Depression
+P0033,33,Female,4.6,7.1,6.8,2.0,1.6,1.1,5.2,Frequent,No,Yes,Generalized Anxiety Disorder
+P0034,32,Female,6.4,4.6,4.6,3.0,5.9,1.9,10.3,Frequent,No,No,Generalized Anxiety Disorder
+P0035,64,Male,4.9,7.9,3.6,0.0,7.1,8.2,5.2,None,No,No,Panic Disorder
+P0036,61,Female,4.0,6.9,4.1,4.6,6.6,1.3,7.5,Occasional,No,Yes,Generalized Anxiety Disorder
+P0037,20,Male,7.5,7.1,6.1,3.8,6.2,0.8,6.1,None,Yes,No,Generalized Anxiety Disorder
+P0038,54,Male,7.8,2.4,5.2,0.0,8.2,4.5,9.8,Frequent,No,No,Generalized Anxiety Disorder
+P0039,24,Male,5.8,8.3,3.5,5.6,4.7,0.0,10.1,None,No,No,Generalized Anxiety Disorder
+P0040,38,Female,3.0,6.1,4.6,6.4,7.7,2.8,9.1,None,No,No,No Disorder
+P0041,26,Female,5.9,4.7,5.2,5.1,2.4,7.1,7.9,None,No,Yes,Depression
+P0042,56,Female,7.3,5.8,0.0,3.6,3.9,0.4,6.7,None,No,Yes,Depression
+P0043,35,Male,4.5,1.4,6.2,6.1,2.0,0.0,4.6,None,No,Yes,No Disorder
+P0044,21,Female,7.0,6.4,2.5,6.3,5.2,0.5,11.5,Occasional,Yes,No,Generalized Anxiety Disorder
+P0045,42,Male,6.7,3.1,2.0,5.3,5.7,4.8,5.5,Occasional,No,No,Social Anxiety Disorder
+P0046,31,Female,7.6,2.4,0.6,2.3,6.0,5.2,8.7,None,No,No,No Disorder
+P0047,26,Male,6.9,2.0,0.3,5.2,5.9,2.3,9.5,Occasional,No,No,Social Anxiety Disorder
+P0048,43,Male,5.2,8.1,1.5,7.7,3.9,4.4,6.0,Occasional,No,No,Depression
+P0049,19,Male,8.5,4.1,3.2,2.9,5.4,5.7,9.5,None,No,No,No Disorder
+P0050,37,Male,6.5,9.0,10.0,10.0,2.7,6.4,8.9,None,No,No,Generalized Anxiety Disorder
+P0051,45,Female,6.7,4.3,3.6,3.1,8.7,2.8,11.0,Occasional,No,Yes,No Disorder
+P0052,64,Female,5.3,1.6,5.5,4.6,5.2,0.0,6.2,Occasional,No,Yes,OCD
+P0053,24,Male,6.0,2.9,6.0,2.7,4.8,1.7,4.4,None,No,No,PTSD
+P0054,61,Female,5.4,8.3,5.3,5.1,9.1,2.4,6.1,None,Yes,No,Depression
+P0055,25,Male,6.4,5.1,4.8,0.0,3.2,2.7,7.7,None,Yes,No,OCD
+P0056,64,Female,9.3,4.2,1.9,3.0,3.4,2.9,7.3,None,No,No,Depression
+P0057,52,Female,4.6,5.9,8.8,1.6,3.5,5.2,6.3,None,No,Yes,No Disorder
+P0058,31,Female,4.3,6.7,9.7,4.9,5.7,5.5,3.0,None,No,No,Depression
+P0059,34,Male,8.9,8.1,0.6,7.2,6.7,2.9,8.2,Occasional,No,No,Social Anxiety Disorder
+P0060,53,Female,6.4,8.8,2.3,6.2,7.4,5.2,11.5,Frequent,No,No,No Disorder
+P0061,57,Female,5.7,4.7,4.3,0.0,10.0,3.8,8.2,None,No,No,Social Anxiety Disorder
+P0062,21,Male,8.3,2.5,2.5,10.0,1.1,3.3,8.5,None,No,No,Social Anxiety Disorder
+P0063,19,Male,5.8,4.5,6.3,5.3,7.1,4.8,8.5,Occasional,No,No,PTSD
+P0064,23,Female,9.4,6.1,3.1,2.4,4.6,3.3,8.1,Occasional,Yes,No,No Disorder
+P0065,59,Female,7.7,3.3,10.0,4.9,4.6,6.9,9.2,Occasional,Yes,No,Generalized Anxiety Disorder
+P0066,21,Female,6.0,3.3,8.1,5.0,4.5,0.6,8.1,Occasional,No,No,Depression
+P0067,46,Female,9.9,6.3,5.6,2.7,3.9,2.3,6.5,None,No,Yes,No Disorder
+P0068,35,Female,5.8,5.4,7.7,5.0,9.3,3.0,5.4,Occasional,Yes,Yes,Depression
+P0069,43,Male,7.8,5.6,7.9,2.9,7.6,4.0,6.7,None,Yes,Yes,No Disorder
+P0070,61,Male,7.1,3.8,3.5,3.4,5.8,5.5,7.9,None,No,Yes,Social Anxiety Disorder
+P0071,51,Male,8.7,5.0,2.9,2.6,8.6,3.2,6.5,None,Yes,No,Depression
+P0072,27,Female,9.0,3.4,5.2,0.6,2.6,0.6,7.9,None,No,No,Generalized Anxiety Disorder
+P0073,53,Male,6.7,7.5,7.2,4.9,3.0,4.7,8.2,Frequent,No,Yes,Generalized Anxiety Disorder
+P0074,31,Female,5.6,7.9,5.4,6.1,1.2,4.6,9.0,Occasional,Yes,Yes,Depression
+P0075,48,Female,7.4,1.3,0.9,5.9,4.3,0.0,10.0,None,No,Yes,Social Anxiety Disorder
+P0076,65,Female,5.7,3.4,2.9,6.7,6.1,3.2,7.4,None,Yes,No,Depression
+P0077,32,Male,9.7,2.1,4.8,5.4,6.0,0.3,4.3,None,No,No,No Disorder
+P0078,25,Female,6.9,4.0,4.8,3.1,6.1,2.0,6.4,None,No,No,Generalized Anxiety Disorder
+P0079,31,Male,6.2,5.3,10.0,6.8,2.8,1.6,7.3,None,Yes,No,Depression
+P0080,40,Female,7.0,2.2,1.4,0.8,7.5,4.7,3.2,Frequent,Yes,Yes,Generalized Anxiety Disorder
+P0081,57,Male,4.7,3.4,6.3,2.1,6.3,3.4,10.3,Frequent,Yes,No,Generalized Anxiety Disorder
+P0082,38,Male,5.2,3.2,8.9,1.9,7.3,0.9,7.5,Occasional,Yes,Yes,Generalized Anxiety Disorder
+P0083,33,Female,8.5,6.0,10.0,7.4,1.8,4.8,8.0,Occasional,No,No,Depression
+P0084,62,Male,5.7,5.7,3.9,7.0,6.5,0.6,10.2,None,No,No,Depression
+P0085,35,Male,5.1,3.8,6.3,5.8,3.3,3.8,5.8,None,No,No,Social Anxiety Disorder
+P0086,64,Female,7.5,5.9,6.5,7.4,5.0,1.7,8.5,None,No,No,Social Anxiety Disorder
+P0087,41,Female,8.5,4.2,5.5,2.1,6.9,2.5,7.0,None,No,No,No Disorder
+P0088,43,Female,7.8,4.9,4.7,5.4,6.0,4.1,6.8,Occasional,No,Yes,OCD
+P0089,42,Female,8.2,9.3,6.1,4.2,4.0,4.1,5.5,None,No,Yes,Social Anxiety Disorder
+P0090,62,Female,5.6,8.6,0.0,6.8,5.8,5.6,10.9,None,No,No,No Disorder
+P0091,58,Male,4.6,2.5,6.8,4.2,2.6,3.1,6.4,None,No,No,No Disorder
+P0092,46,Male,9.0,7.4,5.3,3.5,8.2,3.8,8.7,Frequent,No,Yes,Depression
+P0093,32,Male,6.2,7.4,4.4,6.0,5.4,2.4,3.1,None,No,No,Generalized Anxiety Disorder
+P0094,62,Female,6.3,2.9,10.0,6.9,8.1,3.5,9.8,Occasional,No,No,OCD
+P0095,18,Female,8.7,7.4,3.2,2.7,4.7,4.0,9.5,Occasional,No,No,No Disorder
+P0096,42,Male,7.5,9.0,4.0,4.3,4.7,3.0,7.4,None,No,No,Generalized Anxiety Disorder
+P0097,24,Male,7.4,2.9,10.0,1.6,4.2,0.0,6.7,None,No,No,Social Anxiety Disorder
+P0098,26,Female,9.9,3.4,2.8,0.0,7.6,3.8,8.1,Occasional,No,No,Generalized Anxiety Disorder
+P0099,41,Male,5.7,7.8,3.6,5.0,4.3,3.9,12.2,None,No,No,Generalized Anxiety Disorder
+P0100,18,Female,8.1,6.1,4.6,6.1,7.2,2.0,3.3,Frequent,No,No,Social Anxiety Disorder
+P0101,61,Female,6.8,6.8,7.2,5.2,5.0,0.9,8.9,None,No,No,Depression
+P0102,25,Female,7.1,6.3,5.5,0.0,1.7,5.9,5.2,None,Yes,No,Generalized Anxiety Disorder
+P0103,41,Male,9.0,6.4,1.6,3.6,4.6,4.1,7.2,Occasional,No,Yes,Social Anxiety Disorder
+P0104,28,Female,7.5,2.4,3.6,0.0,3.3,2.8,6.7,Occasional,No,Yes,Panic Disorder
+P0105,34,Female,7.5,7.9,3.4,8.2,5.9,1.2,6.3,Frequent,Yes,No,Depression
+P0106,25,Female,8.3,8.2,4.8,1.6,3.3,1.7,7.2,Occasional,No,No,Social Anxiety Disorder
+P0107,52,Female,6.2,5.0,6.1,7.9,7.7,5.5,4.7,Frequent,No,No,Generalized Anxiety Disorder
+P0108,52,Female,5.4,5.4,6.1,7.1,5.6,3.4,9.5,Occasional,No,Yes,Depression
+P0109,50,Female,5.1,2.0,0.4,2.1,5.4,2.2,3.3,Occasional,Yes,No,Social Anxiety Disorder
+P0110,22,Male,3.8,6.7,7.8,1.4,7.2,4.1,8.4,None,Yes,No,Generalized Anxiety Disorder
+P0111,59,Female,9.8,6.8,5.7,5.4,7.8,1.7,6.5,None,No,No,OCD
+P0112,56,Female,5.0,5.4,8.6,2.2,5.8,5.9,4.6,Frequent,No,Yes,Generalized Anxiety Disorder
+P0113,58,Male,6.4,8.1,6.2,4.8,4.2,5.6,7.6,None,No,No,OCD
+P0114,45,Female,6.3,4.7,7.9,3.2,2.1,2.4,3.8,None,No,Yes,Social Anxiety Disorder
+P0115,24,Female,7.2,6.8,6.2,0.0,4.4,2.1,7.3,None,No,No,No Disorder
+P0116,26,Female,7.9,3.2,8.5,0.0,4.5,0.0,4.1,None,No,No,Depression
+P0117,25,Male,8.0,5.4,6.4,5.1,6.0,0.5,8.2,None,No,Yes,Depression
+P0118,29,Male,5.8,5.1,4.7,3.0,5.1,0.8,5.2,None,No,No,Generalized Anxiety Disorder
+P0119,51,Non-binary,6.4,6.0,10.0,3.0,7.2,3.4,6.2,Occasional,No,No,Generalized Anxiety Disorder
+P0120,50,Female,7.1,4.7,7.3,6.4,4.5,2.6,7.8,None,No,No,No Disorder
+P0121,65,Male,6.3,5.2,6.5,7.7,5.7,0.8,5.5,None,No,No,No Disorder
+P0122,40,Female,9.1,7.4,1.7,3.8,8.3,2.7,7.1,None,No,No,OCD
+P0123,41,Female,7.4,4.5,1.7,3.6,6.5,4.1,3.9,None,No,No,Depression
+P0124,54,Female,7.8,1.8,5.8,5.9,5.7,4.2,8.6,None,No,No,Generalized Anxiety Disorder
+P0125,52,Female,7.7,9.5,5.4,0.8,4.5,0.0,11.1,Occasional,No,No,Depression
+P0126,61,Male,8.5,8.7,3.4,5.1,4.5,3.0,13.3,None,Yes,Yes,Social Anxiety Disorder
+P0127,57,Male,7.0,2.5,5.4,6.0,4.0,0.7,7.4,Frequent,No,Yes,Depression
+P0128,39,Male,4.8,7.1,9.1,6.3,4.7,4.8,8.9,None,Yes,Yes,Depression
+P0129,44,Female,7.3,4.3,6.8,0.0,7.4,4.6,3.3,None,Yes,No,Social Anxiety Disorder
+P0130,52,Male,5.7,6.1,2.0,2.4,5.3,1.6,10.5,None,No,Yes,No Disorder
+P0131,18,Male,5.9,6.2,4.7,2.1,3.0,1.8,8.9,None,Yes,No,No Disorder
+P0132,52,Male,7.6,5.0,2.9,4.8,9.5,2.4,6.1,Occasional,Yes,No,OCD
+P0133,54,Female,8.6,3.7,4.0,5.8,6.5,0.0,9.9,Occasional,No,No,OCD
+P0134,64,Female,6.7,3.9,3.9,8.5,2.8,3.8,6.6,None,No,No,Depression
+P0135,31,Male,7.2,3.4,3.8,3.2,4.9,2.7,6.2,None,No,No,No Disorder
+P0136,20,Male,9.3,3.6,1.7,3.2,6.0,4.9,8.2,None,Yes,Yes,Depression
+P0137,18,Female,7.1,5.3,4.7,7.6,9.4,1.2,4.9,None,Yes,No,Social Anxiety Disorder
+P0138,22,Male,10.0,3.9,3.5,5.3,3.5,2.1,9.4,Frequent,Yes,No,Generalized Anxiety Disorder
+P0139,43,Male,7.5,7.1,0.0,7.9,7.8,0.5,4.9,None,No,No,Generalized Anxiety Disorder
+P0140,31,Male,4.1,8.9,10.0,5.3,8.7,1.4,4.9,Occasional,No,Yes,OCD
+P0141,56,Male,7.8,4.2,7.8,1.4,4.5,1.1,5.2,None,No,No,No Disorder
+P0142,44,Male,7.3,6.1,4.0,0.9,5.2,5.0,8.9,None,No,No,Depression
+P0143,26,Female,8.6,6.6,5.0,0.3,3.6,1.9,5.8,None,Yes,No,Depression
+P0144,32,Male,7.7,6.6,2.0,6.3,5.4,3.4,4.2,None,No,Yes,Generalized Anxiety Disorder
+P0145,32,Female,6.5,5.7,9.4,7.7,5.7,2.5,5.9,Occasional,No,No,No Disorder
+P0146,43,Male,4.9,7.2,9.9,9.5,7.2,0.9,7.1,None,No,No,Social Anxiety Disorder
+P0147,59,Female,6.4,6.6,5.4,6.8,8.1,2.9,4.6,Occasional,No,No,Depression
+P0148,30,Female,5.4,2.7,7.7,7.6,4.2,4.3,4.7,None,No,No,OCD
+P0149,49,Male,5.8,7.5,5.5,2.9,1.7,1.0,11.8,Frequent,No,No,Social Anxiety Disorder
+P0150,56,Female,7.6,7.5,1.5,1.4,5.8,4.7,5.3,None,No,No,No Disorder
+P0151,49,Male,9.2,3.7,3.9,6.8,6.4,1.7,6.5,Occasional,No,No,OCD
+P0152,21,Non-binary,7.3,5.6,5.3,5.6,6.3,2.3,6.4,Occasional,No,No,PTSD
+P0153,47,Male,4.9,7.1,3.8,4.8,5.1,4.2,6.3,Frequent,No,Yes,Generalized Anxiety Disorder
+P0154,54,Male,7.4,5.0,4.4,5.5,6.1,2.0,8.6,None,No,No,Social Anxiety Disorder
+P0155,40,Male,8.5,8.0,4.8,5.4,9.0,3.3,9.3,Occasional,No,No,No Disorder
+P0156,56,Non-binary,5.8,10.0,4.8,8.0,6.6,2.6,6.5,None,Yes,Yes,PTSD
+P0157,62,Female,6.5,3.7,5.1,8.0,5.0,3.4,4.5,None,Yes,No,Depression
+P0158,32,Female,6.7,2.3,2.2,6.0,4.7,0.0,10.0,None,No,Yes,Depression
+P0159,60,Male,5.5,6.2,3.1,6.8,5.4,0.0,7.0,None,Yes,No,Depression
+P0160,46,Female,7.7,7.2,1.7,5.9,9.2,4.3,11.0,Frequent,No,No,No Disorder
+P0161,53,Male,6.5,5.0,7.5,3.3,5.4,5.1,2.3,None,Yes,Yes,No Disorder
+P0162,30,Female,7.3,8.8,0.0,6.5,5.8,1.6,7.6,None,No,No,Generalized Anxiety Disorder
+P0163,49,Male,5.4,2.4,8.0,0.7,4.8,2.8,11.4,Occasional,No,Yes,Depression
+P0164,24,Male,6.0,7.1,8.6,7.3,8.1,3.7,6.4,None,No,No,OCD
+P0165,39,Male,7.8,4.1,4.2,1.3,9.9,4.4,6.7,Occasional,No,No,No Disorder
+P0166,45,Male,6.1,9.5,0.0,5.3,6.7,0.0,7.9,None,No,No,Generalized Anxiety Disorder
+P0167,19,Female,9.3,10.0,4.1,2.2,6.0,1.6,6.0,None,No,Yes,Social Anxiety Disorder
+P0168,59,Male,6.1,3.7,4.8,6.0,5.9,2.6,6.5,None,Yes,Yes,Generalized Anxiety Disorder
+P0169,62,Female,7.0,4.2,2.4,4.4,0.8,4.5,6.5,Frequent,No,No,Social Anxiety Disorder
+P0170,23,Male,8.1,7.5,3.7,0.2,7.4,7.7,5.8,Occasional,No,No,Generalized Anxiety Disorder
+P0171,45,Female,4.6,4.6,9.0,5.6,6.1,2.8,9.9,Frequent,Yes,Yes,Depression
+P0172,45,Male,4.1,5.4,6.7,2.9,6.7,0.7,8.2,None,No,Yes,PTSD
+P0173,61,Male,4.4,5.6,2.6,6.9,4.3,3.9,7.8,None,Yes,Yes,Depression
+P0174,61,Female,8.6,1.1,0.8,4.5,5.0,5.6,9.0,None,No,No,No Disorder
+P0175,37,Male,5.9,5.5,4.1,5.6,4.9,3.4,6.6,None,No,No,PTSD
+P0176,47,Male,10.0,3.9,4.4,1.9,7.9,1.6,5.5,None,No,Yes,No Disorder
+P0177,28,Female,5.9,4.4,6.3,2.9,5.0,4.9,5.9,Occasional,Yes,No,Depression
+P0178,45,Female,7.0,8.8,3.6,3.3,10.0,4.4,7.2,None,No,Yes,Depression
+P0179,42,Male,9.0,2.6,6.3,6.8,6.7,1.4,4.9,None,No,No,PTSD
+P0180,56,Male,9.7,7.4,10.0,9.0,3.1,3.9,6.1,Occasional,No,No,No Disorder
+P0181,50,Female,9.8,4.9,7.1,2.3,5.5,5.0,6.1,Occasional,No,No,Social Anxiety Disorder
+P0182,18,Male,8.5,4.9,4.9,7.4,4.4,5.3,11.9,None,No,No,Depression
+P0183,44,Male,8.2,7.3,4.5,0.0,1.2,3.1,1.1,None,Yes,No,Depression
+P0184,30,Male,7.6,6.3,4.1,1.3,9.2,2.6,6.8,None,No,No,Generalized Anxiety Disorder
+P0185,58,Female,7.9,6.8,8.1,1.9,7.3,5.4,11.0,None,Yes,No,Depression
+P0186,20,Female,5.9,7.7,3.4,0.8,6.9,1.0,7.5,Occasional,Yes,No,No Disorder
+P0187,56,Male,5.5,4.7,5.1,0.2,6.1,4.0,8.9,None,No,Yes,Social Anxiety Disorder
+P0188,23,Male,6.7,4.1,5.1,5.6,2.9,0.7,7.4,Occasional,Yes,No,Panic Disorder
+P0189,25,Male,6.4,3.0,3.7,3.9,4.8,5.1,5.7,Occasional,No,No,Social Anxiety Disorder
+P0190,44,Female,6.0,3.6,1.4,5.5,7.6,2.7,2.3,None,No,Yes,Depression
+P0191,26,Male,7.7,10.0,5.8,6.4,3.6,5.5,7.7,None,No,Yes,Generalized Anxiety Disorder
+P0192,54,Male,8.1,8.4,4.8,5.2,0.5,4.1,5.5,None,No,No,Generalized Anxiety Disorder
+P0193,50,Female,6.8,2.4,6.3,6.3,5.3,1.0,5.4,Occasional,No,Yes,No Disorder
+P0194,59,Male,8.9,2.5,3.6,4.3,5.5,5.8,6.1,None,No,No,Generalized Anxiety Disorder
+P0195,61,Female,5.0,6.6,8.2,1.3,6.1,6.0,11.0,None,No,No,Depression
+P0196,41,Male,6.4,6.8,2.7,7.4,7.3,4.8,12.5,None,No,No,Depression
+P0197,32,Male,5.6,6.8,9.5,2.9,7.1,1.8,7.7,None,No,No,Social Anxiety Disorder
+P0198,49,Male,3.9,4.9,0.5,2.0,6.3,2.6,6.2,Occasional,No,No,Depression
+P0199,49,Female,6.6,5.2,6.1,4.0,8.3,3.5,4.6,None,No,No,Depression
+P0200,41,Female,6.5,6.3,6.2,2.0,2.6,1.9,8.2,None,No,Yes,OCD
+P0201,58,Female,9.0,5.7,2.9,3.4,6.9,6.2,11.1,None,No,No,PTSD
+P0202,29,Male,7.6,0.4,6.1,5.4,7.1,3.5,6.7,None,Yes,Yes,Social Anxiety Disorder
+P0203,56,Female,5.2,5.0,8.3,5.4,3.2,0.0,2.0,Occasional,Yes,Yes,No Disorder
+P0204,19,Male,9.5,3.5,0.0,2.1,2.6,3.8,8.7,Occasional,Yes,No,No Disorder
+P0205,20,Male,8.5,5.9,6.3,3.2,4.2,2.6,9.4,None,Yes,Yes,Social Anxiety Disorder
+P0206,54,Female,7.6,10.0,0.0,7.4,4.4,3.1,3.7,None,Yes,No,PTSD
+P0207,34,Male,6.4,6.3,2.5,5.8,7.4,2.5,7.6,None,No,Yes,Social Anxiety Disorder
+P0208,19,Male,5.3,4.8,9.2,10.0,4.5,4.7,8.2,None,No,Yes,No Disorder
+P0209,19,Male,6.1,7.6,3.5,7.7,4.0,5.2,7.0,None,No,Yes,Depression
+P0210,45,Male,8.3,6.6,1.9,7.6,4.5,3.7,5.5,Occasional,Yes,Yes,Depression
+P0211,40,Male,9.5,6.5,4.5,0.8,8.1,2.6,9.4,None,No,No,Generalized Anxiety Disorder
+P0212,54,Female,9.0,6.9,10.0,6.6,5.8,3.1,6.3,Occasional,No,No,OCD
+P0213,49,Male,6.0,10.0,0.2,4.4,5.4,3.2,3.9,None,No,No,Depression
+P0214,50,Female,5.0,2.9,2.3,3.0,5.6,1.8,2.7,Occasional,No,No,Generalized Anxiety Disorder
+P0215,18,Female,6.9,6.6,8.9,5.0,8.5,4.2,10.0,None,No,Yes,Generalized Anxiety Disorder
+P0216,36,Male,4.0,3.4,9.8,7.1,4.2,4.0,8.6,Occasional,No,No,Social Anxiety Disorder
+P0217,19,Male,7.2,6.8,4.7,5.9,8.6,6.0,7.4,None,No,Yes,Depression
+P0218,61,Male,6.5,3.4,1.8,2.1,6.2,5.5,6.2,None,Yes,No,Generalized Anxiety Disorder
+P0219,43,Female,6.0,4.5,10.0,6.5,5.5,2.0,6.0,Occasional,No,No,OCD
+P0220,49,Male,4.3,4.8,9.1,2.8,10.0,4.7,4.8,None,Yes,No,Depression
+P0221,23,Female,7.5,7.7,6.8,5.1,3.6,1.5,6.3,Occasional,No,No,Social Anxiety Disorder
+P0222,49,Male,5.9,7.6,2.9,3.7,5.1,4.5,2.5,Occasional,No,No,No Disorder
+P0223,21,Female,4.9,2.6,4.9,3.9,3.2,2.3,5.6,None,No,No,No Disorder
+P0224,28,Male,3.0,5.6,4.6,6.6,7.8,1.4,6.5,None,Yes,No,Generalized Anxiety Disorder
+P0225,34,Male,6.7,3.9,5.9,1.7,9.3,3.7,8.5,None,Yes,No,Generalized Anxiety Disorder
+P0226,55,Female,9.4,2.6,8.8,9.8,9.3,0.0,7.1,None,Yes,No,PTSD
+P0227,41,Female,9.2,5.0,7.3,0.0,8.4,0.0,8.9,None,Yes,No,OCD
+P0228,22,Male,6.0,4.8,2.2,2.9,5.4,2.9,10.2,Occasional,Yes,No,Depression
+P0229,51,Female,5.8,10.0,8.6,5.5,5.0,3.3,9.5,None,Yes,Yes,Generalized Anxiety Disorder
+P0230,23,Female,7.4,6.5,5.8,6.1,2.3,2.5,8.2,None,Yes,No,Panic Disorder
+P0231,39,Female,5.2,2.3,6.8,4.2,10.0,0.4,7.2,None,No,No,Depression
+P0232,28,Female,7.2,4.2,8.8,4.3,6.8,1.7,5.0,None,No,No,Depression
+P0233,65,Male,7.8,7.8,2.1,5.6,4.8,3.9,8.8,None,Yes,Yes,Social Anxiety Disorder
+P0234,33,Male,8.5,10.0,4.9,3.9,8.6,4.2,10.9,Occasional,No,No,Generalized Anxiety Disorder
+P0235,50,Male,6.5,1.9,3.6,8.3,3.8,3.2,8.0,Occasional,No,No,Generalized Anxiety Disorder
+P0236,26,Female,6.4,1.2,0.9,6.8,6.7,5.3,11.4,None,No,No,OCD
+P0237,23,Female,5.4,9.8,5.9,6.9,5.4,3.9,3.8,Frequent,No,No,Generalized Anxiety Disorder
+P0238,33,Male,5.5,6.4,10.0,1.9,7.1,1.9,4.7,None,No,No,Social Anxiety Disorder
+P0239,46,Male,6.4,3.5,0.2,4.3,5.7,2.7,9.1,Frequent,No,Yes,No Disorder
+P0240,20,Female,7.3,6.7,4.9,3.7,2.8,0.7,7.8,Occasional,No,Yes,Generalized Anxiety Disorder
+P0241,37,Non-binary,8.1,0.0,6.7,1.8,6.0,3.0,10.1,Occasional,No,No,Generalized Anxiety Disorder
+P0242,53,Female,5.5,5.5,5.3,5.5,8.0,5.2,7.2,None,No,No,Social Anxiety Disorder
+P0243,36,Male,8.9,6.3,4.7,3.0,5.7,4.4,5.3,None,No,Yes,Generalized Anxiety Disorder
+P0244,43,Male,6.3,7.6,1.6,6.3,7.4,5.7,6.7,None,No,No,Social Anxiety Disorder
+P0245,20,Male,6.7,3.2,5.6,1.6,3.6,2.7,3.8,Occasional,No,No,Depression
+P0246,36,Female,5.6,5.7,3.0,9.1,5.7,5.6,4.7,None,No,No,OCD
+P0247,37,Male,3.1,3.4,0.0,2.1,4.5,2.9,9.3,Occasional,No,No,Depression
+P0248,49,Female,8.0,6.1,8.1,5.1,7.4,5.8,9.1,None,Yes,Yes,Generalized Anxiety Disorder
+P0249,24,Male,7.8,3.4,7.5,6.6,5.9,3.2,8.0,Occasional,No,No,No Disorder
+P0250,58,Female,6.3,4.6,5.1,3.0,7.2,4.5,3.4,None,Yes,No,Depression
+P0251,50,Female,6.8,3.2,5.6,6.8,8.1,5.9,6.4,None,No,No,Social Anxiety Disorder
+P0252,57,Female,7.5,7.0,7.8,1.2,7.3,2.9,4.5,None,No,No,Generalized Anxiety Disorder
+P0253,56,Male,4.4,7.5,5.6,8.4,6.4,3.6,9.8,None,Yes,No,Panic Disorder
+P0254,35,Male,5.9,5.0,7.4,4.5,3.7,5.5,5.9,None,No,No,Social Anxiety Disorder
+P0255,57,Male,7.9,5.6,4.2,2.9,5.8,3.0,4.8,Occasional,Yes,No,Generalized Anxiety Disorder
+P0256,18,Female,4.8,2.2,8.4,3.7,4.7,0.8,7.3,None,No,No,Generalized Anxiety Disorder
+P0257,28,Female,7.1,4.8,5.8,6.7,5.1,7.1,5.8,None,Yes,No,OCD
+P0258,45,Female,4.7,5.4,5.5,2.9,5.0,2.4,10.5,Occasional,No,Yes,Depression
+P0259,42,Female,7.4,10.0,1.7,2.5,3.7,3.5,5.6,None,No,No,Generalized Anxiety Disorder
+P0260,40,Female,6.6,2.9,5.7,3.9,1.7,5.3,4.1,Frequent,No,Yes,OCD
+P0261,48,Male,4.3,8.9,2.8,1.3,4.4,2.1,2.5,Frequent,No,No,Social Anxiety Disorder
+P0262,47,Female,8.4,7.8,3.3,9.4,6.2,1.4,7.1,None,Yes,No,Social Anxiety Disorder
+P0263,59,Male,5.6,6.1,2.9,3.0,3.0,3.7,6.0,None,No,Yes,Generalized Anxiety Disorder
+P0264,52,Male,5.5,9.5,2.2,6.7,5.8,0.0,4.1,None,Yes,No,Social Anxiety Disorder
+P0265,24,Female,7.0,6.4,10.0,5.1,9.8,2.7,9.8,Occasional,Yes,No,No Disorder
+P0266,33,Male,8.4,6.4,8.5,1.8,7.9,3.6,8.7,None,Yes,No,Generalized Anxiety Disorder
+P0267,43,Male,5.2,5.4,10.0,4.5,9.3,2.7,7.1,Occasional,No,No,Social Anxiety Disorder
+P0268,65,Female,6.8,8.3,1.8,6.6,6.6,0.4,10.2,Occasional,No,No,Generalized Anxiety Disorder
+P0269,19,Male,7.3,8.0,5.2,4.0,8.3,6.1,8.7,None,Yes,No,Panic Disorder
+P0270,18,Female,7.7,4.1,1.6,7.7,4.3,3.4,5.4,Occasional,Yes,Yes,Generalized Anxiety Disorder
+P0271,65,Male,7.0,2.5,3.2,7.3,4.4,5.8,4.9,Occasional,Yes,Yes,OCD
+P0272,29,Male,6.1,5.0,2.6,7.0,0.0,2.7,9.0,None,No,Yes,Depression
+P0273,22,Male,5.5,3.7,8.2,3.3,8.3,1.6,8.1,Occasional,No,No,OCD
+P0274,54,Male,6.8,5.4,4.0,1.6,9.0,3.7,7.6,Occasional,Yes,No,Depression
+P0275,49,Female,5.1,8.3,7.8,2.8,4.6,2.8,5.3,None,No,No,OCD
+P0276,26,Male,3.0,4.4,6.6,5.0,5.3,1.1,8.5,None,No,No,Generalized Anxiety Disorder
+P0277,58,Female,7.4,5.4,10.0,6.0,4.2,5.8,5.5,None,No,Yes,Generalized Anxiety Disorder
+P0278,52,Male,8.1,5.6,1.2,0.0,6.6,2.1,7.0,None,No,No,Social Anxiety Disorder
+P0279,36,Female,3.2,7.5,8.3,4.5,8.2,0.0,10.4,Frequent,No,Yes,Generalized Anxiety Disorder
+P0280,65,Female,5.2,0.3,8.0,4.9,2.1,5.6,5.7,None,No,No,No Disorder
+P0281,33,Female,7.6,4.1,2.5,3.8,6.7,2.3,3.7,Occasional,No,No,Depression
+P0282,20,Male,9.8,6.0,7.6,8.0,5.2,2.1,4.9,None,No,Yes,Depression
+P0283,37,Male,6.7,8.3,5.9,5.6,6.0,0.0,9.4,None,No,No,Social Anxiety Disorder
+P0284,41,Male,5.6,4.4,4.4,8.0,6.8,6.3,7.8,Frequent,No,Yes,No Disorder
+P0285,50,Female,6.4,1.2,2.9,3.9,5.4,0.9,6.9,Occasional,Yes,No,No Disorder
+P0286,41,Male,8.8,6.9,3.1,7.0,5.6,3.3,6.1,None,Yes,Yes,No Disorder
+P0287,28,Female,5.7,4.0,10.0,8.9,5.4,4.8,8.3,None,No,No,Depression
+P0288,25,Female,5.5,2.8,5.0,8.0,7.8,4.0,5.3,None,No,Yes,OCD
+P0289,53,Male,6.0,4.1,7.0,1.6,6.7,3.1,7.9,None,No,No,Generalized Anxiety Disorder
+P0290,55,Female,5.3,5.1,2.9,3.8,6.3,0.1,5.6,None,No,No,Panic Disorder
+P0291,57,Male,6.9,4.1,3.0,3.6,3.1,1.7,5.2,None,No,No,Social Anxiety Disorder
+P0292,37,Male,9.1,0.4,7.8,5.8,5.0,3.5,5.8,Frequent,Yes,No,Depression
+P0293,52,Female,7.2,7.6,1.5,6.4,7.7,1.8,6.4,None,No,No,Generalized Anxiety Disorder
+P0294,65,Female,6.3,8.4,3.9,2.2,5.9,3.6,7.1,Occasional,No,No,No Disorder
+P0295,42,Female,6.3,7.0,5.1,4.7,7.2,4.4,7.7,Occasional,Yes,Yes,No Disorder
+P0296,52,Male,4.4,2.9,5.3,0.0,9.5,4.9,1.0,None,Yes,Yes,Depression
+P0297,42,Male,8.0,5.0,4.5,8.4,8.0,1.0,5.4,Occasional,Yes,No,Depression
+P0298,46,Female,6.6,5.5,6.0,3.1,6.0,7.2,6.3,None,No,No,Depression
+P0299,35,Female,6.4,6.9,6.8,4.7,4.7,4.6,10.5,Occasional,No,No,Depression
+P0300,63,Female,10.0,7.0,6.9,3.7,0.4,3.2,4.8,None,No,Yes,Depression
+P0301,35,Male,7.1,3.8,2.4,7.6,5.4,5.2,7.6,None,No,No,Depression
+P0302,19,Female,5.6,5.7,4.3,0.0,5.1,7.5,10.5,Occasional,Yes,Yes,No Disorder
+P0303,52,Male,6.1,6.6,8.1,4.5,6.6,0.6,4.3,None,No,No,Generalized Anxiety Disorder
+P0304,33,Male,8.4,8.8,7.3,4.2,5.5,2.8,8.1,Occasional,No,No,Generalized Anxiety Disorder
+P0305,58,Female,6.9,7.1,1.4,3.3,5.1,0.0,5.4,Frequent,No,Yes,PTSD
+P0306,53,Male,4.5,7.3,5.9,9.2,2.1,3.5,6.1,None,No,No,Depression
+P0307,50,Female,8.1,5.7,0.0,2.1,3.8,3.9,5.4,None,No,Yes,Depression
+P0308,21,Male,5.7,8.7,5.1,6.6,6.8,3.1,5.6,None,No,No,Depression
+P0309,50,Male,9.5,6.4,9.9,5.5,9.4,2.0,13.2,Occasional,No,No,Generalized Anxiety Disorder
+P0310,31,Female,8.3,3.5,2.5,7.9,5.6,0.0,9.1,Occasional,No,No,Social Anxiety Disorder
+P0311,38,Female,6.0,8.7,2.8,2.7,6.5,3.9,9.6,None,No,No,Generalized Anxiety Disorder
+P0312,65,Female,8.6,7.1,7.0,2.5,7.8,5.8,8.3,None,Yes,Yes,No Disorder
+P0313,37,Female,6.8,4.5,1.0,7.5,4.1,2.1,3.7,Occasional,No,No,OCD
+P0314,25,Female,8.0,4.4,3.4,5.6,6.6,4.0,8.1,None,No,No,No Disorder
+P0315,24,Female,7.4,6.2,6.6,0.3,4.2,0.4,9.6,Occasional,No,No,No Disorder
+P0316,20,Female,5.4,6.6,3.4,3.0,7.6,4.0,5.3,None,No,Yes,Social Anxiety Disorder
+P0317,34,Male,5.7,6.0,4.4,5.5,6.1,2.5,9.3,Frequent,No,No,No Disorder
+P0318,50,Female,8.2,6.2,6.9,6.8,6.4,1.8,8.7,None,Yes,No,Depression
+P0319,65,Male,6.2,9.4,6.1,2.7,4.2,1.8,11.3,None,No,No,Generalized Anxiety Disorder
+P0320,29,Non-binary,6.1,8.0,5.7,0.0,7.3,2.5,6.3,None,No,No,Depression
+P0321,39,Female,5.3,5.9,4.1,5.9,10.0,3.9,4.8,None,No,No,Generalized Anxiety Disorder
+P0322,39,Male,7.3,7.7,6.0,1.2,3.7,0.8,6.4,Frequent,Yes,No,PTSD
+P0323,63,Female,9.8,3.1,4.7,0.0,5.1,2.5,10.4,None,Yes,No,Depression
+P0324,47,Female,5.1,6.4,6.2,0.0,6.3,3.1,3.2,Occasional,Yes,Yes,OCD
+P0325,55,Male,6.7,9.7,3.7,6.7,7.5,1.2,2.6,None,No,No,Generalized Anxiety Disorder
+P0326,55,Female,8.8,5.0,4.5,4.8,4.6,6.4,7.4,None,No,No,Generalized Anxiety Disorder
+P0327,62,Female,6.6,3.6,2.4,3.9,0.0,1.7,6.2,None,No,No,Generalized Anxiety Disorder
+P0328,25,Male,7.4,4.0,4.9,8.3,8.7,2.0,7.2,Occasional,No,No,Depression
+P0329,44,Female,5.1,3.0,2.9,6.2,7.4,1.4,9.3,None,No,No,OCD
+P0330,44,Male,7.3,3.7,2.1,8.9,2.1,6.4,6.0,None,No,Yes,Depression
+P0331,51,Female,6.4,4.6,5.7,0.7,4.5,4.2,3.1,Frequent,No,No,No Disorder
+P0332,38,Non-binary,8.2,2.3,5.6,4.4,9.1,1.5,11.7,None,No,No,OCD
+P0333,47,Female,8.5,5.5,7.0,0.1,8.8,5.2,5.0,None,No,No,Social Anxiety Disorder
+P0334,50,Male,10.0,7.6,3.9,3.9,7.8,3.6,4.9,None,No,No,No Disorder
+P0335,45,Female,7.6,3.4,6.1,3.8,5.4,3.7,9.6,None,No,No,Depression
+P0336,64,Female,7.2,9.0,6.4,6.2,6.0,2.6,6.4,Frequent,No,Yes,Generalized Anxiety Disorder
+P0337,50,Male,7.0,6.7,6.2,4.6,5.5,1.9,7.1,None,No,No,Generalized Anxiety Disorder
+P0338,22,Female,6.2,7.9,2.9,6.2,8.2,3.8,8.3,None,Yes,No,Generalized Anxiety Disorder
+P0339,65,Male,7.2,4.0,5.4,6.4,4.0,2.2,9.6,None,Yes,No,Generalized Anxiety Disorder
+P0340,36,Female,6.3,7.5,5.9,10.0,4.1,6.5,6.5,None,Yes,No,Social Anxiety Disorder
+P0341,21,Male,7.0,3.0,5.0,3.6,7.9,0.9,10.5,None,No,Yes,Depression
+P0342,52,Male,8.7,7.5,0.0,2.0,5.7,6.0,2.5,Occasional,Yes,Yes,PTSD
+P0343,34,Male,5.2,5.9,5.4,5.2,8.7,3.0,8.9,None,Yes,No,Generalized Anxiety Disorder
+P0344,61,Female,8.4,6.8,10.0,2.3,4.4,3.7,5.4,None,No,No,Depression
+P0345,45,Male,8.7,2.8,4.1,8.5,5.7,4.7,10.2,Occasional,No,No,Generalized Anxiety Disorder
+P0346,47,Female,6.5,3.4,3.1,3.7,3.9,2.1,7.5,None,No,No,No Disorder
+P0347,46,Male,3.5,6.9,6.0,3.0,5.8,4.8,5.7,Occasional,No,No,OCD
+P0348,63,Male,5.8,3.3,5.8,3.2,2.7,0.0,8.7,None,Yes,No,OCD
+P0349,23,Female,8.6,6.6,8.1,6.4,4.8,1.9,9.2,Occasional,Yes,Yes,OCD
+P0350,52,Female,6.7,2.4,1.7,4.1,2.8,1.5,8.6,None,No,No,Generalized Anxiety Disorder
+P0351,58,Male,5.2,7.5,6.9,2.8,7.3,0.9,4.9,None,No,No,Social Anxiety Disorder
+P0352,54,Female,5.9,2.7,6.5,9.0,7.3,2.8,6.1,None,No,Yes,OCD
+P0353,41,Female,8.0,6.8,4.6,2.2,2.2,3.9,7.2,None,Yes,No,OCD
+P0354,46,Female,7.5,6.9,5.9,4.6,8.6,4.5,7.1,None,No,No,No Disorder
+P0355,63,Male,6.3,3.9,7.7,6.3,10.0,3.6,8.8,None,No,No,Generalized Anxiety Disorder
+P0356,48,Male,6.1,6.8,7.3,0.1,5.9,2.0,2.8,None,Yes,Yes,OCD
+P0357,52,Female,6.1,6.1,2.0,5.8,4.5,3.9,7.9,None,Yes,No,Depression
+P0358,50,Male,5.3,4.3,7.1,1.7,10.0,3.4,6.6,None,No,Yes,Generalized Anxiety Disorder
+P0359,38,Female,9.1,3.2,4.8,6.7,3.0,4.9,5.4,Occasional,No,Yes,Generalized Anxiety Disorder
+P0360,49,Female,6.2,1.0,5.2,1.9,5.8,4.6,5.6,Occasional,No,No,Depression
+P0361,40,Female,8.5,6.3,5.2,6.4,6.2,3.3,6.7,None,No,No,OCD
+P0362,50,Female,9.0,1.9,4.6,7.5,8.6,1.6,1.0,None,No,No,Generalized Anxiety Disorder
+P0363,20,Non-binary,8.2,5.7,8.1,6.8,6.6,2.0,5.7,None,No,No,Social Anxiety Disorder
+P0364,35,Male,6.1,4.9,4.8,5.2,4.8,2.2,5.3,None,No,No,OCD
+P0365,42,Female,7.3,7.1,2.1,3.9,3.8,2.6,8.4,Occasional,No,No,Social Anxiety Disorder
+P0366,59,Male,6.7,4.8,4.0,2.9,5.1,3.7,5.4,None,Yes,No,Generalized Anxiety Disorder
+P0367,48,Male,5.3,4.7,5.5,8.5,3.7,4.5,6.7,None,No,No,Generalized Anxiety Disorder
+P0368,20,Female,7.2,7.2,8.2,2.6,5.9,3.1,10.6,Occasional,No,No,Generalized Anxiety Disorder
+P0369,57,Female,4.9,6.3,6.6,1.7,4.6,3.2,9.4,None,Yes,No,Social Anxiety Disorder
+P0370,63,Non-binary,8.5,6.2,2.8,6.3,2.7,3.5,9.2,Occasional,No,Yes,Generalized Anxiety Disorder
+P0371,41,Female,6.0,6.6,10.0,2.4,8.4,2.3,6.1,Occasional,No,No,Depression
+P0372,49,Male,7.0,2.0,5.7,1.9,4.8,1.5,8.4,None,No,No,Social Anxiety Disorder
+P0373,64,Male,7.1,7.2,8.3,0.6,3.1,0.0,6.7,None,No,No,Social Anxiety Disorder
+P0374,39,Female,6.3,6.9,4.6,3.2,5.4,1.9,6.8,None,No,No,Social Anxiety Disorder
+P0375,40,Male,7.6,3.2,6.4,4.3,5.9,4.1,8.1,None,Yes,Yes,Generalized Anxiety Disorder
+P0376,19,Male,6.0,4.9,7.2,5.2,2.1,1.9,5.9,None,No,No,No Disorder
+P0377,44,Male,8.0,5.4,8.2,7.1,6.5,2.8,10.5,Occasional,No,No,Depression
+P0378,59,Male,4.7,5.2,7.7,5.9,3.6,4.0,6.8,None,Yes,Yes,Social Anxiety Disorder
+P0379,19,Male,6.9,6.3,7.3,4.0,9.4,4.1,8.6,None,Yes,No,Depression
+P0380,43,Male,9.6,8.8,4.2,4.0,6.9,1.3,10.4,None,No,No,OCD
+P0381,34,Male,5.2,8.0,3.5,5.9,5.0,5.0,9.5,Occasional,No,No,Depression
+P0382,57,Male,5.7,2.5,5.9,7.9,4.2,5.2,4.1,None,No,No,Depression
+P0383,50,Non-binary,7.5,6.9,7.4,4.8,5.6,1.2,8.2,Occasional,Yes,No,Depression
+P0384,26,Male,7.0,8.6,4.4,3.2,7.1,1.7,9.1,None,Yes,No,OCD
+P0385,60,Male,7.2,6.4,7.8,1.8,5.7,5.3,9.2,None,No,No,Depression
+P0386,65,Female,7.4,8.0,8.8,0.6,5.3,2.9,4.8,Occasional,Yes,No,OCD
+P0387,56,Male,7.7,10.0,2.6,6.3,5.9,0.0,5.8,Occasional,No,No,Social Anxiety Disorder
+P0388,46,Female,8.4,7.9,2.8,6.1,4.5,0.7,9.4,None,No,No,Depression
+P0389,59,Female,7.3,6.1,4.6,6.1,5.1,2.8,5.5,None,Yes,No,No Disorder
+P0390,43,Male,6.3,7.9,5.8,4.2,1.4,1.1,6.5,Occasional,Yes,No,Social Anxiety Disorder
+P0391,52,Male,7.7,5.8,3.6,8.3,7.8,2.5,10.7,None,No,No,PTSD
+P0392,42,Female,9.5,5.6,8.5,3.2,6.4,3.3,7.1,None,Yes,No,No Disorder
+P0393,41,Female,6.5,4.7,6.1,7.1,4.2,5.8,5.6,Frequent,No,No,Social Anxiety Disorder
+P0394,30,Male,5.2,9.1,5.1,4.4,9.8,2.7,5.3,None,No,Yes,No Disorder
+P0395,24,Female,8.4,3.6,1.3,2.9,6.0,5.1,7.9,None,Yes,Yes,Depression
+P0396,53,Male,6.5,9.0,1.6,6.1,3.6,5.8,4.3,None,No,No,Social Anxiety Disorder
+P0397,62,Non-binary,3.4,6.6,5.7,5.6,7.6,5.8,6.7,Occasional,Yes,No,Depression
+P0398,37,Male,8.0,2.3,0.0,5.5,6.6,3.7,7.9,Occasional,Yes,No,Generalized Anxiety Disorder
+P0399,18,Female,5.9,6.3,7.6,4.7,6.6,0.0,10.1,None,Yes,Yes,Social Anxiety Disorder
+P0400,25,Female,6.6,0.7,4.6,4.4,4.9,4.0,8.7,None,No,No,No Disorder
+P0401,63,Female,7.2,6.9,10.0,10.0,6.7,5.1,5.6,None,No,Yes,Generalized Anxiety Disorder
+P0402,33,Female,7.0,7.5,10.0,7.7,5.3,3.1,9.8,Occasional,No,No,Depression
+P0403,31,Male,7.8,4.1,4.5,6.5,7.0,6.3,6.5,None,No,No,Social Anxiety Disorder
+P0404,29,Male,6.0,5.8,4.7,4.8,1.8,4.7,4.5,Frequent,No,Yes,PTSD
+P0405,40,Male,7.5,10.0,7.6,7.2,4.9,4.2,6.8,None,No,No,No Disorder
+P0406,32,Male,6.3,4.3,9.4,5.9,9.4,5.2,10.4,Frequent,No,Yes,OCD
+P0407,45,Female,7.8,3.1,0.7,4.6,4.2,3.8,7.6,None,No,No,Generalized Anxiety Disorder
+P0408,51,Male,7.6,8.9,0.4,3.7,4.5,0.0,7.2,Occasional,Yes,No,Bipolar Disorder
+P0409,19,Male,5.3,10.0,3.4,4.3,4.9,2.3,10.8,None,Yes,No,Generalized Anxiety Disorder
+P0410,49,Non-binary,8.3,5.5,6.5,0.0,3.2,5.4,4.1,None,No,No,No Disorder
+P0411,40,Female,5.9,7.8,6.3,5.1,1.2,1.7,4.4,Occasional,No,No,Social Anxiety Disorder
+P0412,39,Female,7.9,8.6,7.8,3.2,5.3,2.8,3.6,Occasional,No,No,Generalized Anxiety Disorder
+P0413,42,Non-binary,7.3,3.8,1.9,8.8,6.1,1.3,8.0,None,No,No,Social Anxiety Disorder
+P0414,39,Male,9.5,4.4,0.0,4.6,5.7,6.4,7.6,Occasional,No,No,PTSD
+P0415,39,Male,6.4,8.3,7.2,1.3,5.5,6.2,10.6,None,No,No,Generalized Anxiety Disorder
+P0416,59,Female,6.2,9.4,2.8,4.4,5.9,1.6,7.7,Occasional,No,No,Generalized Anxiety Disorder
+P0417,23,Female,6.7,6.8,0.0,1.7,7.9,3.5,6.3,None,No,Yes,No Disorder
+P0418,32,Male,6.2,3.5,5.4,5.8,5.4,2.0,7.2,None,No,Yes,Social Anxiety Disorder
+P0419,60,Female,7.9,10.0,7.1,5.3,4.6,4.3,7.5,None,No,No,Social Anxiety Disorder
+P0420,54,Male,4.3,4.3,4.7,7.1,5.2,4.1,3.5,None,Yes,Yes,No Disorder
+P0421,50,Male,5.1,4.7,3.8,2.4,7.0,4.7,13.2,Occasional,No,Yes,No Disorder
+P0422,25,Female,5.1,6.3,4.6,4.6,8.8,3.8,8.3,None,No,Yes,Social Anxiety Disorder
+P0423,61,Female,8.1,9.1,4.0,0.8,4.5,8.5,7.7,None,No,No,Generalized Anxiety Disorder
+P0424,61,Female,9.3,7.5,1.5,6.4,6.0,1.3,8.6,None,Yes,No,Generalized Anxiety Disorder
+P0425,22,Male,6.5,6.5,3.1,5.9,6.5,0.1,8.8,Occasional,No,No,No Disorder
+P0426,56,Female,6.4,6.6,6.4,5.8,3.7,2.5,6.9,None,No,Yes,Social Anxiety Disorder
+P0427,21,Male,6.8,5.6,5.8,4.5,5.8,0.4,5.8,None,Yes,No,Generalized Anxiety Disorder
+P0428,23,Male,8.4,6.8,5.4,5.6,2.7,0.5,8.5,Frequent,No,No,No Disorder
+P0429,62,Female,5.3,0.0,2.4,8.8,2.1,1.4,8.0,None,No,No,Social Anxiety Disorder
+P0430,49,Female,7.1,4.8,4.5,3.7,6.6,1.5,5.4,Occasional,No,No,Generalized Anxiety Disorder
+P0431,47,Female,8.2,6.1,0.0,4.9,5.0,1.5,10.3,Occasional,Yes,No,Generalized Anxiety Disorder
+P0432,64,Female,7.5,2.9,5.5,1.6,6.2,4.1,7.8,None,No,No,Social Anxiety Disorder
+P0433,52,Female,7.0,6.4,8.7,2.2,5.8,2.3,8.8,Frequent,No,Yes,Social Anxiety Disorder
+P0434,57,Female,8.2,5.0,1.2,4.8,3.7,2.9,10.3,Occasional,No,Yes,No Disorder
+P0435,33,Male,3.0,9.5,3.5,7.5,5.7,4.8,7.2,None,No,Yes,Generalized Anxiety Disorder
+P0436,30,Male,7.7,9.1,5.9,3.8,3.2,1.8,7.9,None,No,No,Social Anxiety Disorder
+P0437,59,Male,5.7,4.4,8.3,3.9,8.7,2.7,9.0,Occasional,Yes,Yes,Depression
+P0438,47,Male,4.0,5.2,3.8,3.4,3.0,3.9,5.6,None,Yes,No,Depression
+P0439,36,Female,7.5,5.3,3.2,3.1,5.4,0.0,7.3,Occasional,No,Yes,Generalized Anxiety Disorder
+P0440,34,Female,8.8,4.5,0.0,5.3,3.6,0.0,7.5,None,Yes,No,Social Anxiety Disorder
+P0441,36,Male,6.5,5.9,5.3,0.5,7.0,3.8,5.1,None,No,No,Depression
+P0442,45,Male,8.1,3.8,10.0,8.0,5.1,4.1,12.3,None,No,No,Depression
+P0443,43,Female,9.1,2.9,5.7,2.7,4.7,6.9,4.1,None,No,No,No Disorder
+P0444,54,Male,8.7,6.9,4.9,6.4,7.6,3.5,4.3,None,Yes,Yes,Depression
+P0445,43,Female,9.2,6.9,5.8,1.1,5.9,4.7,10.1,Occasional,No,No,Social Anxiety Disorder
+P0446,40,Female,7.8,3.7,5.0,6.3,6.9,2.8,8.8,Occasional,No,Yes,No Disorder
+P0447,26,Female,6.8,7.6,2.9,6.3,3.7,3.7,4.9,Occasional,Yes,No,PTSD
+P0448,29,Female,4.3,4.0,7.1,5.5,2.8,6.2,8.5,None,Yes,No,OCD
+P0449,18,Female,6.3,6.1,5.6,1.8,6.0,0.0,10.4,Occasional,No,Yes,Depression
+P0450,18,Male,5.4,7.4,5.0,5.2,5.1,3.9,7.1,None,Yes,Yes,OCD
+P0451,64,Female,10.0,5.4,2.5,1.3,7.1,7.0,12.9,Occasional,No,No,Panic Disorder
+P0452,51,Female,6.4,6.5,8.4,3.8,5.6,3.7,3.4,None,Yes,No,Depression
+P0453,49,Male,6.9,4.3,6.7,7.3,6.2,6.2,8.7,Frequent,No,No,OCD
+P0454,65,Female,7.5,5.0,3.6,6.7,2.4,2.1,9.8,Occasional,No,No,Depression
+P0455,42,Female,6.8,5.0,7.6,4.5,9.8,3.1,9.2,None,No,No,Depression
+P0456,57,Female,9.2,3.8,3.7,1.9,5.5,3.3,6.8,None,No,Yes,Depression
+P0457,62,Female,5.8,5.1,3.0,6.2,7.3,0.0,6.6,None,No,No,Generalized Anxiety Disorder
+P0458,18,Female,7.0,1.9,3.0,4.6,4.0,1.1,8.2,None,Yes,Yes,Social Anxiety Disorder
+P0459,33,Female,5.6,4.4,0.4,0.0,6.4,1.2,9.0,None,Yes,No,No Disorder
+P0460,56,Female,4.7,4.8,6.2,6.6,3.1,4.7,8.5,None,No,No,Social Anxiety Disorder
+P0461,22,Female,5.8,4.9,0.2,4.4,6.7,4.8,9.5,None,No,Yes,Generalized Anxiety Disorder
+P0462,39,Female,6.6,4.9,1.8,7.7,5.1,3.8,5.0,Frequent,No,No,Depression
+P0463,46,Female,6.1,5.4,0.0,1.5,5.9,4.7,6.7,Occasional,No,No,No Disorder
+P0464,20,Female,5.7,6.6,4.8,0.0,7.3,2.9,5.1,Occasional,No,No,Generalized Anxiety Disorder
+P0465,29,Male,4.6,7.5,4.6,5.3,3.2,5.4,6.4,Occasional,No,Yes,Generalized Anxiety Disorder
+P0466,43,Female,6.6,4.0,4.2,5.3,4.4,3.2,9.4,None,No,Yes,Depression
+P0467,33,Female,4.4,2.7,2.3,0.0,6.8,3.3,7.4,None,No,No,Generalized Anxiety Disorder
+P0468,54,Male,7.8,3.1,2.0,1.9,10.0,2.7,12.9,Occasional,No,No,Depression
+P0469,39,Female,6.8,4.4,6.2,10.0,5.5,4.4,7.6,Frequent,No,No,Social Anxiety Disorder
+P0470,46,Male,4.5,4.7,3.6,3.7,7.0,2.4,7.3,None,No,Yes,Depression
+P0471,31,Male,6.2,3.7,5.8,6.5,5.6,5.0,7.4,Occasional,Yes,No,No Disorder
+P0472,45,Female,5.6,2.5,2.7,2.7,9.9,1.2,5.8,Frequent,No,No,Depression
+P0473,22,Male,7.2,4.5,5.5,0.0,2.1,1.2,7.1,Occasional,Yes,No,Depression
+P0474,64,Female,8.7,5.9,8.4,4.0,6.0,4.4,9.7,Frequent,No,No,Generalized Anxiety Disorder
+P0475,47,Female,3.9,6.9,6.5,3.8,2.4,3.0,7.5,None,Yes,No,No Disorder
+P0476,63,Female,6.9,4.2,3.9,3.4,0.5,2.4,5.5,Frequent,Yes,No,Generalized Anxiety Disorder
+P0477,22,Male,6.5,4.6,5.7,4.2,6.4,4.8,5.2,Occasional,No,No,No Disorder
+P0478,29,Male,7.7,3.4,4.4,5.2,6.1,2.1,6.2,None,No,No,Generalized Anxiety Disorder
+P0479,33,Female,7.0,5.4,5.0,4.1,5.2,2.8,7.4,Frequent,No,No,Schizophrenia
+P0480,43,Non-binary,5.6,3.5,4.2,1.1,5.6,5.7,9.8,None,No,No,Depression
+P0481,43,Female,6.2,6.8,4.6,5.8,10.0,6.0,4.3,None,No,No,No Disorder
+P0482,65,Male,5.5,1.4,5.6,0.0,5.3,6.0,6.5,None,Yes,Yes,Depression
+P0483,38,Female,8.3,4.7,2.4,0.0,6.9,2.7,7.5,None,No,Yes,No Disorder
+P0484,56,Female,6.7,6.2,2.4,6.5,4.4,5.4,3.2,None,No,Yes,Panic Disorder
+P0485,53,Female,9.6,5.9,1.4,5.9,6.4,1.5,5.4,Occasional,No,Yes,Social Anxiety Disorder
+P0486,50,Male,6.6,10.0,0.8,4.3,5.3,1.6,5.7,None,No,Yes,OCD
+P0487,47,Female,5.6,6.3,1.8,0.7,4.9,0.0,5.4,None,No,No,PTSD
+P0488,54,Female,4.4,3.2,5.4,2.6,9.6,6.2,7.6,None,No,No,No Disorder
+P0489,40,Non-binary,4.0,5.3,2.7,3.8,8.3,1.6,6.8,None,No,No,Social Anxiety Disorder
+P0490,27,Male,4.3,1.4,6.3,0.2,6.1,3.0,6.0,Occasional,No,Yes,Depression
+P0491,22,Female,7.1,5.3,5.1,2.5,1.0,1.6,8.1,Occasional,No,Yes,OCD
+P0492,53,Female,7.5,3.6,0.0,6.3,5.0,4.5,11.0,Frequent,No,No,Panic Disorder
+P0493,51,Male,4.3,7.6,6.7,8.4,10.0,2.5,10.8,None,Yes,No,Depression
+P0494,48,Female,8.0,4.2,7.1,3.4,5.3,0.9,3.0,None,No,No,Generalized Anxiety Disorder
+P0495,27,Female,6.0,5.2,2.4,6.5,8.1,4.0,8.5,Frequent,No,No,Generalized Anxiety Disorder
+P0496,36,Male,6.9,4.0,6.1,0.0,8.8,0.6,6.8,Occasional,Yes,No,Panic Disorder
+P0497,49,Male,9.1,9.5,2.8,6.3,6.3,1.7,7.5,None,No,No,Depression
+P0498,18,Female,8.0,4.8,5.3,2.3,4.0,0.0,6.3,Occasional,No,No,Depression
+P0499,22,Male,6.3,9.7,1.7,5.3,0.7,0.6,7.5,Frequent,No,No,Social Anxiety Disorder
+P0500,62,Female,5.4,7.4,0.3,3.8,7.2,3.5,7.5,Occasional,No,No,No Disorder
+P0501,21,Male,3.5,6.6,4.0,8.1,4.1,0.0,5.9,None,No,No,Generalized Anxiety Disorder
+P0502,33,Female,5.6,6.3,4.7,2.1,6.2,0.5,5.2,Occasional,Yes,No,Generalized Anxiety Disorder
+P0503,41,Male,6.4,6.4,4.0,6.2,3.2,3.2,6.2,None,No,Yes,Depression
+P0504,33,Female,5.2,1.1,1.9,3.7,5.2,2.2,7.7,None,No,No,Generalized Anxiety Disorder
+P0505,19,Non-binary,6.5,4.9,4.0,4.1,5.9,6.8,8.5,None,No,No,Generalized Anxiety Disorder
+P0506,45,Non-binary,6.8,7.4,5.7,4.0,6.4,6.5,9.1,None,Yes,No,Generalized Anxiety Disorder
+P0507,49,Female,6.4,5.4,4.9,2.2,3.5,1.6,6.1,None,No,No,Generalized Anxiety Disorder
+P0508,44,Male,5.7,2.3,5.5,4.5,8.3,4.2,7.8,None,No,No,No Disorder
+P0509,37,Female,7.0,5.4,3.3,4.3,4.5,4.5,9.3,Occasional,No,No,No Disorder
+P0510,41,Male,7.4,9.4,8.0,5.2,2.3,2.1,9.8,Occasional,No,No,Generalized Anxiety Disorder
+P0511,29,Male,5.1,8.4,1.9,4.7,5.6,0.5,7.1,Frequent,No,Yes,Generalized Anxiety Disorder
+P0512,52,Male,8.8,5.4,6.3,6.7,5.9,3.2,6.7,None,No,No,No Disorder
+P0513,50,Female,6.6,7.7,8.1,7.0,6.1,2.9,7.6,None,No,Yes,Depression
+P0514,50,Female,6.7,4.7,6.3,1.7,8.7,2.4,4.7,Frequent,No,Yes,Depression
+P0515,60,Female,7.8,1.6,4.5,6.8,5.3,4.0,6.8,None,Yes,No,Social Anxiety Disorder
+P0516,54,Male,7.0,3.4,3.6,1.3,5.5,1.8,8.8,Occasional,No,Yes,No Disorder
+P0517,29,Male,8.1,9.1,7.7,6.1,3.5,1.1,8.6,Occasional,No,No,Generalized Anxiety Disorder
+P0518,20,Non-binary,7.1,4.9,1.3,6.2,7.5,3.4,6.6,None,No,No,Depression
+P0519,18,Male,5.8,4.9,2.5,0.0,6.2,3.9,7.7,Occasional,No,Yes,Generalized Anxiety Disorder
+P0520,50,Male,7.2,4.8,4.0,4.8,4.9,1.1,5.4,Occasional,No,No,Social Anxiety Disorder
+P0521,57,Male,5.0,9.9,8.2,3.2,1.8,4.9,8.7,None,No,No,Generalized Anxiety Disorder
+P0522,27,Female,6.9,9.2,6.0,2.5,8.8,0.0,7.0,None,No,No,No Disorder
+P0523,60,Female,6.7,10.0,2.5,8.1,3.2,2.2,6.6,None,No,No,Depression
+P0524,61,Male,6.4,5.1,4.2,2.7,4.6,2.7,6.4,None,No,No,Depression
+P0525,46,Male,6.5,6.2,3.4,2.3,6.6,2.1,7.1,None,No,No,No Disorder
+P0526,30,Female,3.9,2.0,3.2,4.7,3.3,2.2,6.2,None,No,No,Generalized Anxiety Disorder
+P0527,29,Female,5.9,8.9,7.5,6.4,2.7,6.6,8.6,None,No,No,Panic Disorder
+P0528,48,Male,6.8,2.8,1.4,4.1,1.3,1.7,6.3,Frequent,No,No,OCD
+P0529,63,Female,6.9,6.0,9.2,7.6,7.3,7.6,10.7,None,Yes,Yes,No Disorder
+P0530,19,Male,5.2,3.0,7.2,5.9,4.7,4.0,10.4,None,No,No,Generalized Anxiety Disorder
+P0531,52,Male,8.6,4.1,7.8,0.0,10.0,3.4,5.2,None,No,No,OCD
+P0532,40,Female,5.4,3.6,3.8,3.1,3.7,4.1,7.4,None,No,No,No Disorder
+P0533,34,Male,8.2,4.1,4.6,3.0,3.9,7.8,5.8,None,Yes,No,No Disorder
+P0534,43,Female,7.3,4.3,1.3,5.8,4.6,1.4,6.5,None,No,No,Social Anxiety Disorder
+P0535,25,Male,5.7,4.2,3.6,0.0,6.3,1.2,11.6,None,Yes,No,PTSD
+P0536,46,Male,9.4,7.4,6.3,10.0,4.8,1.8,6.5,Occasional,No,No,OCD
+P0537,43,Non-binary,4.9,3.0,8.4,5.9,7.1,3.3,8.0,Frequent,No,Yes,Depression
+P0538,27,Male,8.1,6.0,2.1,4.9,3.7,0.1,8.4,None,No,Yes,Depression
+P0539,43,Female,8.2,8.3,4.0,7.7,2.9,3.2,5.0,None,Yes,No,Depression
+P0540,51,Male,5.7,4.3,4.6,10.0,2.0,6.2,5.3,None,Yes,No,Depression
+P0541,58,Male,8.8,3.8,1.4,6.9,1.1,3.5,4.5,Occasional,Yes,Yes,PTSD
+P0542,24,Male,6.3,5.0,6.5,7.1,4.7,2.7,5.3,None,No,Yes,Depression
+P0543,21,Female,7.1,8.2,3.1,4.9,5.2,2.1,1.0,Frequent,No,No,Generalized Anxiety Disorder
+P0544,62,Male,7.1,5.9,4.5,4.1,4.5,4.8,8.4,None,No,No,Depression
+P0545,28,Female,6.5,4.3,3.8,3.2,8.4,1.7,11.7,None,No,No,Depression
+P0546,46,Male,7.9,6.6,2.9,2.3,8.4,6.5,7.5,Occasional,No,No,Depression
+P0547,53,Non-binary,7.9,3.0,5.0,2.6,5.1,6.7,4.1,Frequent,No,Yes,Generalized Anxiety Disorder
+P0548,42,Male,4.1,7.1,4.4,0.9,2.0,3.7,5.8,Occasional,Yes,No,OCD
+P0549,38,Female,8.7,6.4,4.0,4.3,4.6,3.2,6.2,None,Yes,Yes,Depression
+P0550,53,Female,4.2,4.8,3.1,0.0,4.5,5.1,5.0,None,No,Yes,OCD
+P0551,27,Female,8.2,3.6,5.8,5.0,4.4,5.2,9.1,None,No,No,Social Anxiety Disorder
+P0552,54,Female,8.4,3.5,9.3,4.4,4.3,1.7,9.0,None,Yes,No,No Disorder
+P0553,26,Female,5.1,6.7,5.4,4.9,4.4,2.3,4.7,Occasional,Yes,Yes,No Disorder
+P0554,41,Female,6.1,8.3,7.6,3.1,5.0,0.8,8.8,Occasional,No,Yes,Depression
+P0555,52,Male,5.0,4.0,1.4,10.0,4.5,3.9,10.6,Occasional,No,No,Social Anxiety Disorder
+P0556,52,Male,6.4,6.6,5.4,8.2,6.2,4.4,11.4,Frequent,No,No,Social Anxiety Disorder
+P0557,65,Female,6.2,0.7,2.1,1.1,6.6,0.8,13.5,None,No,Yes,Depression
+P0558,53,Female,7.9,4.2,1.2,5.1,3.9,2.4,5.2,Occasional,No,No,Social Anxiety Disorder
+P0559,35,Female,8.7,5.4,3.1,2.9,8.5,0.8,13.4,Occasional,No,Yes,Depression
+P0560,56,Female,8.8,3.4,8.1,1.8,3.7,1.6,6.4,None,No,No,Depression
+P0561,49,Male,5.9,3.3,7.5,0.9,2.4,4.2,5.9,Occasional,No,No,Generalized Anxiety Disorder
+P0562,41,Male,6.4,4.0,5.6,5.7,6.6,1.9,7.9,None,No,No,Depression
+P0563,40,Female,4.2,6.2,1.0,2.7,4.1,2.7,5.9,Occasional,No,No,No Disorder
+P0564,49,Male,5.5,5.1,4.5,7.1,6.5,0.3,8.1,None,No,No,Depression
+P0565,54,Male,8.1,0.4,5.8,7.2,0.8,3.5,4.3,None,No,No,No Disorder
+P0566,29,Female,9.1,0.6,5.5,8.2,8.7,3.1,6.7,Occasional,Yes,Yes,Depression
+P0567,30,Male,4.8,4.1,0.2,2.2,7.2,1.9,10.0,Occasional,Yes,Yes,Generalized Anxiety Disorder
+P0568,40,Female,5.8,6.6,2.7,5.8,2.6,2.9,7.1,None,No,No,Depression
+P0569,42,Male,6.7,0.0,4.8,6.2,2.7,3.5,7.5,None,No,Yes,Depression
+P0570,52,Female,7.1,4.4,6.4,3.2,9.3,1.7,8.2,None,No,No,Social Anxiety Disorder
+P0571,58,Male,5.5,4.3,0.0,2.4,4.3,0.5,9.8,None,No,No,Depression
+P0572,47,Male,7.3,8.7,4.6,8.8,4.0,6.5,3.6,Occasional,Yes,No,Depression
+P0573,34,Male,6.0,4.6,5.4,5.1,1.0,2.1,8.5,Frequent,No,No,Depression
+P0574,37,Male,6.7,6.4,7.2,6.2,5.1,3.0,6.6,None,No,No,Generalized Anxiety Disorder
+P0575,65,Male,7.5,5.8,6.8,2.3,5.3,5.0,7.6,Occasional,No,No,Generalized Anxiety Disorder
+P0576,42,Male,6.7,0.6,6.5,1.2,7.3,9.6,9.5,None,No,Yes,Depression
+P0577,39,Female,6.0,7.3,2.9,3.0,2.9,1.0,4.6,Occasional,No,No,Depression
+P0578,30,Male,6.5,6.0,0.0,4.2,2.6,4.0,5.0,None,No,Yes,No Disorder
+P0579,36,Female,6.6,6.7,4.0,1.6,6.7,1.9,2.9,None,No,Yes,Depression
+P0580,53,Female,6.1,10.0,7.6,4.5,7.9,2.2,6.0,Occasional,No,No,Generalized Anxiety Disorder
+P0581,29,Female,6.3,0.7,8.6,0.0,2.5,1.9,10.1,None,No,Yes,Social Anxiety Disorder
+P0582,58,Male,9.1,9.5,6.8,1.5,8.1,1.2,6.9,Occasional,No,Yes,Depression
+P0583,36,Female,7.5,4.8,6.1,6.3,5.9,3.1,4.3,Occasional,No,Yes,Generalized Anxiety Disorder
+P0584,29,Male,6.3,6.2,6.0,6.1,8.1,0.5,6.1,None,No,No,Depression
+P0585,26,Male,7.7,5.4,3.6,3.4,5.7,4.9,3.9,None,No,No,No Disorder
+P0586,24,Non-binary,6.2,4.5,4.7,1.8,0.5,3.3,4.7,Occasional,No,Yes,No Disorder
+P0587,45,Male,8.5,4.2,9.3,1.7,5.5,4.0,8.1,Occasional,No,No,Depression
+P0588,31,Female,7.3,6.3,2.5,3.5,8.0,2.4,4.6,None,No,Yes,OCD
+P0589,48,Female,6.5,2.0,9.2,6.2,3.9,2.5,9.6,None,No,No,Generalized Anxiety Disorder
+P0590,36,Female,7.4,7.2,4.2,7.0,5.0,3.7,7.0,Occasional,Yes,No,No Disorder
+P0591,64,Female,4.3,4.5,8.4,3.2,5.4,1.1,7.4,None,Yes,No,Social Anxiety Disorder
+P0592,33,Male,5.0,2.9,1.3,1.4,0.0,2.6,6.6,None,No,No,Generalized Anxiety Disorder
+P0593,22,Male,4.9,4.5,6.5,5.2,9.3,1.7,8.9,None,No,No,No Disorder
+P0594,52,Female,6.9,8.4,3.1,2.3,3.9,1.6,8.9,Occasional,No,Yes,Social Anxiety Disorder
+P0595,29,Male,9.3,4.3,1.3,3.1,6.9,0.0,7.9,Occasional,Yes,No,Social Anxiety Disorder
+P0596,42,Male,10.0,6.3,5.6,8.1,5.6,5.6,8.4,Frequent,No,Yes,PTSD
+P0597,38,Male,7.7,3.8,7.6,6.7,8.4,2.0,6.7,Occasional,No,No,Depression
+P0598,53,Male,7.5,7.2,2.8,4.9,6.7,5.3,8.4,Frequent,No,No,No Disorder
+P0599,40,Male,4.0,7.1,1.1,1.1,5.3,5.1,6.5,None,No,No,Social Anxiety Disorder
+P0600,33,Male,5.9,9.8,4.8,5.1,3.9,0.9,7.2,Occasional,Yes,Yes,Social Anxiety Disorder
+P0601,56,Female,5.5,5.1,4.8,7.4,7.5,1.2,6.6,None,No,Yes,No Disorder
+P0602,62,Female,5.8,7.0,6.4,3.5,1.9,7.8,6.2,Occasional,No,No,Social Anxiety Disorder
+P0603,59,Female,6.4,5.7,7.5,8.1,7.2,6.4,5.7,None,Yes,No,Generalized Anxiety Disorder
+P0604,56,Male,6.0,8.5,4.8,8.0,3.5,3.1,8.2,None,Yes,No,Depression
+P0605,31,Male,3.7,3.8,9.8,9.0,8.4,3.7,10.1,Occasional,Yes,No,Social Anxiety Disorder
+P0606,48,Male,7.8,7.2,5.6,5.3,6.1,2.1,9.8,Occasional,No,No,No Disorder
+P0607,22,Female,5.1,5.1,4.1,6.1,7.2,4.0,4.4,None,No,Yes,Generalized Anxiety Disorder
+P0608,52,Female,7.1,5.4,0.8,8.3,6.0,1.9,10.0,None,No,Yes,Depression
+P0609,40,Male,9.8,5.7,4.3,5.7,2.1,0.0,6.5,None,Yes,Yes,Depression
+P0610,46,Female,5.3,6.1,4.1,3.1,4.0,0.8,8.5,None,No,No,Social Anxiety Disorder
+P0611,60,Male,3.0,5.2,7.5,3.3,7.2,3.2,5.2,Occasional,No,Yes,PTSD
+P0612,28,Female,6.3,6.0,6.2,5.1,6.1,1.2,7.5,None,No,Yes,Social Anxiety Disorder
+P0613,35,Female,8.4,9.1,1.9,1.0,8.3,3.1,7.9,Frequent,Yes,Yes,Depression
+P0614,64,Female,9.6,7.8,5.4,4.1,6.6,1.3,3.9,None,Yes,Yes,Social Anxiety Disorder
+P0615,29,Female,4.9,7.5,6.7,7.5,3.8,1.8,8.5,Occasional,No,No,Generalized Anxiety Disorder
+P0616,26,Female,7.4,4.5,9.0,0.0,4.1,4.7,10.2,Occasional,Yes,Yes,OCD
+P0617,27,Male,6.0,3.5,7.3,8.6,6.0,3.6,6.8,None,No,No,Generalized Anxiety Disorder
+P0618,61,Female,6.5,7.7,7.0,7.5,0.9,3.2,10.2,None,No,No,No Disorder
+P0619,34,Male,10.0,7.5,5.2,3.3,9.3,4.8,6.8,Occasional,No,No,PTSD
+P0620,55,Female,4.4,8.9,6.0,6.0,6.7,4.1,9.1,Occasional,Yes,Yes,Social Anxiety Disorder
+P0621,24,Female,7.1,4.1,8.2,4.5,8.4,5.8,2.3,None,No,No,Depression
+P0622,63,Female,7.4,5.0,1.5,7.8,2.5,2.4,12.5,None,No,Yes,No Disorder
+P0623,30,Male,8.3,1.7,4.1,7.2,8.4,2.4,10.5,None,No,No,PTSD
+P0624,57,Female,6.8,4.6,3.0,0.7,10.0,0.9,6.6,None,No,Yes,OCD
+P0625,59,Female,7.2,7.8,6.0,6.1,3.0,2.4,2.9,None,No,No,Generalized Anxiety Disorder
+P0626,26,Female,6.1,4.4,8.2,3.9,7.4,4.9,7.8,None,No,No,Depression
+P0627,44,Male,7.1,7.0,3.4,4.7,5.8,5.5,4.0,Occasional,No,No,No Disorder
+P0628,19,Male,6.2,5.1,0.0,2.5,2.6,4.9,8.2,Occasional,No,No,Social Anxiety Disorder
+P0629,22,Male,7.6,6.2,3.9,9.2,6.8,0.0,8.1,Frequent,Yes,No,Depression
+P0630,46,Male,6.1,2.9,7.4,7.3,7.6,5.1,5.1,Occasional,No,No,No Disorder
+P0631,54,Female,7.3,5.7,6.4,2.5,4.5,0.0,9.7,Frequent,No,Yes,Depression
+P0632,55,Male,6.7,0.0,6.1,0.9,8.2,4.8,9.0,None,No,No,Depression
+P0633,36,Non-binary,8.4,5.1,4.3,3.5,2.3,2.5,9.3,None,Yes,No,OCD
+P0634,25,Male,6.6,1.7,1.7,5.7,2.7,4.5,7.2,Frequent,No,No,Social Anxiety Disorder
+P0635,65,Male,4.0,8.3,6.3,5.1,6.1,0.8,4.1,Occasional,No,No,Generalized Anxiety Disorder
+P0636,62,Female,8.6,7.3,2.8,7.9,5.9,5.3,9.4,None,Yes,No,Depression
+P0637,18,Female,5.3,6.6,10.0,6.6,4.3,0.6,6.6,Occasional,No,Yes,Depression
+P0638,39,Female,5.7,9.0,6.5,7.1,7.5,2.0,4.1,Frequent,No,Yes,Social Anxiety Disorder
+P0639,34,Female,5.8,3.3,3.5,5.4,6.9,1.4,10.2,Occasional,No,Yes,Social Anxiety Disorder
+P0640,24,Female,8.8,9.5,3.4,0.7,7.6,0.0,11.8,None,No,Yes,Depression
+P0641,42,Male,3.5,7.6,4.8,4.0,5.5,3.4,7.1,Occasional,Yes,No,Generalized Anxiety Disorder
+P0642,62,Non-binary,10.0,5.0,4.4,7.4,7.1,6.5,12.0,Frequent,No,No,Depression
+P0643,21,Non-binary,8.3,8.1,7.9,4.4,4.9,8.0,7.4,None,No,Yes,Generalized Anxiety Disorder
+P0644,53,Female,7.0,3.0,5.5,5.9,10.0,3.4,6.4,Occasional,No,No,No Disorder
+P0645,23,Male,6.6,3.6,3.1,3.6,4.1,5.2,5.8,None,No,No,No Disorder
+P0646,48,Female,7.1,4.1,9.9,1.7,10.0,3.6,10.8,Occasional,No,No,Depression
+P0647,36,Male,7.5,4.3,5.1,4.2,5.9,4.1,5.5,None,No,No,Depression
+P0648,61,Male,7.7,3.1,7.0,5.3,2.9,2.6,8.8,None,Yes,No,No Disorder
+P0649,56,Male,7.5,8.3,3.4,2.7,8.7,3.6,6.0,None,No,Yes,Generalized Anxiety Disorder
+P0650,44,Male,6.8,4.9,5.9,3.9,6.1,4.2,6.2,Occasional,No,No,Social Anxiety Disorder
+P0651,27,Female,6.4,6.3,5.8,2.0,7.6,2.2,9.5,None,No,No,Generalized Anxiety Disorder
+P0652,43,Female,6.5,4.2,0.1,7.5,8.4,3.1,6.4,None,No,No,No Disorder
+P0653,36,Female,6.4,1.3,10.0,3.7,6.5,3.1,6.3,Occasional,No,No,Depression
+P0654,56,Male,8.4,6.1,8.4,8.4,4.6,4.7,9.7,None,Yes,No,Depression
+P0655,20,Male,7.6,1.1,4.0,8.6,7.8,1.3,10.7,None,No,No,Depression
+P0656,62,Male,3.0,5.3,2.1,4.3,5.8,3.1,8.6,Frequent,No,Yes,No Disorder
+P0657,30,Non-binary,7.7,2.4,5.9,1.8,7.2,6.6,5.8,None,No,Yes,Depression
+P0658,45,Male,7.0,10.0,5.2,0.0,1.3,5.3,6.1,None,No,No,Social Anxiety Disorder
+P0659,37,Female,6.7,7.6,5.9,0.5,6.7,5.6,7.4,None,Yes,No,Generalized Anxiety Disorder
+P0660,45,Female,6.1,5.7,5.5,0.8,4.5,3.2,7.9,Occasional,No,No,OCD
+P0661,25,Male,8.4,8.4,6.3,8.2,9.3,3.8,5.0,Frequent,Yes,No,Depression
+P0662,58,Female,8.1,3.6,8.8,4.8,7.1,5.0,8.8,Frequent,Yes,No,Social Anxiety Disorder
+P0663,56,Female,5.5,6.8,6.5,5.6,6.3,6.0,7.4,Occasional,No,No,Depression
+P0664,18,Female,7.3,6.0,2.3,0.0,6.8,0.0,3.4,None,No,No,OCD
+P0665,20,Female,5.2,6.1,8.5,1.3,3.7,0.8,5.2,None,No,Yes,OCD
+P0666,30,Male,4.6,8.4,9.3,6.9,9.2,5.6,6.1,None,Yes,No,Social Anxiety Disorder
+P0667,45,Male,5.8,7.2,10.0,5.3,10.0,2.7,7.0,None,No,No,No Disorder
+P0668,42,Female,8.0,6.2,2.1,4.1,6.6,2.0,11.4,Occasional,No,Yes,Social Anxiety Disorder
+P0669,50,Female,8.1,1.7,5.6,6.0,9.1,0.9,7.7,Occasional,No,Yes,PTSD
+P0670,55,Male,7.5,3.3,0.0,8.9,4.6,2.2,5.4,None,No,No,Social Anxiety Disorder
+P0671,23,Female,7.8,5.2,6.4,3.9,4.1,0.7,7.7,Occasional,No,Yes,Social Anxiety Disorder
+P0672,61,Female,7.5,5.7,3.6,4.7,5.9,7.0,6.4,None,No,No,No Disorder
+P0673,62,Female,5.7,2.9,10.0,5.0,6.7,3.2,7.9,None,No,No,Social Anxiety Disorder
+P0674,49,Male,7.3,10.0,3.0,10.0,5.0,3.1,8.5,Occasional,No,No,Generalized Anxiety Disorder
+P0675,62,Female,7.9,9.0,0.6,0.0,6.9,4.3,9.9,None,Yes,No,Generalized Anxiety Disorder
+P0676,64,Female,7.8,6.9,3.8,6.3,6.4,4.9,7.1,None,No,No,Depression
+P0677,38,Male,8.5,5.7,0.0,4.2,3.7,4.9,10.8,None,Yes,No,No Disorder
+P0678,33,Male,7.8,5.0,7.0,6.0,6.9,5.1,9.2,None,Yes,No,Generalized Anxiety Disorder
+P0679,38,Non-binary,7.2,3.3,0.0,2.7,7.6,2.1,5.6,Occasional,Yes,No,Depression
+P0680,28,Male,8.3,5.7,5.1,4.4,6.2,2.7,12.1,Frequent,No,No,Social Anxiety Disorder
+P0681,54,Female,6.7,6.1,0.0,6.4,8.2,4.6,7.9,None,No,No,No Disorder
+P0682,53,Female,5.4,2.6,4.2,10.0,3.2,2.3,5.4,None,No,Yes,Depression
+P0683,52,Male,6.5,6.3,9.3,6.7,6.8,3.2,10.8,Occasional,No,No,OCD
+P0684,36,Female,5.6,5.1,5.9,2.2,3.3,3.9,11.8,Frequent,Yes,No,Depression
+P0685,37,Male,5.7,1.1,2.8,3.4,3.5,4.6,7.1,None,No,Yes,No Disorder
+P0686,35,Female,6.5,3.5,4.9,3.3,4.5,0.0,6.1,None,No,Yes,PTSD
+P0687,64,Male,5.5,4.5,5.0,0.0,3.8,4.5,6.8,Occasional,No,Yes,Depression
+P0688,58,Female,6.2,9.8,6.2,3.6,4.6,2.8,8.8,None,No,No,No Disorder
+P0689,31,Male,3.9,6.8,1.4,6.5,5.4,4.5,10.0,None,Yes,No,No Disorder
+P0690,32,Male,7.0,2.4,6.5,1.1,7.6,4.6,8.5,Occasional,Yes,Yes,Depression
+P0691,48,Non-binary,6.7,6.6,0.0,7.3,5.1,6.1,7.4,None,No,No,Generalized Anxiety Disorder
+P0692,18,Male,5.5,1.9,3.4,5.8,2.5,5.6,10.5,None,No,No,Generalized Anxiety Disorder
+P0693,20,Female,7.7,8.0,3.7,2.5,8.2,5.6,6.5,None,No,Yes,Social Anxiety Disorder
+P0694,33,Male,8.1,4.4,6.6,4.1,4.0,5.8,9.5,Occasional,No,No,Generalized Anxiety Disorder
+P0695,40,Female,4.3,5.3,5.1,8.8,5.7,3.7,6.6,None,No,No,Depression
+P0696,28,Male,5.6,8.5,1.3,6.5,6.7,3.3,8.1,None,No,No,Social Anxiety Disorder
+P0697,29,Non-binary,5.5,2.5,2.4,4.5,6.2,4.8,7.0,None,Yes,Yes,Generalized Anxiety Disorder
+P0698,27,Male,5.3,2.3,5.5,3.9,8.1,4.5,7.1,Occasional,Yes,Yes,PTSD
+P0699,49,Male,7.9,4.2,4.8,4.7,6.8,2.6,6.4,None,No,Yes,Generalized Anxiety Disorder
+P0700,33,Male,6.4,7.9,3.5,3.1,4.0,3.9,10.2,None,No,No,Depression
+P0701,25,Male,6.3,2.0,3.7,0.0,10.0,3.1,5.6,None,Yes,No,No Disorder
+P0702,55,Female,3.7,0.0,6.8,10.0,6.2,1.7,5.6,Occasional,Yes,No,Depression
+P0703,29,Male,7.7,4.5,3.7,4.9,5.5,5.5,11.9,None,Yes,No,Social Anxiety Disorder
+P0704,41,Female,4.8,6.8,4.8,5.6,7.8,3.3,9.4,None,Yes,Yes,Generalized Anxiety Disorder
+P0705,45,Male,6.8,8.3,10.0,4.3,6.3,6.9,2.0,None,Yes,No,OCD
+P0706,25,Male,7.1,4.4,1.3,2.5,6.6,0.3,6.0,Occasional,No,No,Generalized Anxiety Disorder
+P0707,45,Female,8.7,4.6,0.2,4.0,10.0,2.2,3.2,None,No,No,Depression
+P0708,53,Female,4.7,8.2,7.0,0.2,5.2,3.3,5.1,Occasional,No,No,Generalized Anxiety Disorder
+P0709,43,Male,3.0,1.2,3.2,10.0,5.1,5.2,1.0,Occasional,No,No,Depression
+P0710,25,Male,7.0,4.6,4.2,1.2,6.0,3.9,6.9,Frequent,No,No,Bipolar Disorder
+P0711,45,Male,9.4,5.9,3.0,1.7,8.1,3.8,4.7,None,No,Yes,Social Anxiety Disorder
+P0712,45,Female,8.6,6.5,4.3,3.3,2.6,1.2,7.3,Frequent,No,Yes,Depression
+P0713,54,Female,7.0,4.3,9.2,8.0,1.7,1.1,3.6,None,No,Yes,No Disorder
+P0714,58,Male,6.0,5.6,7.1,4.5,4.6,3.8,7.4,None,No,No,Social Anxiety Disorder
+P0715,53,Female,7.9,0.0,7.2,1.2,2.4,0.7,6.3,Occasional,No,Yes,No Disorder
+P0716,44,Female,5.2,4.0,1.3,7.9,4.9,2.2,10.5,None,No,Yes,Generalized Anxiety Disorder
+P0717,34,Female,7.4,6.5,2.0,6.5,6.9,4.1,10.3,None,No,No,Social Anxiety Disorder
+P0718,26,Female,7.5,3.2,0.0,6.0,3.9,1.4,8.9,None,No,No,No Disorder
+P0719,50,Male,8.3,5.6,2.9,6.4,2.8,6.1,6.5,None,No,No,Generalized Anxiety Disorder
+P0720,37,Male,10.0,6.5,7.5,10.0,5.9,5.4,11.6,None,Yes,No,Generalized Anxiety Disorder
+P0721,30,Male,7.3,4.7,6.3,10.0,7.6,0.4,3.8,Occasional,No,No,Social Anxiety Disorder
+P0722,45,Male,5.9,5.9,4.4,2.6,2.2,1.5,4.1,Occasional,No,No,Depression
+P0723,65,Female,6.7,3.3,4.9,8.9,7.5,0.0,7.0,Occasional,Yes,Yes,Social Anxiety Disorder
+P0724,46,Female,4.0,5.0,3.2,5.5,7.5,1.8,12.2,None,No,No,Generalized Anxiety Disorder
+P0725,30,Male,5.7,6.9,5.5,5.8,7.8,4.6,6.8,Frequent,No,No,Depression
+P0726,63,Male,6.1,5.9,7.0,0.0,8.4,2.5,6.8,None,Yes,No,Social Anxiety Disorder
+P0727,52,Male,5.9,4.2,0.8,4.0,10.0,4.0,4.0,None,No,Yes,Generalized Anxiety Disorder
+P0728,23,Female,6.9,6.0,5.8,2.3,5.1,0.5,9.3,None,Yes,No,Depression
+P0729,35,Male,5.5,7.1,7.4,6.7,6.0,4.6,9.3,None,No,Yes,Generalized Anxiety Disorder
+P0730,22,Female,8.4,0.8,3.9,7.4,4.9,2.2,8.9,None,No,No,Generalized Anxiety Disorder
+P0731,64,Male,6.7,8.2,6.8,0.0,5.8,3.2,5.8,None,No,No,No Disorder
+P0732,42,Male,6.7,4.7,10.0,4.4,9.0,3.0,5.6,None,No,No,Social Anxiety Disorder
+P0733,19,Non-binary,6.2,6.5,4.7,7.5,3.0,0.9,4.4,None,No,No,Depression
+P0734,27,Non-binary,6.9,8.3,6.0,4.0,4.0,1.1,7.4,None,No,No,Depression
+P0735,47,Male,7.9,2.3,3.1,6.5,8.7,4.9,4.8,Occasional,No,No,Generalized Anxiety Disorder
+P0736,62,Female,5.4,3.9,5.5,5.4,7.9,3.9,4.6,Occasional,No,No,Depression
+P0737,22,Female,5.7,4.8,6.2,5.4,5.0,5.1,6.3,None,No,No,Depression
+P0738,50,Female,6.2,3.7,5.5,3.8,7.6,3.8,6.1,None,No,Yes,Generalized Anxiety Disorder
+P0739,18,Male,4.7,9.5,2.3,1.2,6.5,3.5,6.0,Frequent,Yes,No,Generalized Anxiety Disorder
+P0740,35,Female,5.5,3.5,5.5,1.5,9.0,0.1,8.2,None,No,Yes,Generalized Anxiety Disorder
+P0741,49,Female,6.0,4.2,8.8,6.4,6.0,2.7,7.4,Occasional,No,No,Depression
+P0742,64,Female,8.0,6.0,6.2,4.6,8.0,3.2,6.6,None,No,No,Generalized Anxiety Disorder
+P0743,28,Male,7.1,2.7,7.5,4.1,10.0,6.7,7.6,Frequent,No,No,No Disorder
+P0744,38,Male,7.0,4.6,4.4,3.4,7.1,4.4,5.0,None,No,No,No Disorder
+P0745,43,Male,8.0,6.2,6.9,3.7,5.9,6.0,7.4,None,Yes,No,Depression
+P0746,42,Female,6.5,4.7,5.7,7.3,7.3,4.3,7.5,Occasional,Yes,Yes,Generalized Anxiety Disorder
+P0747,39,Male,7.3,5.3,2.5,3.6,5.0,1.9,3.9,None,No,No,Depression
+P0748,44,Female,6.5,4.3,5.8,0.9,10.0,3.4,9.4,None,No,Yes,Depression
+P0749,30,Non-binary,7.1,2.0,2.4,6.5,6.2,3.6,5.3,None,No,No,Generalized Anxiety Disorder
+P0750,50,Male,5.8,6.2,3.4,3.9,5.2,1.5,7.4,Occasional,No,Yes,Social Anxiety Disorder
+P0751,51,Female,3.0,9.5,5.5,4.6,4.0,2.5,9.8,None,No,No,No Disorder
+P0752,58,Male,6.5,5.5,5.8,8.8,8.1,2.8,9.2,None,No,Yes,No Disorder
+P0753,52,Female,8.8,6.0,1.9,4.4,7.6,6.1,7.3,None,No,No,OCD
+P0754,18,Male,8.1,7.1,7.7,5.3,4.8,0.0,6.4,None,No,No,Generalized Anxiety Disorder
+P0755,38,Female,8.1,2.6,6.5,1.3,7.0,5.4,9.3,Occasional,Yes,No,Generalized Anxiety Disorder
+P0756,65,Female,8.6,9.4,3.2,3.9,2.6,1.5,8.7,None,No,Yes,No Disorder
+P0757,23,Female,6.8,6.0,1.0,6.1,6.2,0.7,5.8,None,No,No,Generalized Anxiety Disorder
+P0758,45,Female,7.0,9.3,4.6,0.3,6.8,5.3,5.5,None,No,Yes,Depression
+P0759,34,Female,5.8,3.8,3.8,5.0,9.4,4.5,2.6,None,No,No,Depression
+P0760,22,Female,6.2,9.7,5.3,4.8,4.2,5.5,7.5,None,No,No,No Disorder
+P0761,48,Female,7.6,7.3,4.1,4.6,3.1,4.6,7.0,None,No,No,Generalized Anxiety Disorder
+P0762,22,Female,8.5,6.8,0.0,7.3,3.9,6.9,9.7,None,No,No,Social Anxiety Disorder
+P0763,55,Male,6.5,6.0,4.0,5.4,3.0,4.2,8.0,Frequent,No,No,PTSD
+P0764,20,Female,6.0,4.9,4.2,8.5,8.6,2.9,10.1,None,No,No,No Disorder
+P0765,40,Female,6.7,8.3,6.6,1.8,9.1,3.8,5.7,Occasional,Yes,No,Depression
+P0766,54,Female,7.6,5.8,3.2,4.9,6.5,5.4,9.7,None,No,No,No Disorder
+P0767,54,Male,4.5,1.0,9.4,4.7,8.4,1.8,6.0,None,No,No,Depression
+P0768,27,Female,3.3,2.9,0.0,1.6,6.1,2.0,8.9,None,No,No,Depression
+P0769,27,Male,5.9,5.1,8.4,7.1,5.6,2.6,4.0,None,No,Yes,Depression
+P0770,36,Female,4.9,6.2,4.4,10.0,5.1,0.0,7.7,Frequent,No,No,Depression
+P0771,34,Male,5.9,5.4,7.2,4.5,5.1,3.4,2.8,Frequent,No,No,Depression
+P0772,38,Female,6.5,8.3,5.2,5.9,2.5,0.0,6.6,Occasional,Yes,Yes,Depression
+P0773,31,Non-binary,6.0,1.0,8.0,4.7,6.4,3.3,8.2,None,No,Yes,Depression
+P0774,26,Male,8.9,5.8,4.0,2.6,5.7,4.8,6.1,None,Yes,No,Generalized Anxiety Disorder
+P0775,63,Non-binary,7.2,1.3,2.1,0.0,7.4,2.3,4.9,None,Yes,No,PTSD
+P0776,18,Male,7.2,7.2,8.7,2.6,6.0,6.2,9.1,Frequent,No,No,Generalized Anxiety Disorder
+P0777,62,Female,7.6,5.3,4.7,0.7,5.5,0.6,7.0,None,No,No,Depression
+P0778,30,Female,5.0,6.5,5.6,9.1,4.0,5.3,6.1,None,No,No,Generalized Anxiety Disorder
+P0779,21,Female,8.3,3.5,8.2,4.2,6.0,4.4,7.3,None,Yes,No,No Disorder
+P0780,18,Female,6.6,8.4,2.3,3.6,7.4,0.1,13.0,None,No,No,Social Anxiety Disorder
+P0781,57,Female,7.7,7.9,6.5,6.9,3.4,8.1,9.7,Frequent,Yes,No,Depression
+P0782,49,Male,5.1,6.8,3.5,1.5,6.0,3.1,9.8,None,No,Yes,Generalized Anxiety Disorder
+P0783,51,Male,4.4,5.2,4.7,2.4,6.3,1.6,8.2,None,No,No,Depression
+P0784,45,Female,7.9,6.8,5.2,4.7,4.3,0.7,7.6,None,Yes,No,Generalized Anxiety Disorder
+P0785,48,Female,7.3,3.9,1.1,7.3,4.6,2.8,1.9,Occasional,No,No,Depression
+P0786,25,Female,5.3,7.5,3.0,5.9,6.3,3.0,5.7,None,Yes,No,Generalized Anxiety Disorder
+P0787,56,Female,5.4,9.3,8.5,5.2,3.4,3.4,6.1,Occasional,No,Yes,No Disorder
+P0788,43,Male,8.4,8.0,7.3,4.7,6.5,2.7,3.1,None,No,No,Generalized Anxiety Disorder
+P0789,51,Female,4.9,3.8,4.8,5.6,3.9,4.3,4.7,Occasional,No,No,Generalized Anxiety Disorder
+P0790,20,Male,9.2,6.3,5.6,5.0,8.0,2.5,2.8,Occasional,No,No,No Disorder
+P0791,29,Female,5.3,2.5,4.2,1.7,10.0,0.0,7.1,None,No,No,No Disorder
+P0792,18,Male,7.7,6.8,8.5,4.6,4.0,2.9,9.0,None,Yes,No,OCD
+P0793,61,Male,6.2,6.5,4.5,1.6,6.9,0.0,9.6,None,Yes,No,No Disorder
+P0794,22,Male,7.6,1.2,5.6,4.7,4.3,3.8,8.1,None,No,No,Depression
+P0795,47,Male,5.9,2.8,8.0,3.2,8.0,1.4,5.1,Occasional,No,No,Depression
+P0796,47,Female,6.5,4.8,3.0,10.0,3.1,3.5,2.9,None,Yes,No,Social Anxiety Disorder
+P0797,34,Male,6.8,4.8,9.1,4.4,6.8,5.6,3.3,None,No,No,Depression
+P0798,65,Male,5.2,2.7,1.0,0.7,4.0,1.5,4.4,None,No,Yes,No Disorder
+P0799,64,Male,7.8,6.4,9.2,4.1,5.4,5.1,5.2,None,No,No,Social Anxiety Disorder
+P0800,40,Male,5.9,6.1,4.0,5.9,3.6,2.4,6.8,Occasional,No,No,Generalized Anxiety Disorder
+P0801,32,Male,6.4,5.1,4.4,9.0,7.5,6.4,5.0,None,No,No,No Disorder
+P0802,54,Male,5.2,3.8,0.1,2.9,4.0,2.5,7.9,Frequent,No,No,Depression
+P0803,38,Female,3.0,7.9,3.8,0.2,7.0,1.7,6.7,Frequent,Yes,No,OCD
+P0804,31,Female,6.4,9.3,2.3,6.7,5.1,4.4,7.2,None,No,Yes,PTSD
+P0805,19,Female,10.0,4.4,3.4,0.8,5.6,2.4,9.7,None,Yes,No,Depression
+P0806,28,Male,7.9,4.1,4.6,3.3,6.1,1.7,4.6,Occasional,Yes,No,No Disorder
+P0807,56,Male,6.7,6.6,7.5,3.8,4.2,2.3,8.1,None,No,No,Generalized Anxiety Disorder
+P0808,55,Female,6.3,4.7,5.5,4.3,6.2,3.1,7.2,None,No,Yes,No Disorder
+P0809,51,Female,6.7,5.2,5.8,6.4,9.0,5.6,6.5,None,No,No,Generalized Anxiety Disorder
+P0810,55,Male,7.5,7.2,2.2,2.7,4.2,0.0,9.1,None,No,No,No Disorder
+P0811,51,Male,4.9,1.1,2.7,3.8,8.3,3.2,9.1,Occasional,No,Yes,Generalized Anxiety Disorder
+P0812,35,Male,8.4,8.5,9.7,4.5,8.9,4.3,5.1,None,Yes,No,Generalized Anxiety Disorder
+P0813,47,Male,7.8,5.7,3.1,4.9,4.1,3.5,6.8,None,No,Yes,Social Anxiety Disorder
+P0814,32,Male,7.8,4.6,9.3,4.8,2.7,5.6,7.8,Frequent,No,No,No Disorder
+P0815,44,Female,7.4,5.3,4.4,5.7,6.4,3.1,6.6,Occasional,Yes,No,OCD
+P0816,51,Female,6.7,5.4,5.0,6.8,4.7,2.9,8.5,None,No,No,Generalized Anxiety Disorder
+P0817,55,Female,7.7,1.5,7.8,5.6,9.7,4.3,7.8,Occasional,No,Yes,Generalized Anxiety Disorder
+P0818,50,Female,7.6,8.9,8.3,5.7,5.9,3.4,11.2,None,No,No,OCD
+P0819,41,Female,6.2,5.6,4.7,0.2,4.1,2.5,3.8,Occasional,No,No,No Disorder
+P0820,32,Female,5.8,6.5,4.0,4.6,3.4,4.1,6.9,None,Yes,No,Generalized Anxiety Disorder
+P0821,47,Female,6.9,7.7,4.9,5.8,8.1,2.0,5.2,None,No,No,Generalized Anxiety Disorder
+P0822,59,Male,9.0,3.2,5.9,6.5,4.6,2.1,8.5,Occasional,Yes,No,Depression
+P0823,34,Male,4.8,6.6,7.3,2.6,5.9,2.2,3.6,None,No,Yes,Depression
+P0824,22,Male,4.5,4.9,5.0,2.7,7.8,5.6,8.0,Frequent,No,No,No Disorder
+P0825,46,Female,6.9,7.4,6.6,2.9,4.8,0.0,5.8,None,No,No,No Disorder
+P0826,21,Female,6.8,0.6,9.3,5.9,5.7,3.9,5.6,Frequent,No,No,Generalized Anxiety Disorder
+P0827,27,Male,7.0,5.3,6.0,7.3,5.8,3.3,4.0,Frequent,Yes,No,Social Anxiety Disorder
+P0828,34,Female,7.1,4.1,5.8,3.4,7.2,0.2,6.2,None,No,Yes,Depression
+P0829,27,Male,6.4,6.5,1.1,7.0,7.0,3.8,9.6,Occasional,No,Yes,No Disorder
+P0830,34,Female,8.9,6.6,0.0,4.8,5.3,4.1,7.1,None,No,No,PTSD
+P0831,37,Male,4.3,3.9,6.0,4.2,5.9,4.3,8.6,Frequent,No,No,No Disorder
+P0832,41,Male,5.5,3.9,4.8,3.9,5.0,0.0,10.9,None,No,No,Generalized Anxiety Disorder
+P0833,22,Female,6.5,5.2,3.7,6.5,2.7,5.7,7.8,Occasional,Yes,No,Generalized Anxiety Disorder
+P0834,51,Male,4.2,3.4,5.6,5.4,6.3,1.9,6.0,None,No,No,PTSD
+P0835,23,Male,6.4,7.4,4.8,10.0,9.8,4.4,8.2,None,No,No,Generalized Anxiety Disorder
+P0836,19,Male,9.2,4.7,7.9,2.2,3.9,4.5,6.0,None,No,No,Generalized Anxiety Disorder
+P0837,30,Female,6.7,0.0,5.2,5.9,4.2,1.6,6.1,None,No,Yes,Generalized Anxiety Disorder
+P0838,60,Female,7.0,4.6,3.1,3.1,4.0,4.4,3.9,Occasional,No,Yes,Social Anxiety Disorder
+P0839,60,Male,4.8,3.1,7.6,2.2,7.3,2.5,9.2,None,No,No,Generalized Anxiety Disorder
+P0840,65,Female,5.8,1.7,4.4,4.5,6.7,0.0,6.4,Occasional,No,No,Generalized Anxiety Disorder
+P0841,28,Female,6.1,2.7,6.4,4.9,5.5,5.3,7.6,None,No,No,Depression
+P0842,64,Male,6.2,5.8,3.8,10.0,3.9,1.8,4.9,None,Yes,No,No Disorder
+P0843,40,Male,8.6,8.6,3.3,4.0,6.0,1.7,8.2,None,No,No,Generalized Anxiety Disorder
+P0844,33,Male,7.5,6.2,5.2,1.4,2.5,2.5,5.5,Occasional,No,Yes,Generalized Anxiety Disorder
+P0845,48,Male,5.0,4.1,5.0,5.2,6.1,3.7,6.9,Frequent,No,No,Social Anxiety Disorder
+P0846,28,Female,7.1,6.5,6.2,0.0,7.6,3.1,9.1,None,No,Yes,OCD
+P0847,33,Male,7.4,4.4,4.3,4.3,3.2,4.2,8.9,None,No,Yes,Depression
+P0848,25,Female,8.4,3.9,0.2,4.5,2.6,0.8,7.2,None,No,No,Social Anxiety Disorder
+P0849,21,Female,9.1,2.8,3.9,6.6,9.1,1.9,3.3,Occasional,No,Yes,No Disorder
+P0850,57,Male,5.2,1.5,7.1,7.1,4.5,3.0,13.8,None,No,No,No Disorder
+P0851,21,Female,5.5,4.6,4.2,3.1,8.2,6.6,11.0,Occasional,No,Yes,Social Anxiety Disorder
+P0852,42,Male,4.8,5.9,4.4,4.1,5.5,3.0,8.8,None,No,Yes,OCD
+P0853,20,Non-binary,6.3,5.3,7.6,2.4,5.5,5.2,5.5,Occasional,No,No,PTSD
+P0854,49,Female,7.4,4.5,3.1,1.5,6.7,3.3,7.0,Occasional,Yes,No,Generalized Anxiety Disorder
+P0855,20,Female,8.2,3.3,1.0,5.3,3.9,2.3,6.0,None,No,Yes,No Disorder
+P0856,44,Female,6.6,6.9,4.6,1.1,6.1,2.8,10.0,None,Yes,Yes,Generalized Anxiety Disorder
+P0857,46,Male,6.2,2.5,3.7,3.4,5.0,2.9,7.8,None,No,No,Generalized Anxiety Disorder
+P0858,49,Female,6.9,7.3,2.5,1.8,3.0,4.3,5.5,None,No,No,No Disorder
+P0859,36,Female,5.4,3.2,4.5,6.0,6.5,5.7,6.2,Occasional,No,No,Depression
+P0860,38,Female,9.8,3.8,6.3,9.4,5.2,3.8,9.7,None,No,No,No Disorder
+P0861,22,Female,4.3,2.1,5.0,1.0,5.5,5.3,10.7,Occasional,No,Yes,Depression
+P0862,35,Female,7.0,4.3,5.8,0.0,3.3,1.5,10.6,None,Yes,No,Generalized Anxiety Disorder
+P0863,45,Male,9.7,7.7,9.7,4.2,9.1,2.5,8.9,None,Yes,No,Depression
+P0864,59,Male,6.7,6.7,4.1,4.5,7.6,1.9,6.6,None,Yes,No,Depression
+P0865,39,Female,6.4,7.8,5.7,5.1,7.8,3.8,1.0,None,No,Yes,No Disorder
+P0866,38,Male,6.2,6.7,3.7,3.3,5.2,2.6,7.9,None,No,No,No Disorder
+P0867,23,Female,6.4,3.0,2.8,4.0,2.2,4.5,7.2,None,No,Yes,Depression
+P0868,18,Female,8.8,4.7,3.5,5.5,9.9,1.5,7.5,None,No,Yes,OCD
+P0869,22,Male,3.4,3.7,3.8,7.3,5.7,3.3,7.3,None,Yes,Yes,Generalized Anxiety Disorder
+P0870,58,Male,9.0,8.6,5.9,0.0,4.2,4.4,4.3,None,No,Yes,Depression
+P0871,29,Female,4.6,2.7,10.0,3.5,6.7,0.0,8.4,None,Yes,No,PTSD
+P0872,43,Male,6.3,7.6,3.1,5.1,8.3,7.0,8.6,None,Yes,No,Depression
+P0873,63,Female,6.1,7.6,3.9,2.0,5.8,2.7,8.7,Frequent,Yes,Yes,Depression
+P0874,51,Male,7.6,9.7,4.8,9.2,8.5,0.0,9.3,None,No,No,OCD
+P0875,31,Female,4.3,4.6,6.0,2.8,8.1,3.5,8.5,Occasional,No,No,No Disorder
+P0876,43,Male,7.4,7.1,5.7,4.4,3.5,3.3,6.3,None,No,No,No Disorder
+P0877,62,Female,9.7,10.0,8.3,6.0,4.4,3.1,7.0,Occasional,No,No,Depression
+P0878,44,Male,4.7,4.1,0.0,2.9,7.8,5.0,7.4,None,No,Yes,OCD
+P0879,26,Female,7.0,2.0,0.0,0.0,0.1,4.5,7.4,Frequent,Yes,No,No Disorder
+P0880,43,Male,5.7,1.2,3.7,3.3,5.5,3.7,9.4,None,No,No,Generalized Anxiety Disorder
+P0881,64,Female,7.3,7.1,7.9,7.3,2.8,4.0,8.6,Occasional,No,No,Generalized Anxiety Disorder
+P0882,39,Female,6.7,1.2,0.9,3.6,4.8,3.0,11.8,None,No,No,Social Anxiety Disorder
+P0883,64,Male,5.7,4.6,0.0,2.2,5.2,6.4,12.1,None,No,No,Depression
+P0884,47,Male,7.4,6.5,6.5,7.0,5.0,0.5,7.4,Occasional,No,No,Social Anxiety Disorder
+P0885,60,Male,9.4,5.9,5.6,3.6,4.6,3.5,1.0,None,No,Yes,OCD
+P0886,65,Female,6.4,6.5,2.2,3.1,3.5,3.3,9.9,None,No,No,PTSD
+P0887,34,Female,7.8,6.0,2.4,4.9,10.0,4.7,6.0,None,No,Yes,PTSD
+P0888,43,Female,4.8,8.4,2.5,6.6,9.7,1.7,5.4,Occasional,Yes,No,Generalized Anxiety Disorder
+P0889,53,Male,5.3,3.3,5.3,10.0,3.4,0.1,6.3,Frequent,No,No,No Disorder
+P0890,18,Male,7.4,3.9,3.4,6.7,9.1,3.5,6.2,None,No,No,Generalized Anxiety Disorder
+P0891,25,Female,8.9,3.7,6.3,7.6,5.0,3.7,8.5,Occasional,No,No,No Disorder
+P0892,52,Female,7.2,7.4,0.0,3.1,6.1,5.9,3.8,None,No,No,No Disorder
+P0893,32,Non-binary,6.2,7.6,2.8,1.7,5.7,0.9,4.8,None,No,No,Depression
+P0894,64,Male,6.7,6.5,2.1,4.7,4.4,5.3,8.0,Frequent,No,No,Depression
+P0895,39,Female,4.8,8.2,4.3,4.8,7.9,7.5,8.6,Occasional,Yes,No,Depression
+P0896,31,Male,7.6,2.8,3.6,1.6,6.1,2.5,8.6,Occasional,Yes,No,Social Anxiety Disorder
+P0897,43,Male,8.0,9.3,7.1,4.0,4.8,0.9,5.5,None,No,No,Depression
+P0898,45,Female,6.0,9.0,0.2,5.6,3.1,2.5,5.0,None,No,No,Depression
+P0899,40,Female,6.0,7.2,5.1,5.5,3.9,3.2,6.1,None,No,No,No Disorder
+P0900,31,Non-binary,7.1,9.6,6.5,5.9,2.4,4.2,7.7,None,Yes,No,Depression
+P0901,41,Male,6.0,1.7,9.8,5.3,5.8,2.1,10.5,None,Yes,Yes,Depression
+P0902,19,Male,6.6,4.3,3.7,3.1,3.3,6.0,2.7,Occasional,Yes,No,Social Anxiety Disorder
+P0903,62,Female,9.8,3.8,5.8,3.1,5.2,1.2,6.7,Occasional,No,No,Generalized Anxiety Disorder
+P0904,43,Female,6.3,7.2,0.3,1.3,8.7,0.1,4.3,None,No,No,No Disorder
+P0905,31,Male,6.2,3.1,0.0,9.3,8.3,5.2,3.6,None,No,No,No Disorder
+P0906,24,Male,5.7,7.2,7.2,4.5,5.7,0.0,9.3,Occasional,No,Yes,Depression
+P0907,20,Male,7.8,8.7,5.0,3.9,5.6,2.8,8.4,None,No,No,Generalized Anxiety Disorder
+P0908,64,Female,6.4,7.1,8.1,2.0,9.7,8.8,8.2,Occasional,No,No,Generalized Anxiety Disorder
+P0909,40,Male,5.7,6.2,1.4,10.0,6.9,3.2,9.2,None,Yes,No,Depression
+P0910,63,Male,8.7,3.2,6.4,1.6,5.1,1.2,6.1,None,No,Yes,No Disorder
+P0911,60,Male,8.8,3.6,9.9,3.3,2.8,3.1,6.2,Frequent,No,No,Depression
+P0912,64,Male,5.8,8.4,6.1,5.6,6.6,3.1,12.0,None,Yes,No,Generalized Anxiety Disorder
+P0913,62,Male,3.9,7.3,5.7,6.1,7.5,3.5,6.7,None,Yes,Yes,OCD
+P0914,35,Female,8.2,5.4,5.0,7.1,4.5,4.4,8.8,None,No,Yes,Generalized Anxiety Disorder
+P0915,55,Male,5.7,4.5,0.9,9.4,6.4,1.3,7.2,Frequent,No,No,Depression
+P0916,52,Female,7.9,0.8,8.5,5.9,5.0,6.2,3.1,Occasional,No,No,Generalized Anxiety Disorder
+P0917,32,Male,3.7,3.0,3.4,1.6,5.4,3.6,2.7,None,Yes,No,Depression
+P0918,42,Female,8.0,9.9,6.3,3.8,0.6,4.5,5.9,None,No,Yes,PTSD
+P0919,54,Female,4.9,2.6,0.9,5.3,5.3,2.1,9.5,Occasional,No,No,Social Anxiety Disorder
+P0920,45,Female,7.8,5.9,1.9,10.0,7.8,5.5,8.9,None,No,No,No Disorder
+P0921,27,Female,6.7,7.8,8.7,0.7,4.5,2.7,9.2,Occasional,No,No,Depression
+P0922,56,Male,5.3,2.6,4.1,7.7,5.9,3.7,5.0,None,Yes,No,Generalized Anxiety Disorder
+P0923,34,Male,6.1,5.9,8.8,5.0,4.2,1.5,10.8,None,Yes,No,Social Anxiety Disorder
+P0924,56,Female,7.7,7.7,4.8,6.8,6.6,1.4,5.1,Occasional,Yes,No,Generalized Anxiety Disorder
+P0925,39,Non-binary,6.9,5.5,0.2,4.2,5.3,4.4,7.7,None,No,Yes,Generalized Anxiety Disorder
+P0926,43,Female,7.6,10.0,7.3,2.2,3.8,2.4,7.2,Occasional,No,No,Generalized Anxiety Disorder
+P0927,61,Female,9.7,1.7,3.5,6.5,8.6,1.7,6.8,None,No,Yes,Depression
+P0928,42,Female,4.4,7.9,6.8,6.3,7.8,2.0,10.1,None,No,No,No Disorder
+P0929,34,Male,9.1,5.1,5.1,7.1,4.5,4.5,5.6,Frequent,No,Yes,Depression
+P0930,30,Male,6.9,7.3,1.0,4.5,6.8,2.1,4.2,None,No,No,Generalized Anxiety Disorder
+P0931,37,Female,5.4,6.5,5.4,2.9,6.9,3.0,7.2,Occasional,No,No,No Disorder
+P0932,42,Female,4.7,3.8,10.0,0.3,7.1,3.2,6.3,None,No,Yes,Depression
+P0933,21,Male,6.4,6.0,6.3,6.7,2.2,0.0,14.0,None,Yes,Yes,Generalized Anxiety Disorder
+P0934,27,Female,8.1,1.2,4.9,5.6,7.9,0.6,8.7,Occasional,No,No,Generalized Anxiety Disorder
+P0935,20,Male,6.5,6.9,7.8,1.9,4.6,3.8,6.3,None,No,No,Depression
+P0936,58,Female,9.0,6.2,5.5,3.0,5.0,1.9,4.9,Occasional,Yes,No,Generalized Anxiety Disorder
+P0937,62,Male,4.5,7.0,5.5,3.2,10.0,5.1,3.1,None,No,No,Social Anxiety Disorder
+P0938,35,Male,6.7,7.9,2.2,0.5,6.4,4.9,4.9,None,No,Yes,Generalized Anxiety Disorder
+P0939,64,Female,4.8,6.3,5.6,2.3,5.0,4.5,7.5,None,Yes,No,Generalized Anxiety Disorder
+P0940,53,Male,7.2,5.8,7.7,1.4,1.2,6.5,10.3,None,Yes,Yes,Depression
+P0941,64,Female,8.0,3.5,2.8,3.4,8.7,3.1,9.7,None,No,No,OCD
+P0942,39,Female,6.1,3.9,8.7,2.5,3.0,4.4,7.7,None,Yes,No,Depression
+P0943,51,Female,3.0,8.2,4.8,0.1,3.7,2.1,6.5,None,No,No,Depression
+P0944,64,Male,7.0,8.8,2.7,10.0,5.1,7.6,7.8,None,Yes,No,Depression
+P0945,25,Male,7.4,5.0,7.6,7.9,8.8,6.8,6.1,Occasional,Yes,Yes,Generalized Anxiety Disorder
+P0946,57,Male,7.3,5.6,4.3,2.4,7.4,3.2,11.0,None,No,No,Generalized Anxiety Disorder
+P0947,61,Non-binary,8.6,3.4,7.0,5.2,5.5,3.9,6.8,Frequent,No,No,Generalized Anxiety Disorder
+P0948,36,Female,5.1,8.2,4.2,5.6,6.4,5.6,7.0,None,Yes,Yes,Depression
+P0949,59,Female,7.7,7.0,4.8,7.7,4.5,2.9,2.3,None,No,Yes,Generalized Anxiety Disorder
+P0950,58,Female,8.5,10.0,6.3,2.3,6.1,2.0,6.8,Occasional,Yes,No,Depression
+P0951,54,Female,4.0,3.5,5.8,7.4,6.0,4.8,9.0,None,Yes,No,Depression
+P0952,23,Female,7.2,4.6,0.0,3.0,7.8,3.3,4.9,None,No,No,No Disorder
+P0953,43,Male,5.9,6.0,2.1,0.9,7.8,3.5,5.5,None,No,No,No Disorder
+P0954,51,Female,6.6,7.0,7.4,6.5,6.8,1.7,8.9,None,No,Yes,Depression
+P0955,62,Male,7.2,5.0,4.7,8.0,5.0,0.1,4.0,None,No,No,Generalized Anxiety Disorder
+P0956,23,Female,6.0,3.5,3.6,10.0,7.4,3.6,9.5,Frequent,No,No,No Disorder
+P0957,54,Female,5.7,7.5,1.5,1.3,5.6,4.8,6.0,None,No,Yes,No Disorder
+P0958,50,Female,6.8,7.2,2.2,6.4,3.5,2.8,6.3,Occasional,Yes,No,Generalized Anxiety Disorder
+P0959,39,Male,5.1,3.4,0.0,3.4,5.0,5.8,4.7,Occasional,Yes,Yes,OCD
+P0960,38,Male,5.1,8.6,4.7,6.6,6.0,1.9,8.0,None,No,Yes,No Disorder
+P0961,23,Male,7.7,8.2,3.4,0.5,7.7,1.3,12.6,None,No,Yes,Depression
+P0962,23,Male,5.0,5.8,2.5,1.1,5.4,3.1,8.9,Occasional,No,No,Depression
+P0963,65,Male,7.7,5.7,4.8,2.4,3.3,3.1,5.3,Occasional,No,No,Depression
+P0964,21,Female,7.4,6.8,5.9,4.7,5.9,4.6,9.7,None,No,No,Panic Disorder
+P0965,47,Female,4.1,3.5,10.0,2.8,6.0,1.8,6.5,None,Yes,No,Depression
+P0966,28,Male,5.7,5.6,1.1,6.3,6.2,5.7,10.2,None,No,No,No Disorder
+P0967,47,Male,8.5,0.5,8.0,7.3,7.7,6.7,9.0,None,No,No,Depression
+P0968,48,Male,5.2,7.5,7.5,6.1,7.9,3.1,1.0,None,No,No,Depression
+P0969,41,Female,6.0,1.9,3.0,8.9,4.6,5.4,5.0,Occasional,Yes,No,Social Anxiety Disorder
+P0970,26,Female,7.4,9.0,5.5,5.6,4.5,1.3,9.3,None,No,No,No Disorder
+P0971,20,Female,7.9,4.7,3.8,1.2,3.6,5.1,7.5,Occasional,No,Yes,Social Anxiety Disorder
+P0972,48,Female,6.3,5.0,5.5,8.2,7.3,5.1,4.9,Occasional,No,No,Social Anxiety Disorder
+P0973,57,Non-binary,5.8,4.1,8.9,2.9,8.8,4.8,5.8,None,No,No,PTSD
+P0974,54,Female,8.8,4.8,6.6,7.0,5.1,3.2,3.0,None,No,No,Generalized Anxiety Disorder
+P0975,53,Male,9.3,8.8,6.3,8.7,5.3,0.0,7.0,Occasional,No,Yes,PTSD
+P0976,41,Female,8.2,0.0,3.9,5.7,8.9,2.0,12.1,Occasional,No,Yes,Generalized Anxiety Disorder
+P0977,48,Male,6.8,8.4,1.1,0.5,6.9,2.1,9.0,Occasional,Yes,No,Generalized Anxiety Disorder
+P0978,23,Female,5.5,6.3,4.5,2.0,6.7,1.4,12.0,None,No,Yes,Generalized Anxiety Disorder
+P0979,19,Male,5.5,2.7,8.1,8.1,3.3,3.4,9.1,None,No,Yes,OCD
+P0980,37,Female,7.5,3.0,1.0,4.0,7.2,2.4,9.5,None,No,No,Depression
+P0981,45,Female,7.3,9.4,2.3,4.7,3.8,1.7,11.5,None,Yes,No,Social Anxiety Disorder
+P0982,28,Female,8.8,3.3,5.3,6.5,3.4,1.3,8.0,Occasional,No,No,Panic Disorder
+P0983,21,Female,7.7,2.8,2.4,6.4,5.1,1.9,6.8,None,Yes,No,Depression
+P0984,32,Male,4.4,8.1,2.9,5.3,4.6,5.2,9.5,Occasional,Yes,No,Depression
+P0985,23,Male,8.3,6.3,3.9,3.9,5.3,2.0,10.4,None,No,No,Generalized Anxiety Disorder
+P0986,47,Male,5.2,3.3,1.4,3.7,2.8,2.3,6.1,Occasional,Yes,Yes,No Disorder
+P0987,55,Male,6.1,6.0,2.5,6.8,7.8,2.4,5.6,Frequent,Yes,No,Social Anxiety Disorder
+P0988,19,Female,7.1,3.1,6.8,6.0,8.2,3.8,7.5,None,No,No,No Disorder
+P0989,32,Male,9.7,8.0,1.6,3.8,1.7,4.0,9.0,Frequent,Yes,No,Depression
+P0990,28,Non-binary,10.0,7.9,0.8,7.4,7.9,0.0,9.0,None,No,No,No Disorder
+P0991,25,Female,7.6,6.7,3.4,4.2,4.1,5.0,4.1,None,Yes,No,No Disorder
+P0992,43,Female,6.4,6.3,6.9,2.2,7.6,5.8,11.4,Occasional,No,Yes,PTSD
+P0993,62,Male,7.5,9.6,4.5,2.5,5.7,1.3,5.8,Frequent,No,No,OCD
+P0994,61,Female,8.0,5.5,3.8,1.9,5.9,1.4,6.6,None,No,No,No Disorder
+P0995,22,Female,6.2,2.8,5.1,3.8,5.4,2.4,5.2,None,No,No,Social Anxiety Disorder
+P0996,23,Female,9.4,6.5,0.5,7.8,8.3,1.8,13.1,Occasional,Yes,No,PTSD
+P0997,43,Female,7.0,10.0,6.3,2.3,3.2,3.6,7.7,Occasional,Yes,No,Panic Disorder
+P0998,21,Female,7.4,3.2,6.0,5.0,7.1,0.0,5.3,None,No,No,Generalized Anxiety Disorder
+P0999,36,Male,7.7,4.7,3.9,2.7,8.1,1.2,9.1,Occasional,No,Yes,OCD
+P1000,37,Female,7.3,6.5,7.6,3.8,7.3,6.0,8.9,None,Yes,No,No Disorder

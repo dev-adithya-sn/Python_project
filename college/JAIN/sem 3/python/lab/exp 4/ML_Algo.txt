@@ -1,0 +1,93 @@
+#CatBoost #1
+from catboost import CatBoostClassifier
+classifier = CatBoostClassifier()
+classifier.fit(X_train, y_train)
+# Predicting the Test set results
+y_pred = classifier.predict(X_test)
+------------------------------------------------------------------------
+#DTC #2
+from sklearn.tree import DecisionTreeClassifier
+classifier = DecisionTreeClassifier(criterion='entropy', random_state=0)
+classifier.fit(X_train, y_train)
+y_pred=classifier.predict(X_test)
+------------------------------------------------------------------------
+#GBC #3
+from sklearn.ensemble import GradientBoostingClassifier
+classifier = GradientBoostingClassifier()
+classifier.fit(X_train, y_train)
+y_pred=classifier.predict(X_test)
+------------------------------------------------------------------------
+#KNeighborsClassifier #4
+from sklearn.neighbors import KNeighborsClassifier
+k = 3  # Number of neighbors
+knn_classifier = KNeighborsClassifier(n_neighbors=k)
+knn_classifier.fit(X_train, y_train)
+# Predicting the Test set results
+y_pred = knn_classifier.predict(X_test)
+------------------------------------------------------------------------
+#LDA #5
+from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
+classifier = LinearDiscriminantAnalysis()
+classifier.fit(X_train, y_train)
+# Predicting the Test set results
+y_pred = classifier.predict(X_test)
+------------------------------------------------------------------------
+#LG #6
+from sklearn.linear_model import LogisticRegression
+classifier = LogisticRegression(random_state = 0)
+classifier.fit(X_train, y_train)
+y_pred=classifier.predict(X_test)
+-----------------------------------------------------------------------
+#LGBM #7
+from lightgbm import LGBMClassifier
+classifier = LGBMClassifier()
+classifier.fit(X_train, y_train)
+y_pred=classifier.predict(X_test)
+---------------------------------------------------------------------
+#SVM   #8
+from sklearn.svm import SVC
+classifier = SVC(kernel='linear', probability=True, random_state=0)
+classifier.fit(X_train, y_train)
+y_pred=classifier.predict(X_test)
+---------------------------------------------------------------------
+#MLPC  #9
+from sklearn.neural_network import MLPClassifier
+classifier = MLPClassifier(hidden_layer_sizes=(13, 13, 13), max_iter=500, random_state=42)
+classifier.fit(X_train, y_train)
+y_pred=classifier.predict(X_test)
+---------------------------------------------------------------------
+#NB #10
+from sklearn.naive_bayes import GaussianNB
+classifier = GaussianNB()
+classifier.fit(X_train, y_train)
+y_pred=classifier.predict(X_test)
+---------------------------------------------------------------------
+#QDA #11
+from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
+classifier = QuadraticDiscriminantAnalysis()
+classifier.fit(X_train, y_train)
+y_pred=classifier.predict(X_test)
+---------------------------------------------------------------------
+#RFC #12
+from sklearn.ensemble import RandomForestClassifier
+classifier = RandomForestClassifier(n_estimators=10, criterion='entropy', random_state=0)
+classifier.fit(X_train, y_train)
+y_pred=classifier.predict(X_test)
+---------------------------------------------------------------------
+#XGB #13
+from xgboost import XGBClassifier
+classifier = XGBClassifier()
+classifier.fit(X_train, y_train)
+y_pred=classifier.predict(X_test)
+-------------------------------------------------------------------
+#AdaBoostClassifier #14
+from sklearn.ensemble import AdaBoostClassifier
+classifier = AdaBoostClassifier()
+classifier.fit(X_train, y_train)
+y_pred = classifier.predict(X_test)
+-------------------------------------------------------------------
+#SVM      #15
+from sklearn.svm import SVC
+classifier = SVC(kernel='rbf', probability=True, random_state=0)
+classifier.fit(X_train, y_train)
+y_pred=classifier.predict(X_test)

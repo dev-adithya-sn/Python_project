@@ -1,0 +1,1001 @@
+Record_ID,Crop,State,Season,Month,Soil_Type,Market_Type,Rainfall_mm,Temperature_C,Humidity_Percent,Cultivated_Area_Hectare,Production_Tons,Demand_Index,Supply_Index,Fertilizer_Usage_kg_per_Hectare,Transport_Cost_INR_per_Quintal,Market_Price_INR_per_Quintal
+1,Onion,Telangana,Kharif,5,Sandy,Mandi,491.8,21.1,38.2,21.72,123.97,130.81,52.06,292.18,16.98,3173.03
+2,Groundnut,Karnataka,Rabi,12,Red Soil,Local Market,285.7,28.5,57.0,1.64,13.64,83.28,59.06,200.78,8.88,6230.95
+3,Cotton,Madhya Pradesh,Kharif,3,Sandy,Local Market,1304.5,27.0,35.7,23.58,128.35,98.54,51.6,100.03,6.34,8334.05
+4,Potato,Uttar Pradesh,Summer,4,Red Soil,Local Market,532.5,33.1,58.4,5.59,30.6,63.13,134.23,156.94,9.11,1402.31
+5,Cotton,Punjab,Summer,12,Red Soil,Wholesale Market,320.1,24.5,56.4,7.15,52.2,95.68,78.09,181.1,4.54,7581.29
+6,Maize,Andhra Pradesh,Kharif,10,Sandy,Local Market,805.6,20.3,82.5,15.77,60.18,66.36,81.1,124.55,15.13,1980.26
+7,Potato,Punjab,Summer,3,Sandy,Local Market,435.4,32.3,76.8,14.25,98.28,109.38,102.27,151.16,2.46,1751.81
+8,Cotton,Punjab,Kharif,11,Black Soil,Wholesale Market,564.7,36.9,67.9,17.52,134.26,122.44,79.56,67.43,10.22,8540.55
+9,Cotton,Punjab,Rabi,10,Sandy,Mandi,439.2,25.1,84.9,7.17,43.26,60.05,85.26,119.24,4.96,5836.5
+10,Rice,Andhra Pradesh,Rabi,11,Silty,Mandi,751.0,28.4,73.7,9.41,78.13,156.24,75.18,169.28,7.42,3423.02
+11,Rice,Madhya Pradesh,Kharif,2,Sandy,Local Market,1029.2,19.0,50.3,22.75,72.28,74.49,98.95,296.27,6.36,2171.99
+12,Rice,Uttar Pradesh,Rabi,2,Black Soil,Mandi,1232.0,28.7,40.0,20.96,78.5,78.65,54.08,193.63,14.2,2637.11
+13,Maize,Tamil Nadu,Summer,7,Sandy,Mandi,520.3,31.8,56.3,23.45,57.75,94.11,61.35,280.42,17.79,2439.3
+14,Soybean,Madhya Pradesh,Kharif,1,Silty,Mandi,624.9,19.9,84.3,22.56,133.82,93.9,84.92,228.75,18.15,4501.37
+15,Potato,Punjab,Kharif,1,Silty,Wholesale Market,500.5,36.0,68.4,0.73,1.61,126.35,50.51,81.81,11.88,2434.17
+16,Sugarcane,Telangana,Kharif,5,Silty,Local Market,527.2,25.3,75.9,18.16,66.4,114.25,100.88,205.45,6.51,392.86
+17,Tomato,Punjab,Kharif,8,Sandy,APMC,1228.3,33.9,62.6,14.63,72.38,79.52,122.25,113.0,2.44,2148.15
+18,Groundnut,Punjab,Summer,5,Silty,Local Market,1688.9,26.6,88.2,24.11,180.13,89.44,88.51,261.3,7.7,5658.2
+19,Wheat,Karnataka,Rabi,3,Red Soil,APMC,1133.6,19.9,68.8,24.76,61.42,111.83,137.74,232.6,14.55,1871.72
+20,Soybean,Uttar Pradesh,Rabi,9,Sandy,APMC,1197.8,19.6,35.3,15.88,45.42,67.09,89.68,53.2,17.96,4315.48
+21,Wheat,Tamil Nadu,Summer,9,Red Soil,Wholesale Market,490.3,37.6,81.1,21.58,70.17,63.88,80.33,179.64,7.88,2122.99
+22,Groundnut,Uttar Pradesh,Rabi,4,Black Soil,Mandi,887.6,32.0,42.6,3.75,31.08,131.46,54.11,143.69,9.8,7701.5
+23,Soybean,Uttar Pradesh,Rabi,5,Black Soil,APMC,375.4,26.6,72.9,1.93,15.26,104.24,73.98,64.41,5.29,5265.56
+24,Onion,Madhya Pradesh,Summer,7,Black Soil,APMC,324.0,29.3,43.7,3.44,13.39,69.18,59.42,120.97,19.63,2652.59
+25,Groundnut,Telangana,Rabi,5,Clay,Mandi,983.9,21.5,58.9,10.26,59.62,123.51,54.53,137.4,13.27,7458.39
+26,Groundnut,Maharashtra,Summer,12,Clay,Local Market,1158.0,36.8,66.7,10.01,60.09,105.83,104.56,284.78,8.95,5767.23
+27,Rice,Madhya Pradesh,Rabi,12,Sandy,Mandi,406.2,18.4,40.2,17.23,34.43,91.9,134.49,46.05,16.66,1870.47
+28,Groundnut,Tamil Nadu,Kharif,8,Sandy,Local Market,1389.4,34.1,50.5,4.85,32.76,140.68,149.05,147.28,8.7,5387.15
+29,Onion,Madhya Pradesh,Summer,5,Red Soil,Mandi,619.8,31.6,75.7,6.34,26.27,113.43,99.66,141.3,7.36,2663.42
+30,Cotton,Andhra Pradesh,Rabi,3,Black Soil,Local Market,1183.8,29.1,46.7,23.68,165.03,71.35,143.09,293.3,19.93,4765.21
+31,Soybean,Maharashtra,Summer,11,Black Soil,Wholesale Market,431.5,20.9,76.9,15.65,34.55,68.41,120.1,58.92,16.79,3540.29
+32,Groundnut,Punjab,Summer,6,Black Soil,Local Market,1509.8,36.9,89.2,18.96,78.38,68.35,127.71,185.19,9.64,4352.02
+33,Soybean,Andhra Pradesh,Summer,2,Red Soil,Wholesale Market,976.4,19.1,41.5,3.38,20.43,134.6,108.34,290.16,8.75,5130.3
+34,Tomato,Maharashtra,Rabi,5,Clay,Mandi,317.3,36.5,85.6,6.7,42.66,67.54,66.62,96.37,7.3,2803.11
+35,Rice,Maharashtra,Rabi,7,Red Soil,Wholesale Market,320.4,23.6,87.3,22.31,104.62,122.01,77.74,88.91,10.35,2894.33
+36,Groundnut,Karnataka,Summer,1,Red Soil,Wholesale Market,683.6,26.2,68.2,7.14,17.37,67.62,144.05,148.33,12.46,3501.85
+37,Sugarcane,Tamil Nadu,Rabi,11,Red Soil,APMC,320.1,18.5,55.7,20.36,171.25,75.04,109.41,139.03,19.46,306.34
+38,Wheat,Karnataka,Summer,7,Loamy,Local Market,1590.3,34.3,90.0,24.92,134.27,136.9,144.48,260.91,6.45,2188.96
+39,Sugarcane,Punjab,Kharif,4,Sandy,Local Market,604.4,31.4,69.0,9.27,21.27,127.16,102.03,240.8,11.36,396.72
+40,Groundnut,Punjab,Rabi,1,Sandy,Local Market,457.7,18.6,76.5,15.7,100.93,81.3,63.64,43.78,8.31,6323.39
+41,Wheat,Tamil Nadu,Rabi,2,Sandy,Wholesale Market,789.8,28.3,78.1,10.22,59.83,146.24,144.95,78.24,18.68,2115.84
+42,Potato,Maharashtra,Rabi,2,Red Soil,Local Market,759.6,30.7,48.2,2.36,5.67,72.8,65.19,76.1,13.54,1830.29
+43,Potato,Telangana,Kharif,3,Sandy,Mandi,1048.6,37.5,68.1,5.98,43.37,94.51,84.76,48.27,11.88,1704.07
+44,Wheat,Karnataka,Rabi,11,Clay,Local Market,310.9,34.0,69.5,2.5,19.04,152.09,56.11,111.99,16.51,3250.15
+45,Rice,Andhra Pradesh,Kharif,8,Silty,Wholesale Market,1001.0,30.4,55.3,11.83,79.64,63.67,75.24,225.47,18.11,2538.35
+46,Wheat,Tamil Nadu,Rabi,9,Sandy,Wholesale Market,1393.0,21.6,66.0,21.1,44.83,113.53,73.32,129.16,10.53,2661.18
+47,Soybean,Andhra Pradesh,Kharif,4,Black Soil,APMC,1082.5,29.7,76.0,11.08,26.52,88.38,86.31,207.94,12.27,4367.53
+48,Tomato,Maharashtra,Rabi,4,Red Soil,Wholesale Market,1568.8,19.8,79.3,1.86,13.76,65.16,51.82,221.21,19.95,2851.56
+49,Tomato,Tamil Nadu,Summer,6,Silty,Wholesale Market,1761.4,27.8,74.8,20.61,134.57,113.5,97.66,258.03,5.69,2916.88
+50,Rice,Tamil Nadu,Rabi,11,Red Soil,Local Market,1694.6,24.4,67.7,9.55,44.69,114.86,104.89,92.45,14.32,2292.6
+51,Cotton,Karnataka,Summer,1,Black Soil,Local Market,430.9,27.5,68.3,19.96,44.85,145.07,124.6,146.21,18.79,7704.74
+52,Tomato,Telangana,Kharif,5,Sandy,Local Market,562.5,21.3,44.0,20.46,125.96,112.31,85.88,268.07,9.06,3006.85
+53,Potato,Madhya Pradesh,Summer,3,Red Soil,Mandi,1217.4,28.8,59.1,14.65,58.42,99.15,103.19,57.32,6.12,1554.04
+54,Maize,Uttar Pradesh,Summer,4,Clay,Mandi,1480.7,30.4,64.3,22.4,157.25,75.17,81.17,104.61,15.39,2099.32
+55,Cotton,Punjab,Rabi,11,Clay,Local Market,1419.7,20.1,64.5,9.78,45.96,120.4,100.23,180.36,10.75,7594.01
+56,Maize,Andhra Pradesh,Rabi,5,Sandy,Wholesale Market,1531.5,37.2,53.8,6.07,27.1,88.79,111.5,277.08,4.5,1824.21
+57,Wheat,Karnataka,Kharif,12,Silty,Wholesale Market,408.4,36.4,78.5,1.06,6.42,137.12,87.44,57.92,3.39,2723.59
+58,Cotton,Punjab,Summer,6,Loamy,Local Market,1054.2,29.8,56.9,1.84,7.08,140.29,50.46,126.71,9.17,9222.35
+59,Sugarcane,Tamil Nadu,Summer,7,Red Soil,APMC,787.8,32.8,59.9,6.0,28.0,74.09,67.64,169.58,9.54,363.07
+60,Tomato,Tamil Nadu,Rabi,7,Black Soil,Local Market,1762.1,27.2,65.7,21.59,113.25,78.45,79.96,120.58,9.15,2725.37
+61,Maize,Andhra Pradesh,Summer,1,Red Soil,Mandi,306.7,27.4,66.1,2.11,14.62,105.33,102.44,154.6,9.21,2016.12
+62,Rice,Madhya Pradesh,Kharif,10,Sandy,Mandi,669.7,30.9,57.5,1.12,2.9,131.6,115.89,47.04,6.0,2550.47
+63,Potato,Uttar Pradesh,Summer,6,Black Soil,Mandi,775.9,29.4,83.8,14.14,92.56,140.53,148.87,196.83,16.52,1694.04
+64,Onion,Madhya Pradesh,Rabi,1,Clay,Wholesale Market,572.2,18.5,45.0,14.78,65.77,149.27,131.74,128.87,6.67,2494.13
+65,Wheat,Andhra Pradesh,Summer,5,Silty,Mandi,785.0,33.5,55.0,21.6,65.59,157.45,127.98,69.7,12.18,2554.23
+66,Rice,Tamil Nadu,Summer,9,Loamy,APMC,1089.5,30.7,49.2,3.91,28.72,158.44,102.57,84.64,6.9,2917.3
+67,Tomato,Tamil Nadu,Kharif,9,Clay,Mandi,674.8,29.1,70.8,20.83,61.34,61.1,63.69,274.0,17.73,2918.77
+68,Sugarcane,Maharashtra,Summer,1,Clay,Local Market,899.1,25.7,63.5,1.65,4.4,133.8,58.28,196.82,6.42,482.16
+69,Groundnut,Andhra Pradesh,Summer,11,Silty,Local Market,710.5,29.3,61.2,16.76,135.05,133.26,71.49,48.11,6.72,7025.77
+70,Wheat,Karnataka,Rabi,9,Clay,Local Market,366.5,32.6,62.3,17.37,78.93,84.64,131.91,247.85,14.5,1886.01
+71,Tomato,Tamil Nadu,Summer,11,Black Soil,Mandi,1671.8,20.7,87.3,11.43,31.96,114.19,137.29,230.38,16.52,2520.83
+72,Tomato,Madhya Pradesh,Kharif,12,Clay,Local Market,592.9,37.8,86.9,1.47,9.47,152.52,68.06,187.67,18.48,3886.8
+73,Groundnut,Uttar Pradesh,Kharif,8,Sandy,Mandi,1755.1,36.9,61.1,21.62,160.24,91.91,132.89,49.62,12.73,4581.11
+74,Wheat,Andhra Pradesh,Kharif,10,Sandy,Mandi,1373.4,19.3,52.3,13.72,96.52,91.88,112.59,270.35,13.09,1960.04
+75,Wheat,Uttar Pradesh,Summer,11,Clay,APMC,1605.8,28.6,86.6,20.07,170.3,95.07,126.72,144.5,10.64,1999.2
+76,Sugarcane,Tamil Nadu,Rabi,7,Loamy,Wholesale Market,1059.9,32.6,35.2,11.95,42.77,145.28,121.56,193.17,6.99,392.7
+77,Groundnut,Punjab,Summer,1,Loamy,Wholesale Market,857.0,20.5,87.6,20.05,66.42,118.86,148.23,269.89,12.81,4894.77
+78,Potato,Telangana,Kharif,3,Red Soil,Local Market,1044.7,22.6,44.7,5.9,16.55,137.96,85.01,55.04,19.44,2120.1
+79,Rice,Karnataka,Summer,1,Silty,APMC,519.5,25.9,76.7,17.55,45.23,141.58,72.44,98.19,11.67,3179.22
+80,Wheat,Andhra Pradesh,Kharif,12,Sandy,Wholesale Market,988.8,18.9,81.9,1.37,5.21,153.16,123.52,113.16,6.55,2641.62
+81,Tomato,Madhya Pradesh,Summer,10,Black Soil,Mandi,1075.5,37.2,41.0,22.41,189.15,66.15,138.29,174.18,18.32,2178.89
+82,Potato,Andhra Pradesh,Kharif,6,Black Soil,Local Market,1058.0,35.4,48.5,4.35,11.41,93.4,73.87,281.82,3.91,1980.0
+83,Tomato,Telangana,Summer,10,Black Soil,Wholesale Market,971.5,35.6,35.3,20.59,63.84,150.87,50.11,184.61,15.62,3818.67
+84,Rice,Karnataka,Kharif,8,Clay,Mandi,1519.0,20.6,50.6,0.95,4.3,144.01,89.22,86.67,15.57,2736.45
+85,Tomato,Telangana,Rabi,1,Silty,Wholesale Market,1445.0,32.2,61.0,1.92,3.88,145.24,149.01,215.77,10.03,2800.33
+86,Onion,Maharashtra,Summer,3,Loamy,APMC,641.4,18.0,43.7,11.98,97.16,70.22,135.42,177.03,16.87,1937.44
+87,Cotton,Madhya Pradesh,Rabi,6,Red Soil,Mandi,453.6,35.4,88.0,1.27,8.41,150.95,135.74,290.78,15.68,6959.13
+88,Soybean,Telangana,Rabi,3,Clay,Local Market,298.3,31.0,55.3,21.68,104.33,156.82,68.55,265.84,15.98,6267.28
+89,Wheat,Telangana,Summer,12,Sandy,Local Market,300.4,36.4,68.9,20.02,97.51,71.73,62.52,218.25,9.75,2412.75
+90,Tomato,Punjab,Kharif,8,Black Soil,APMC,921.5,37.7,43.2,11.88,74.41,99.55,147.47,227.69,13.83,2096.76
+91,Sugarcane,Karnataka,Rabi,11,Loamy,Mandi,994.8,20.1,48.3,24.67,61.61,109.89,111.82,222.64,12.07,330.33
+92,Rice,Maharashtra,Rabi,2,Red Soil,Wholesale Market,1765.1,22.0,73.1,20.63,36.89,127.04,145.15,72.3,18.13,2088.27
+93,Sugarcane,Punjab,Kharif,12,Loamy,APMC,1600.0,32.3,79.1,8.82,63.54,68.01,139.48,182.37,16.71,274.94
+94,Sugarcane,Telangana,Rabi,2,Red Soil,Wholesale Market,343.5,22.9,43.8,21.86,66.33,157.59,83.69,87.35,16.21,451.27
+95,Onion,Madhya Pradesh,Summer,6,Silty,APMC,1364.8,22.6,89.8,24.38,147.55,79.95,118.02,58.77,2.55,1979.2
+96,Groundnut,Uttar Pradesh,Rabi,4,Black Soil,Mandi,1224.6,32.7,77.2,12.87,68.25,111.4,108.81,47.64,9.12,5349.22
+97,Cotton,Tamil Nadu,Summer,6,Clay,Mandi,1265.3,37.8,50.6,9.3,38.94,106.58,133.6,101.31,15.97,6620.88
+98,Soybean,Telangana,Rabi,7,Red Soil,APMC,890.2,19.4,59.0,2.89,12.53,119.29,107.94,212.28,3.71,4445.62
+99,Rice,Andhra Pradesh,Kharif,2,Loamy,Mandi,1579.9,18.2,67.4,15.17,64.88,83.7,73.47,269.76,9.96,2295.05
+100,Sugarcane,Karnataka,Kharif,11,Silty,Mandi,1720.3,23.1,54.8,9.79,56.18,95.67,103.35,243.27,14.7,300.88
+101,Potato,Telangana,Summer,11,Red Soil,Mandi,423.5,23.4,38.1,13.51,108.84,63.93,62.21,157.57,18.81,1789.42
+102,Soybean,Telangana,Kharif,11,Clay,Mandi,257.7,37.0,70.2,21.76,101.91,111.56,98.88,213.38,4.51,4639.19
+103,Cotton,Madhya Pradesh,Rabi,7,Clay,Mandi,501.7,21.8,75.2,4.33,13.6,156.33,75.53,212.02,19.62,9083.45
+104,Wheat,Karnataka,Rabi,11,Loamy,Mandi,1693.0,31.8,72.2,5.78,35.33,99.39,115.12,67.71,13.84,2067.28
+105,Wheat,Madhya Pradesh,Rabi,9,Loamy,Local Market,1789.7,33.0,40.0,7.57,17.14,125.05,126.52,280.68,9.89,2272.46
+106,Rice,Madhya Pradesh,Rabi,9,Red Soil,Wholesale Market,759.0,30.6,68.5,14.3,59.53,114.85,109.65,181.88,10.0,2384.58
+107,Tomato,Tamil Nadu,Summer,10,Sandy,Mandi,1427.0,28.0,64.8,23.81,176.91,151.42,131.38,68.32,4.68,2738.74
+108,Cotton,Uttar Pradesh,Summer,2,Red Soil,APMC,1359.0,28.4,80.2,11.06,86.01,67.13,145.47,210.22,8.84,4616.56
+109,Cotton,Maharashtra,Kharif,2,Red Soil,Wholesale Market,507.8,30.3,63.8,16.92,135.48,113.23,108.09,63.3,14.92,7200.02
+110,Soybean,Karnataka,Rabi,12,Sandy,Wholesale Market,531.2,28.5,74.0,3.12,17.07,85.66,146.29,165.72,16.51,3505.68
+111,Rice,Telangana,Kharif,11,Clay,Wholesale Market,254.0,30.8,63.3,15.04,106.13,124.66,67.48,133.8,18.31,2988.89
+112,Groundnut,Telangana,Rabi,12,Sandy,Mandi,1290.7,34.2,77.2,4.17,18.63,75.3,73.52,266.01,10.51,6073.68
+113,Groundnut,Karnataka,Rabi,3,Black Soil,Wholesale Market,1191.0,28.9,47.8,10.08,57.07,109.68,148.78,75.47,14.51,4397.82
+114,Onion,Karnataka,Kharif,8,Sandy,Wholesale Market,449.0,20.1,74.8,14.67,50.16,67.94,58.57,272.49,5.45,2344.21
+115,Potato,Karnataka,Summer,7,Red Soil,Local Market,357.6,28.4,38.7,20.11,63.06,114.0,138.01,209.23,11.59,1535.63
+116,Tomato,Tamil Nadu,Summer,6,Silty,APMC,1114.6,32.6,60.6,1.97,10.71,155.76,67.53,219.4,5.62,3598.96
+117,Soybean,Punjab,Rabi,12,Loamy,Wholesale Market,788.7,31.3,78.7,23.22,72.97,99.93,65.24,298.05,18.69,5528.25
+118,Groundnut,Telangana,Rabi,8,Red Soil,APMC,1420.7,20.6,80.4,19.66,127.03,63.62,80.31,108.41,8.48,5147.43
+119,Groundnut,Tamil Nadu,Summer,1,Loamy,Local Market,723.6,25.9,59.6,15.21,77.72,151.94,99.7,297.96,17.33,6915.49
+120,Maize,Punjab,Rabi,6,Red Soil,APMC,469.0,22.2,80.0,8.4,13.95,75.38,72.36,288.9,12.31,2075.75
+121,Soybean,Karnataka,Rabi,6,Loamy,Local Market,736.3,30.1,42.7,22.51,164.44,91.75,145.28,254.55,13.99,3626.38
+122,Cotton,Karnataka,Summer,12,Silty,Local Market,1453.9,20.4,67.7,23.44,178.91,87.78,135.14,40.09,2.32,5009.73
+123,Wheat,Telangana,Summer,3,Sandy,Wholesale Market,1124.9,21.8,46.6,12.37,83.87,121.95,79.74,151.89,5.07,2525.18
+124,Rice,Telangana,Summer,7,Loamy,Local Market,592.2,21.5,71.1,21.28,139.81,139.21,90.48,210.06,8.38,2754.57
+125,Tomato,Punjab,Summer,6,Black Soil,Local Market,1743.9,23.0,42.4,10.76,75.67,118.21,118.1,89.32,13.14,2748.29
+126,Groundnut,Maharashtra,Rabi,4,Black Soil,Local Market,825.7,23.3,70.5,12.73,42.8,74.92,62.72,264.81,6.38,5805.09
+127,Wheat,Madhya Pradesh,Summer,4,Loamy,Local Market,1582.3,25.8,87.6,3.76,8.33,125.87,144.28,250.31,3.38,2055.05
+128,Potato,Maharashtra,Summer,11,Clay,Mandi,947.7,22.5,83.9,11.54,88.6,70.57,148.83,155.25,2.86,1164.35
+129,Potato,Karnataka,Summer,3,Sandy,Local Market,360.4,18.2,87.6,18.57,73.77,89.65,84.97,241.41,13.9,1757.25
+130,Groundnut,Maharashtra,Rabi,8,Red Soil,Mandi,660.8,18.4,39.5,24.21,86.38,136.92,112.47,139.3,5.7,6074.54
+131,Rice,Telangana,Rabi,9,Silty,APMC,1248.1,28.6,37.3,24.23,171.81,89.28,148.0,196.49,12.48,1835.3
+132,Wheat,Andhra Pradesh,Rabi,2,Loamy,Mandi,598.2,25.4,58.8,11.27,65.26,154.31,74.07,71.59,5.55,3053.37
+133,Rice,Madhya Pradesh,Kharif,7,Sandy,APMC,1612.9,23.2,64.9,16.08,49.0,157.84,124.82,185.03,5.25,2578.11
+134,Tomato,Andhra Pradesh,Kharif,2,Red Soil,Mandi,417.3,31.7,40.1,24.15,118.79,75.07,84.24,147.49,15.65,2658.94
+135,Rice,Madhya Pradesh,Summer,7,Red Soil,Wholesale Market,1317.8,35.5,70.0,19.15,50.18,106.16,50.93,104.14,15.08,3009.37
+136,Sugarcane,Tamil Nadu,Kharif,11,Red Soil,Wholesale Market,541.4,25.1,78.1,14.08,21.64,136.1,53.53,233.89,5.64,467.04
+137,Wheat,Maharashtra,Kharif,3,Silty,Wholesale Market,1555.1,27.4,62.6,3.56,14.94,124.34,128.04,96.47,4.48,2133.45
+138,Cotton,Karnataka,Summer,3,Silty,Local Market,350.5,29.6,65.9,14.24,81.52,127.65,130.5,110.15,16.85,6795.68
+139,Rice,Uttar Pradesh,Rabi,8,Sandy,APMC,768.1,33.7,73.9,19.82,101.5,104.02,64.75,125.33,9.81,2755.51
+140,Sugarcane,Telangana,Rabi,1,Black Soil,Local Market,1238.2,27.9,44.8,17.3,145.98,134.72,124.0,287.08,5.65,362.4
+141,Cotton,Maharashtra,Rabi,11,Clay,Wholesale Market,287.5,34.6,50.0,13.19,47.37,154.07,75.93,151.71,17.71,9158.67
+142,Rice,Maharashtra,Rabi,6,Black Soil,Mandi,1228.3,19.0,84.7,22.78,158.58,60.7,55.73,98.56,4.36,2369.04
+143,Sugarcane,Uttar Pradesh,Kharif,8,Silty,Local Market,338.4,23.6,49.4,6.55,51.38,84.95,77.19,237.44,10.1,358.94
+144,Cotton,Tamil Nadu,Rabi,5,Sandy,Local Market,1075.3,26.2,54.1,22.55,37.27,126.38,146.34,185.64,18.86,6228.18
+145,Soybean,Tamil Nadu,Rabi,10,Loamy,Local Market,1768.3,20.9,74.9,5.18,20.04,90.87,144.7,291.51,5.29,3245.38
+146,Tomato,Uttar Pradesh,Kharif,2,Loamy,Mandi,876.2,28.9,78.5,13.95,80.77,82.61,134.69,151.44,4.54,2146.56
+147,Tomato,Madhya Pradesh,Kharif,2,Clay,APMC,1586.1,27.2,76.2,7.62,53.41,71.19,85.6,294.3,16.29,2278.78
+148,Groundnut,Telangana,Rabi,4,Silty,APMC,1055.0,22.1,83.3,22.05,167.45,83.88,95.12,296.1,15.9,5313.55
+149,Wheat,Karnataka,Rabi,12,Sandy,Mandi,1085.0,28.0,40.8,16.59,120.36,98.04,127.56,290.76,5.67,1798.92
+150,Sugarcane,Telangana,Kharif,7,Black Soil,Mandi,1246.1,21.9,84.3,13.24,61.34,115.78,66.6,199.5,8.54,418.02
+151,Wheat,Andhra Pradesh,Rabi,1,Loamy,Mandi,301.7,25.3,75.3,20.6,76.06,139.86,146.78,262.79,4.12,2137.84
+152,Rice,Uttar Pradesh,Kharif,2,Black Soil,Local Market,507.2,35.6,58.5,4.47,7.1,115.98,102.74,227.03,18.02,2651.13
+153,Groundnut,Andhra Pradesh,Kharif,9,Silty,Local Market,1519.5,28.8,74.1,8.2,39.35,142.16,95.93,133.03,10.9,6536.6
+154,Soybean,Madhya Pradesh,Kharif,10,Silty,Mandi,406.0,22.8,42.8,9.02,41.97,134.88,115.11,201.44,8.34,5180.38
+155,Groundnut,Telangana,Summer,11,Red Soil,Wholesale Market,1232.9,20.5,72.2,8.47,53.4,66.96,67.49,262.49,6.09,5402.85
+156,Maize,Telangana,Rabi,6,Loamy,Wholesale Market,808.6,19.4,77.0,10.5,71.55,150.36,73.28,249.92,3.06,2738.32
+157,Wheat,Andhra Pradesh,Kharif,11,Red Soil,Wholesale Market,1118.7,20.2,59.6,11.78,88.96,114.66,88.04,293.97,3.99,2396.38
+158,Potato,Punjab,Rabi,6,Red Soil,Wholesale Market,1580.4,23.8,85.1,18.97,135.34,61.8,146.28,228.93,7.49,1095.56
+159,Onion,Karnataka,Summer,8,Silty,APMC,1340.7,28.8,40.3,6.43,10.2,106.88,80.13,195.57,7.35,2790.96
+160,Cotton,Andhra Pradesh,Rabi,6,Loamy,Local Market,1633.1,21.7,39.3,6.37,44.99,63.47,108.28,298.81,17.4,5114.26
+161,Groundnut,Maharashtra,Kharif,1,Sandy,Mandi,1393.2,28.5,36.8,21.78,42.53,155.58,52.51,220.56,3.48,7971.82
+162,Sugarcane,Andhra Pradesh,Rabi,6,Silty,Local Market,1191.0,30.6,67.5,17.71,56.0,111.24,60.42,139.97,10.78,436.96
+163,Tomato,Telangana,Rabi,7,Clay,Wholesale Market,1775.0,23.4,57.4,22.34,33.97,63.98,110.41,275.92,6.3,1841.72
+164,Rice,Andhra Pradesh,Rabi,4,Sandy,Mandi,570.8,28.3,35.3,0.69,2.09,63.67,60.8,128.1,16.45,2255.1
+165,Rice,Madhya Pradesh,Rabi,6,Clay,Wholesale Market,1694.2,25.9,39.8,15.62,35.88,94.52,100.74,267.3,10.88,2184.31
+166,Rice,Madhya Pradesh,Summer,8,Silty,Mandi,1290.0,23.2,72.1,7.77,50.73,155.4,122.14,264.35,2.04,2555.1
+167,Onion,Karnataka,Summer,2,Silty,APMC,427.5,25.7,60.1,9.54,22.39,101.89,125.12,58.46,3.44,2290.33
+168,Sugarcane,Tamil Nadu,Rabi,10,Sandy,Wholesale Market,1028.3,20.8,41.4,4.28,11.57,123.79,124.1,177.8,16.92,343.0
+169,Potato,Tamil Nadu,Kharif,12,Loamy,APMC,707.3,27.7,66.7,1.57,3.71,115.86,84.32,229.59,13.74,2032.52
+170,Wheat,Telangana,Summer,9,Black Soil,Wholesale Market,724.8,33.8,59.6,20.06,145.57,145.76,141.66,152.06,7.74,2405.98
+171,Soybean,Andhra Pradesh,Kharif,12,Red Soil,Mandi,1317.0,25.5,44.2,11.05,27.6,149.01,84.59,80.16,2.46,5976.44
+172,Rice,Karnataka,Rabi,2,Black Soil,Mandi,1554.7,29.6,65.8,3.08,8.23,157.2,72.85,294.14,11.57,3253.89
+173,Cotton,Tamil Nadu,Summer,11,Red Soil,APMC,851.4,21.2,36.3,19.03,89.62,88.92,140.01,70.2,19.21,5532.63
+174,Cotton,Tamil Nadu,Kharif,11,Loamy,Local Market,1739.8,25.8,56.2,8.84,46.76,75.41,105.37,180.84,15.71,5713.49
+175,Onion,Andhra Pradesh,Summer,3,Clay,APMC,524.6,28.1,72.3,6.26,45.79,114.48,66.52,191.58,19.99,2988.19
+176,Cotton,Andhra Pradesh,Kharif,12,Loamy,Wholesale Market,715.8,24.5,78.6,11.81,78.13,74.8,135.26,224.83,18.32,5049.59
+177,Groundnut,Tamil Nadu,Summer,12,Red Soil,Local Market,308.9,32.9,65.2,1.91,11.97,106.68,53.45,292.1,19.08,6861.85
+178,Cotton,Madhya Pradesh,Rabi,6,Clay,Mandi,1059.8,29.3,59.3,15.34,121.66,96.23,122.57,272.56,10.21,6108.21
+179,Maize,Uttar Pradesh,Summer,3,Silty,Wholesale Market,560.7,20.2,82.0,11.26,83.65,149.31,56.25,269.7,10.07,3022.21
+180,Onion,Madhya Pradesh,Rabi,6,Red Soil,Local Market,1370.2,31.9,42.4,7.84,31.45,140.44,77.88,94.78,19.23,3076.56
+181,Maize,Andhra Pradesh,Rabi,8,Clay,Local Market,706.7,18.3,75.6,20.94,139.95,74.29,125.34,239.92,13.85,1647.62
+182,Wheat,Uttar Pradesh,Summer,4,Loamy,APMC,881.0,19.3,54.2,3.22,23.05,154.77,57.23,288.33,11.41,3151.73
+183,Wheat,Madhya Pradesh,Kharif,12,Clay,APMC,1346.0,19.0,39.0,10.37,36.99,83.24,78.1,248.91,18.73,2303.13
+184,Onion,Maharashtra,Summer,9,Loamy,Local Market,589.9,18.7,46.8,10.69,72.88,78.78,121.98,265.4,10.17,1972.87
+185,Cotton,Madhya Pradesh,Rabi,2,Silty,Mandi,625.0,32.3,80.2,20.2,108.42,112.02,64.29,241.59,6.89,7794.05
+186,Wheat,Madhya Pradesh,Rabi,12,Sandy,Local Market,873.8,20.1,45.4,19.68,128.02,119.35,139.57,191.65,10.41,2028.56
+187,Tomato,Maharashtra,Kharif,11,Black Soil,Mandi,1531.4,20.6,66.1,21.73,119.57,150.72,144.3,149.82,8.79,2739.33
+188,Rice,Tamil Nadu,Summer,1,Clay,Local Market,1691.8,34.9,72.2,3.91,12.82,147.55,68.28,112.39,4.33,3130.9
+189,Cotton,Uttar Pradesh,Kharif,5,Red Soil,Local Market,986.9,30.7,90.0,3.07,15.32,98.51,136.58,163.75,4.0,6162.39
+190,Sugarcane,Telangana,Summer,2,Loamy,Local Market,1105.7,26.3,74.6,9.59,72.77,133.05,114.77,247.02,15.57,384.4
+191,Wheat,Karnataka,Summer,3,Silty,APMC,739.2,30.9,56.7,17.97,52.01,149.02,78.74,135.62,3.05,2926.48
+192,Groundnut,Tamil Nadu,Rabi,6,Black Soil,Local Market,772.9,18.4,41.8,10.63,52.62,100.43,103.09,194.73,2.18,5294.74
+193,Sugarcane,Telangana,Rabi,6,Silty,APMC,1431.6,27.1,49.7,5.89,14.26,145.71,107.54,59.86,8.89,384.79
+194,Onion,Madhya Pradesh,Kharif,7,Loamy,Local Market,1052.8,25.0,55.4,0.53,1.91,124.65,147.42,260.24,2.42,2146.52
+195,Potato,Karnataka,Summer,8,Loamy,Mandi,571.0,21.0,84.5,17.9,144.3,120.33,97.34,55.53,14.09,1931.21
+196,Onion,Maharashtra,Rabi,12,Sandy,Wholesale Market,1454.2,22.1,74.9,15.68,121.87,144.72,81.51,111.82,19.67,3011.08
+197,Potato,Madhya Pradesh,Summer,11,Silty,Wholesale Market,1505.3,36.9,53.6,18.26,96.26,66.06,119.0,219.43,18.75,1267.27
+198,Potato,Punjab,Kharif,11,Clay,APMC,1429.7,25.1,87.2,24.08,140.78,152.87,126.09,182.18,5.25,1914.85
+199,Maize,Punjab,Rabi,12,Black Soil,Mandi,1641.4,31.5,42.5,24.88,129.14,99.19,115.91,68.31,13.46,1665.84
+200,Soybean,Punjab,Kharif,5,Silty,Wholesale Market,927.3,29.9,39.0,15.75,131.8,79.01,129.26,276.05,18.99,3661.41
+201,Groundnut,Madhya Pradesh,Rabi,8,Clay,Wholesale Market,500.6,27.5,74.5,6.56,39.26,126.66,66.27,186.92,15.89,7070.31
+202,Soybean,Telangana,Kharif,12,Silty,Mandi,604.4,30.7,47.2,8.38,62.32,132.89,59.54,151.46,2.53,6047.21
+203,Maize,Telangana,Kharif,4,Black Soil,APMC,697.8,26.0,85.6,24.83,45.05,136.1,87.17,142.04,15.58,2314.46
+204,Wheat,Maharashtra,Kharif,11,Silty,Local Market,894.2,34.9,84.6,22.0,183.05,62.75,133.98,235.46,6.12,1721.22
+205,Rice,Karnataka,Rabi,9,Clay,Mandi,1723.2,29.6,59.0,14.71,75.27,135.88,78.25,131.79,18.09,2986.72
+206,Soybean,Telangana,Summer,8,Clay,Mandi,538.5,24.6,82.0,5.57,11.13,66.9,144.08,171.8,9.37,3093.11
+207,Potato,Andhra Pradesh,Summer,2,Black Soil,Mandi,1449.6,25.1,80.4,13.13,62.28,64.54,79.0,282.06,9.05,1738.15
+208,Sugarcane,Telangana,Rabi,9,Red Soil,Local Market,1758.3,22.5,51.7,7.95,24.75,60.15,122.93,291.38,6.04,283.86
+209,Cotton,Uttar Pradesh,Kharif,7,Black Soil,Local Market,1194.9,35.9,80.0,6.69,22.75,72.54,83.7,299.88,9.3,6786.69
+210,Tomato,Maharashtra,Kharif,10,Sandy,Wholesale Market,1349.4,21.3,77.9,14.8,120.85,64.24,76.53,196.4,7.34,2444.16
+211,Sugarcane,Andhra Pradesh,Kharif,1,Black Soil,APMC,1046.5,28.2,55.3,23.36,170.35,129.72,121.43,160.05,18.58,378.6
+212,Sugarcane,Karnataka,Rabi,9,Sandy,Local Market,785.3,24.7,88.8,21.49,137.71,132.71,106.21,286.24,10.93,402.77
+213,Maize,Tamil Nadu,Summer,4,Silty,Mandi,845.8,18.5,81.1,0.78,5.01,157.03,93.77,101.09,14.69,2567.03
+214,Rice,Madhya Pradesh,Summer,5,Black Soil,Local Market,1363.6,35.3,44.9,20.1,107.92,99.66,63.17,264.98,4.83,2828.25
+215,Cotton,Telangana,Summer,6,Clay,Mandi,1292.7,33.9,48.8,15.81,86.99,143.28,140.61,43.16,14.13,6947.42
+216,Groundnut,Andhra Pradesh,Kharif,1,Sandy,Mandi,1699.2,26.6,83.3,15.33,49.51,95.59,58.39,126.7,14.2,6237.51
+217,Wheat,Punjab,Summer,4,Silty,Local Market,1290.8,30.6,45.9,10.75,72.63,70.14,77.79,111.84,9.78,2044.11
+218,Tomato,Tamil Nadu,Kharif,9,Silty,APMC,1393.7,32.1,58.3,8.99,38.51,86.43,70.53,165.59,6.83,2909.45
+219,Potato,Tamil Nadu,Rabi,11,Red Soil,APMC,1172.8,21.4,85.9,2.17,9.79,129.58,95.8,63.94,11.96,2065.89
+220,Tomato,Uttar Pradesh,Summer,1,Clay,Local Market,1291.7,29.7,63.9,6.61,10.01,77.41,61.71,156.76,13.02,3000.65
+221,Tomato,Andhra Pradesh,Kharif,6,Sandy,Mandi,1219.1,25.5,37.8,15.87,66.64,153.63,104.2,284.31,5.97,3338.9
+222,Tomato,Madhya Pradesh,Rabi,2,Loamy,APMC,1401.4,24.5,84.0,2.57,18.38,146.13,131.73,173.31,9.89,3004.18
+223,Maize,Madhya Pradesh,Kharif,9,Sandy,Local Market,625.1,32.3,40.0,5.38,41.12,133.87,51.37,104.58,5.86,2707.32
+224,Potato,Andhra Pradesh,Kharif,10,Clay,Wholesale Market,1175.5,29.9,55.5,8.66,66.64,98.33,99.35,113.66,16.16,1686.93
+225,Maize,Tamil Nadu,Rabi,8,Loamy,Wholesale Market,1780.9,23.8,77.4,10.97,32.29,139.97,83.36,264.95,18.47,2422.97
+226,Soybean,Andhra Pradesh,Summer,10,Silty,APMC,1024.1,28.7,42.9,19.71,87.43,110.01,128.51,195.7,5.62,4498.75
+227,Tomato,Madhya Pradesh,Summer,6,Black Soil,Wholesale Market,293.9,22.2,50.5,17.97,28.4,100.88,142.4,69.09,11.3,2390.49
+228,Cotton,Andhra Pradesh,Summer,1,Silty,Local Market,730.2,23.0,63.3,13.62,54.46,95.38,132.86,245.22,7.54,6037.4
+229,Onion,Madhya Pradesh,Kharif,10,Silty,APMC,829.0,23.4,47.7,8.31,65.02,67.76,132.89,130.71,11.39,1806.96
+230,Onion,Madhya Pradesh,Summer,6,Red Soil,Local Market,708.7,27.2,57.6,18.19,76.28,108.94,92.96,232.56,17.53,2639.43
+231,Groundnut,Punjab,Rabi,6,Red Soil,APMC,379.5,18.4,44.1,22.33,71.25,95.43,60.53,97.81,11.35,6138.2
+232,Onion,Uttar Pradesh,Rabi,12,Sandy,APMC,1136.5,37.7,57.8,18.97,144.18,127.9,91.19,235.93,5.67,2905.35
+233,Wheat,Andhra Pradesh,Kharif,2,Red Soil,Local Market,284.3,36.9,73.3,12.64,101.52,103.91,148.04,173.19,4.06,1998.04
+234,Soybean,Karnataka,Summer,1,Black Soil,Local Market,1197.6,35.1,72.0,10.5,80.84,82.19,121.46,269.21,15.16,4096.25
+235,Sugarcane,Madhya Pradesh,Kharif,6,Black Soil,Local Market,1557.2,27.7,53.3,19.89,92.67,78.34,135.5,269.47,10.39,260.16
+236,Potato,Tamil Nadu,Summer,8,Clay,Mandi,1609.9,25.8,64.8,24.22,47.62,124.83,57.41,137.62,16.47,2151.1
+237,Cotton,Madhya Pradesh,Kharif,3,Sandy,APMC,591.2,25.0,55.5,2.18,8.91,106.42,122.27,210.75,14.76,6373.54
+238,Wheat,Maharashtra,Summer,8,Loamy,Mandi,910.4,29.0,63.7,9.08,56.68,135.85,51.46,93.88,14.84,3226.1
+239,Onion,Telangana,Kharif,10,Silty,APMC,1657.8,33.2,67.8,16.53,127.68,117.88,113.24,80.68,10.53,2364.28
+240,Potato,Madhya Pradesh,Summer,11,Loamy,Mandi,1585.3,35.4,74.8,18.77,101.46,118.47,63.37,155.4,10.11,2215.75
+241,Rice,Madhya Pradesh,Rabi,3,Red Soil,Local Market,1705.6,30.7,52.8,7.1,20.14,129.46,71.87,194.78,6.76,2957.69
+242,Cotton,Madhya Pradesh,Summer,4,Red Soil,Mandi,1449.2,33.0,43.3,5.82,27.63,86.4,91.52,271.0,16.84,6814.72
+243,Potato,Punjab,Rabi,8,Red Soil,Local Market,561.7,28.3,75.5,11.19,69.01,69.43,124.8,251.31,14.72,1426.26
+244,Maize,Maharashtra,Summer,1,Sandy,Wholesale Market,1739.8,35.8,81.7,10.45,16.68,68.02,81.22,44.09,2.31,2012.39
+245,Potato,Tamil Nadu,Kharif,7,Silty,Mandi,1547.5,30.4,66.0,15.8,119.31,118.69,108.1,297.58,15.62,1939.47
+246,Sugarcane,Telangana,Summer,2,Sandy,APMC,780.0,28.6,46.6,24.89,208.28,124.95,130.44,225.93,12.68,339.18
+247,Wheat,Andhra Pradesh,Summer,8,Red Soil,APMC,1709.6,21.3,62.5,17.43,111.2,124.86,77.53,80.61,13.45,2489.5
+248,Tomato,Punjab,Rabi,2,Loamy,Local Market,279.7,33.6,68.5,17.64,129.96,140.28,146.09,179.34,10.79,2801.42
+249,Wheat,Maharashtra,Kharif,4,Red Soil,APMC,371.8,32.8,40.2,15.06,96.66,66.65,73.08,278.07,13.09,2325.6
+250,Onion,Madhya Pradesh,Kharif,8,Sandy,Wholesale Market,554.8,32.7,50.8,20.16,170.97,63.0,139.74,201.88,19.52,1621.7
+251,Potato,Uttar Pradesh,Summer,4,Black Soil,APMC,788.6,26.7,56.8,16.9,130.86,90.61,105.19,245.25,9.49,1651.65
+252,Wheat,Punjab,Rabi,5,Silty,Wholesale Market,1071.3,37.7,44.1,3.3,5.15,75.56,70.73,203.95,5.95,2211.89
+253,Potato,Telangana,Rabi,4,Silty,Local Market,1294.7,19.3,46.6,20.32,51.38,94.26,136.47,80.28,3.49,1267.55
+254,Groundnut,Madhya Pradesh,Rabi,8,Clay,Mandi,1217.2,23.5,61.8,2.52,11.89,90.65,132.24,54.81,9.53,4571.1
+255,Sugarcane,Punjab,Kharif,2,Loamy,Mandi,1284.2,33.5,82.4,8.19,43.13,144.01,148.95,271.28,8.69,344.43
+256,Sugarcane,Uttar Pradesh,Rabi,7,Sandy,Mandi,431.4,34.0,41.8,17.61,77.71,111.39,140.33,271.37,16.72,299.91
+257,Tomato,Andhra Pradesh,Kharif,10,Loamy,Mandi,1597.9,26.1,88.4,23.34,156.17,87.94,63.17,262.22,4.98,2945.94
+258,Tomato,Tamil Nadu,Rabi,8,Black Soil,APMC,1116.1,25.4,78.2,6.69,54.0,149.4,83.75,229.66,12.32,3575.15
+259,Groundnut,Punjab,Kharif,5,Loamy,Wholesale Market,1604.8,23.0,49.5,0.52,3.95,139.26,112.73,235.07,4.74,5628.87
+260,Rice,Madhya Pradesh,Rabi,7,Clay,Wholesale Market,701.8,22.2,48.1,22.76,108.71,106.63,126.06,80.17,10.77,2093.38
+261,Wheat,Uttar Pradesh,Kharif,2,Red Soil,Wholesale Market,866.7,34.6,44.4,1.25,3.66,94.04,101.06,199.93,18.39,2266.53
+262,Onion,Madhya Pradesh,Rabi,4,Loamy,Local Market,1689.0,37.9,78.8,18.97,57.07,93.6,96.57,241.08,18.47,2800.75
+263,Potato,Madhya Pradesh,Summer,1,Red Soil,Mandi,1196.7,22.0,38.1,14.43,87.45,81.08,105.65,262.69,17.03,1533.37
+264,Tomato,Maharashtra,Kharif,8,Sandy,APMC,1451.6,22.7,54.0,1.24,10.21,126.79,143.32,109.03,13.01,2550.94
+265,Maize,Madhya Pradesh,Rabi,6,Silty,APMC,1718.1,35.7,75.6,7.3,25.34,156.34,51.03,226.17,14.71,2829.88
+266,Potato,Madhya Pradesh,Summer,10,Silty,Local Market,782.2,34.7,86.5,5.05,20.74,152.86,56.18,64.01,4.93,2396.66
+267,Potato,Uttar Pradesh,Rabi,2,Black Soil,Local Market,543.6,18.1,38.3,22.67,136.76,87.3,67.72,116.51,4.07,1966.47
+268,Soybean,Uttar Pradesh,Rabi,12,Clay,Mandi,1659.2,24.3,73.0,7.16,20.29,78.46,84.21,151.79,16.96,4329.93
+269,Tomato,Maharashtra,Rabi,4,Black Soil,Local Market,696.3,27.9,51.5,15.1,68.51,76.44,61.66,182.14,18.24,3064.82
+270,Cotton,Andhra Pradesh,Rabi,3,Black Soil,Mandi,1128.2,31.1,84.4,10.29,38.97,61.08,132.66,248.25,3.88,4607.27
+271,Groundnut,Uttar Pradesh,Kharif,6,Sandy,Local Market,582.8,19.3,67.7,18.6,32.12,125.87,103.23,66.85,5.11,5753.04
+272,Tomato,Telangana,Rabi,7,Red Soil,Local Market,1753.1,26.6,54.1,1.73,3.23,129.2,95.79,98.9,13.05,3101.1
+273,Rice,Karnataka,Summer,10,Clay,APMC,1526.5,34.4,61.3,9.1,36.75,140.57,82.82,94.36,3.52,2743.75
+274,Tomato,Andhra Pradesh,Rabi,8,Red Soil,Wholesale Market,1503.0,34.5,56.2,11.75,42.57,153.26,61.86,282.77,14.31,3433.43
+275,Sugarcane,Tamil Nadu,Rabi,4,Black Soil,APMC,637.1,31.1,69.1,8.64,69.09,144.49,72.4,102.18,11.22,476.18
+276,Cotton,Telangana,Summer,12,Clay,Mandi,1512.7,30.2,55.5,6.76,15.15,95.49,91.32,215.71,13.85,7248.72
+277,Cotton,Madhya Pradesh,Summer,4,Silty,Mandi,899.7,21.4,83.4,14.15,44.14,110.24,123.15,289.11,5.97,6462.26
+278,Sugarcane,Madhya Pradesh,Summer,6,Red Soil,APMC,1073.5,31.5,58.6,18.42,133.94,74.64,133.29,180.48,17.2,278.61
+279,Cotton,Maharashtra,Summer,10,Red Soil,Mandi,1558.5,27.7,63.3,8.06,44.42,92.52,53.93,110.72,2.11,8213.17
+280,Groundnut,Madhya Pradesh,Rabi,6,Red Soil,Wholesale Market,455.2,25.6,69.1,11.63,80.96,159.76,69.11,159.51,9.76,7670.26
+281,Sugarcane,Karnataka,Summer,5,Clay,Wholesale Market,726.2,28.9,57.9,4.43,11.95,101.81,125.73,273.47,3.51,308.42
+282,Sugarcane,Karnataka,Rabi,2,Sandy,Mandi,369.1,22.7,80.7,23.73,86.19,86.45,77.99,112.21,2.65,363.3
+283,Wheat,Punjab,Summer,1,Sandy,Mandi,265.0,35.2,75.2,23.7,165.22,91.37,74.79,221.41,8.55,2470.11
+284,Soybean,Andhra Pradesh,Summer,8,Sandy,Wholesale Market,1651.6,25.5,65.2,1.74,7.8,143.24,130.56,98.32,6.07,4713.24
+285,Groundnut,Madhya Pradesh,Kharif,4,Clay,Mandi,947.6,24.7,82.9,2.55,7.59,135.25,55.13,168.06,9.96,7249.48
+286,Cotton,Andhra Pradesh,Kharif,5,Clay,Local Market,1428.2,21.1,43.2,7.07,28.47,100.85,117.97,54.74,2.62,5709.36
+287,Maize,Uttar Pradesh,Rabi,6,Black Soil,Wholesale Market,652.7,35.7,84.3,7.78,24.2,101.13,74.05,214.82,16.87,2413.48
+288,Wheat,Maharashtra,Summer,5,Red Soil,Wholesale Market,377.1,18.7,89.4,1.24,5.72,110.46,61.73,83.96,8.33,2741.35
+289,Maize,Karnataka,Kharif,3,Black Soil,Wholesale Market,1777.0,33.4,58.9,11.44,66.71,126.54,100.07,207.66,2.42,2105.4
+290,Onion,Maharashtra,Summer,2,Clay,Wholesale Market,643.1,27.4,62.1,5.28,32.02,138.09,129.15,196.64,11.21,2500.0
+291,Maize,Tamil Nadu,Summer,11,Clay,Wholesale Market,1562.7,24.5,72.2,15.06,86.17,128.25,107.54,151.56,6.97,2111.65
+292,Soybean,Madhya Pradesh,Kharif,9,Black Soil,Mandi,1261.0,23.0,70.8,5.7,13.42,130.14,61.34,299.2,5.3,5932.48
+293,Sugarcane,Tamil Nadu,Kharif,9,Silty,APMC,1215.2,34.1,81.3,12.33,85.6,127.28,122.43,168.08,13.4,354.36
+294,Groundnut,Telangana,Kharif,5,Black Soil,APMC,1181.4,24.8,85.4,10.46,26.18,131.47,79.34,176.62,14.56,7093.32
+295,Cotton,Madhya Pradesh,Kharif,4,Loamy,Local Market,1202.5,29.6,48.9,19.03,39.42,152.43,82.58,73.22,9.96,8791.87
+296,Rice,Maharashtra,Summer,7,Red Soil,Local Market,445.7,34.3,85.8,11.79,58.87,91.83,139.43,207.67,7.19,1935.03
+297,Rice,Maharashtra,Summer,12,Sandy,Local Market,644.4,18.3,64.7,21.35,175.14,116.57,101.45,62.11,11.88,2602.75
+298,Sugarcane,Madhya Pradesh,Summer,12,Loamy,Mandi,399.8,21.5,89.3,11.38,59.44,147.36,149.56,191.51,16.62,327.12
+299,Soybean,Maharashtra,Summer,2,Loamy,Local Market,1292.4,31.6,52.3,3.76,22.28,72.83,107.85,220.29,14.61,4021.45
+300,Tomato,Andhra Pradesh,Rabi,11,Sandy,Local Market,539.3,18.5,50.6,11.35,66.05,145.0,69.62,72.64,19.34,3603.06
+301,Maize,Tamil Nadu,Summer,12,Sandy,Local Market,1445.8,31.0,80.8,24.4,117.59,66.67,54.81,116.87,18.79,1986.2
+302,Tomato,Punjab,Rabi,12,Loamy,APMC,1641.8,34.2,67.1,18.39,74.55,124.1,96.62,89.38,14.63,3041.39
+303,Maize,Maharashtra,Kharif,8,Red Soil,Local Market,1682.4,37.5,80.8,7.92,65.47,122.81,143.06,215.79,7.53,1945.13
+304,Onion,Tamil Nadu,Summer,9,Loamy,APMC,346.2,24.8,62.8,4.47,27.3,159.77,95.17,132.23,9.21,2908.35
+305,Potato,Karnataka,Summer,11,Red Soil,APMC,1272.5,26.8,70.7,2.01,14.46,154.05,114.88,288.19,4.73,2195.8
+306,Wheat,Punjab,Summer,1,Silty,Local Market,501.9,31.5,37.1,15.69,100.22,81.49,54.2,134.55,3.77,2496.45
+307,Potato,Maharashtra,Summer,4,Silty,APMC,372.9,29.3,84.9,10.21,36.49,74.35,65.14,152.52,12.72,1898.06
+308,Cotton,Punjab,Rabi,2,Red Soil,Wholesale Market,1226.6,34.6,78.1,7.29,58.95,72.43,137.51,292.44,5.19,5471.53
+309,Tomato,Telangana,Rabi,2,Sandy,Local Market,1150.0,36.7,72.0,12.29,88.09,155.05,52.21,295.46,3.55,3854.66
+310,Groundnut,Uttar Pradesh,Rabi,5,Silty,Wholesale Market,430.5,20.5,45.4,11.75,79.49,150.55,133.54,91.19,9.94,6263.4
+311,Wheat,Telangana,Kharif,8,Clay,Local Market,1109.8,34.5,69.7,19.72,112.21,101.41,145.79,180.69,12.89,1911.61
+312,Sugarcane,Tamil Nadu,Kharif,5,Red Soil,Mandi,1186.8,33.3,63.8,6.06,37.36,68.01,94.18,82.48,5.32,297.09
+313,Maize,Punjab,Summer,3,Red Soil,Local Market,1619.5,23.4,45.7,12.12,18.8,62.58,105.33,175.32,19.9,1577.76
+314,Groundnut,Karnataka,Summer,9,Red Soil,APMC,1649.3,28.5,59.8,8.59,48.31,105.43,95.16,283.6,19.71,5606.71
+315,Soybean,Punjab,Rabi,9,Loamy,Mandi,341.6,31.8,75.1,1.65,13.19,69.11,78.59,214.82,5.06,4507.65
+316,Sugarcane,Madhya Pradesh,Kharif,9,Silty,APMC,402.6,37.1,68.0,18.35,68.03,99.31,73.69,65.21,5.22,395.23
+317,Wheat,Tamil Nadu,Rabi,12,Black Soil,APMC,362.7,23.6,54.2,19.67,166.16,84.07,137.43,255.96,6.04,1637.11
+318,Onion,Punjab,Summer,2,Red Soil,Wholesale Market,1506.2,23.5,75.2,9.62,49.57,66.8,68.12,288.87,18.02,2196.12
+319,Maize,Madhya Pradesh,Rabi,7,Black Soil,APMC,1131.3,19.2,69.8,19.34,163.59,61.11,123.02,188.67,9.81,1463.79
+320,Tomato,Uttar Pradesh,Summer,7,Sandy,Wholesale Market,1163.0,36.8,54.2,6.47,39.41,79.88,81.5,98.4,3.24,2638.09
+321,Potato,Andhra Pradesh,Rabi,4,Clay,Mandi,1334.0,24.6,76.0,10.6,30.43,111.32,63.05,154.54,7.71,2007.23
+322,Soybean,Tamil Nadu,Kharif,9,Red Soil,Wholesale Market,626.0,19.8,52.5,3.06,7.34,117.39,56.09,48.04,14.86,5822.03
+323,Cotton,Maharashtra,Kharif,1,Sandy,APMC,554.3,18.5,82.4,14.64,113.23,119.69,131.02,151.72,15.5,6515.77
+324,Maize,Karnataka,Rabi,7,Silty,Mandi,846.3,26.7,67.7,14.95,29.48,143.15,67.73,228.0,15.91,2756.79
+325,Sugarcane,Telangana,Rabi,4,Silty,Mandi,808.6,30.1,56.3,21.66,79.31,89.35,76.6,126.52,12.03,387.55
+326,Wheat,Uttar Pradesh,Rabi,4,Black Soil,Local Market,1795.3,32.4,50.8,22.05,40.67,83.11,139.74,106.61,5.97,1805.08
+327,Soybean,Maharashtra,Kharif,10,Silty,Local Market,1663.2,18.8,63.2,17.17,137.74,122.04,130.38,61.77,8.95,4413.22
+328,Sugarcane,Uttar Pradesh,Rabi,7,Silty,Mandi,452.6,31.4,75.1,14.59,43.01,110.45,81.22,151.14,13.61,397.74
+329,Groundnut,Andhra Pradesh,Rabi,3,Sandy,Mandi,1061.3,36.4,79.7,20.72,146.4,92.37,126.52,77.22,13.84,4911.18
+330,Rice,Karnataka,Summer,3,Red Soil,Mandi,635.2,24.3,79.5,21.95,79.4,145.87,135.72,238.81,4.64,2453.79
+331,Potato,Tamil Nadu,Summer,9,Red Soil,Local Market,333.3,31.4,47.7,6.47,23.57,66.37,67.71,41.34,10.02,1813.37
+332,Onion,Punjab,Summer,6,Sandy,Mandi,1580.7,20.6,73.8,18.68,116.64,85.23,137.3,83.9,2.97,1781.93
+333,Rice,Andhra Pradesh,Rabi,9,Silty,Wholesale Market,1521.9,31.5,70.0,10.34,57.33,90.79,97.72,246.2,19.66,2181.63
+334,Rice,Telangana,Summer,6,Clay,APMC,1623.9,18.9,87.9,17.14,101.46,87.06,74.88,284.94,7.37,2140.57
+335,Potato,Madhya Pradesh,Kharif,1,Red Soil,Mandi,593.4,19.1,49.1,13.43,36.28,76.75,96.26,48.65,4.19,1557.93
+336,Tomato,Tamil Nadu,Kharif,9,Black Soil,APMC,1172.8,26.3,58.2,19.73,56.62,142.03,114.87,148.93,10.24,2998.48
+337,Soybean,Uttar Pradesh,Rabi,7,Silty,Local Market,747.3,29.9,89.8,11.16,88.66,94.5,55.47,93.1,9.54,5240.09
+338,Tomato,Andhra Pradesh,Rabi,7,Loamy,APMC,1689.7,26.6,41.6,13.05,51.44,97.48,112.13,226.87,3.99,2561.33
+339,Cotton,Telangana,Rabi,2,Red Soil,Mandi,333.4,21.8,37.1,10.1,71.88,94.12,94.42,215.65,11.16,6954.45
+340,Potato,Tamil Nadu,Rabi,10,Red Soil,APMC,1084.5,37.8,82.2,2.89,18.62,94.56,50.7,144.91,6.23,2101.7
+341,Maize,Punjab,Summer,1,Red Soil,Mandi,1724.7,20.7,64.6,5.03,22.62,66.14,72.39,134.45,9.9,1942.95
+342,Rice,Uttar Pradesh,Rabi,10,Clay,Wholesale Market,712.0,24.4,44.0,19.69,46.42,123.49,62.38,58.34,18.37,3094.91
+343,Rice,Telangana,Kharif,5,Black Soil,APMC,516.4,27.5,75.6,3.91,17.91,108.29,71.23,70.05,17.06,2697.8
+344,Onion,Uttar Pradesh,Kharif,2,Silty,Wholesale Market,834.4,25.9,65.0,4.42,28.02,76.76,81.03,170.87,16.34,2399.39
+345,Sugarcane,Telangana,Kharif,5,Red Soil,Wholesale Market,872.3,33.9,47.1,5.06,41.27,80.99,76.09,292.1,15.22,375.52
+346,Sugarcane,Maharashtra,Kharif,10,Clay,Wholesale Market,418.5,37.6,56.0,19.49,75.97,122.77,69.2,77.97,18.89,448.18
+347,Onion,Uttar Pradesh,Summer,2,Clay,Mandi,1682.3,34.4,65.9,16.95,135.33,121.92,132.48,219.09,11.93,2271.78
+348,Maize,Uttar Pradesh,Summer,12,Clay,Wholesale Market,1181.5,31.9,54.9,20.69,60.59,106.9,130.09,86.84,3.98,1732.43
+349,Onion,Maharashtra,Summer,12,Loamy,Wholesale Market,289.3,31.8,52.4,1.87,10.79,84.08,88.68,60.95,4.65,2412.69
+350,Groundnut,Karnataka,Rabi,8,Loamy,Mandi,726.9,36.5,43.9,24.16,71.04,134.16,104.67,269.96,11.97,6429.83
+351,Rice,Tamil Nadu,Rabi,2,Silty,Local Market,562.0,35.8,41.3,0.59,2.96,118.31,107.9,54.17,7.65,2366.65
+352,Onion,Andhra Pradesh,Rabi,9,Silty,APMC,1321.7,23.2,69.3,20.82,58.97,151.72,105.36,117.8,9.76,2855.05
+353,Potato,Uttar Pradesh,Summer,7,Sandy,Local Market,1541.1,37.7,78.5,15.23,59.01,114.46,54.11,233.65,10.03,2293.75
+354,Onion,Telangana,Rabi,7,Silty,Mandi,1411.5,28.9,46.2,7.65,51.56,108.26,71.6,291.49,14.87,2599.0
+355,Wheat,Punjab,Rabi,10,Loamy,Mandi,1063.8,32.1,48.9,11.44,27.05,80.6,50.09,50.21,19.59,2609.2
+356,Wheat,Telangana,Summer,7,Red Soil,Wholesale Market,1383.4,33.4,88.6,14.55,56.62,124.85,56.84,273.32,4.15,2759.63
+357,Cotton,Andhra Pradesh,Rabi,3,Red Soil,Local Market,547.2,29.1,67.1,5.57,41.55,68.43,85.61,216.9,6.93,6612.32
+358,Groundnut,Maharashtra,Kharif,6,Sandy,Local Market,578.2,18.8,52.7,14.21,106.65,126.69,93.54,287.81,14.95,6567.32
+359,Tomato,Telangana,Summer,9,Red Soil,APMC,1523.5,20.0,78.6,20.38,99.37,65.73,67.46,223.93,14.81,2645.32
+360,Maize,Tamil Nadu,Kharif,6,Clay,APMC,547.6,31.3,69.3,15.26,75.21,112.87,83.44,175.02,5.56,2413.86
+361,Cotton,Madhya Pradesh,Kharif,6,Clay,Mandi,1412.4,34.1,42.5,2.21,17.14,98.78,78.79,228.42,17.06,7275.2
+362,Soybean,Uttar Pradesh,Rabi,1,Clay,APMC,1216.5,19.3,52.9,16.98,65.56,77.96,78.14,158.97,10.56,4624.05
+363,Wheat,Madhya Pradesh,Kharif,12,Silty,Mandi,621.7,21.9,62.8,19.33,37.38,117.68,61.92,49.48,2.95,2748.56
+364,Groundnut,Tamil Nadu,Rabi,2,Loamy,Local Market,1205.9,35.2,54.0,16.52,65.28,121.72,138.48,100.15,9.28,5185.3
+365,Rice,Andhra Pradesh,Rabi,4,Clay,APMC,1050.8,23.7,63.4,21.28,133.98,89.0,70.15,108.95,5.06,2482.53
+366,Sugarcane,Madhya Pradesh,Rabi,5,Loamy,Mandi,505.1,19.3,52.5,5.9,30.13,70.24,125.18,275.62,15.38,258.93
+367,Wheat,Maharashtra,Kharif,2,Red Soil,Mandi,266.4,25.9,81.8,8.97,15.67,134.62,130.2,81.75,11.67,2382.82
+368,Sugarcane,Maharashtra,Rabi,10,Clay,Wholesale Market,988.3,31.4,57.1,7.8,45.85,75.49,87.3,94.35,14.52,324.52
+369,Groundnut,Uttar Pradesh,Kharif,1,Black Soil,Mandi,1776.2,22.2,42.2,5.49,37.79,102.55,106.54,45.46,2.62,5670.08
+370,Rice,Telangana,Kharif,6,Silty,Local Market,1233.6,30.4,41.6,24.44,68.64,104.53,98.81,251.4,3.79,2370.48
+371,Tomato,Telangana,Kharif,8,Loamy,Wholesale Market,1222.6,36.5,89.9,1.3,4.09,91.03,89.91,102.99,5.66,2759.4
+372,Onion,Telangana,Rabi,3,Silty,Local Market,1242.6,35.0,75.7,13.79,83.78,87.4,109.31,167.2,4.4,2200.45
+373,Wheat,Uttar Pradesh,Rabi,5,Silty,Mandi,698.3,25.4,71.5,3.4,27.8,146.56,107.72,215.25,2.3,2712.6
+374,Cotton,Karnataka,Summer,7,Loamy,Mandi,647.4,36.7,42.2,20.04,101.32,135.03,81.07,173.77,17.42,8370.26
+375,Rice,Telangana,Rabi,11,Loamy,Wholesale Market,958.2,27.5,56.2,24.18,154.27,68.32,136.3,164.95,3.24,1479.33
+376,Soybean,Uttar Pradesh,Rabi,7,Black Soil,Mandi,1756.4,28.3,51.0,12.0,90.06,90.49,69.27,73.56,7.36,5130.4
+377,Cotton,Andhra Pradesh,Kharif,9,Silty,Wholesale Market,507.6,24.7,86.7,8.9,74.91,108.52,67.92,271.7,10.29,7753.8
+378,Groundnut,Punjab,Kharif,1,Loamy,Local Market,1450.5,20.7,60.7,15.34,69.01,62.71,128.35,42.73,15.71,4202.78
+379,Rice,Punjab,Kharif,4,Sandy,Local Market,989.3,25.8,83.8,22.4,86.26,121.51,142.69,290.14,11.16,1962.08
+380,Groundnut,Madhya Pradesh,Kharif,6,Clay,Wholesale Market,1725.8,34.5,74.0,14.9,107.94,99.23,94.76,229.8,8.44,5627.48
+381,Onion,Telangana,Kharif,8,Clay,Local Market,1748.2,36.9,53.4,14.49,114.0,60.62,131.07,286.58,3.64,1691.84
+382,Wheat,Uttar Pradesh,Rabi,1,Silty,Wholesale Market,580.4,35.3,87.6,6.3,48.37,69.7,55.57,73.6,3.04,2439.61
+383,Cotton,Madhya Pradesh,Kharif,3,Loamy,Mandi,410.8,23.9,40.0,16.87,41.05,145.18,131.72,43.55,18.12,7257.75
+384,Maize,Punjab,Summer,12,Sandy,Local Market,1343.5,21.8,76.3,6.28,15.73,78.54,68.21,173.34,17.21,2073.77
+385,Wheat,Andhra Pradesh,Summer,2,Loamy,Local Market,1595.4,29.7,74.5,9.62,20.66,105.79,89.45,265.44,6.39,2292.83
+386,Cotton,Uttar Pradesh,Kharif,2,Silty,Mandi,1065.4,31.8,50.0,18.54,34.51,64.93,88.63,131.9,7.68,5858.91
+387,Soybean,Maharashtra,Rabi,12,Clay,APMC,1761.1,26.2,59.5,14.63,122.65,84.16,118.13,226.16,12.93,3873.63
+388,Tomato,Tamil Nadu,Rabi,3,Black Soil,APMC,577.0,34.8,36.7,21.17,99.97,81.76,63.38,287.86,3.31,2943.96
+389,Rice,Uttar Pradesh,Kharif,10,Clay,Mandi,699.1,22.8,46.7,10.57,67.95,81.75,86.67,141.64,19.58,2182.7
+390,Sugarcane,Madhya Pradesh,Kharif,11,Silty,APMC,1249.0,21.7,47.8,16.07,135.8,137.77,72.58,85.77,17.59,425.15
+391,Tomato,Uttar Pradesh,Summer,12,Sandy,Wholesale Market,941.8,32.5,73.1,24.69,75.95,126.23,110.97,277.93,4.81,2981.08
+392,Maize,Andhra Pradesh,Kharif,7,Clay,Wholesale Market,519.9,28.9,74.3,11.39,19.24,104.93,79.64,281.71,4.24,2426.84
+393,Cotton,Karnataka,Rabi,9,Clay,Mandi,1108.7,24.0,60.0,4.51,16.37,122.11,80.18,273.93,13.31,7778.35
+394,Potato,Maharashtra,Kharif,6,Silty,Local Market,1500.5,23.0,80.3,2.59,19.59,109.92,79.65,108.93,9.78,1924.63
+395,Wheat,Uttar Pradesh,Kharif,3,Red Soil,APMC,1007.2,28.5,71.7,7.05,55.52,103.57,62.91,233.0,13.58,2712.28
+396,Soybean,Madhya Pradesh,Summer,5,Clay,Wholesale Market,457.0,25.7,80.2,24.25,113.43,110.7,107.22,282.41,17.45,4423.73
+397,Soybean,Andhra Pradesh,Summer,3,Silty,APMC,1473.1,30.1,71.0,24.96,50.54,82.3,90.79,130.42,2.39,4431.86
+398,Rice,Uttar Pradesh,Summer,12,Sandy,Wholesale Market,1772.8,36.2,59.2,1.48,5.97,142.64,120.15,159.43,2.99,2482.99
+399,Wheat,Tamil Nadu,Rabi,10,Black Soil,Wholesale Market,676.5,26.0,86.2,8.79,69.42,158.1,116.18,252.39,15.49,2545.45
+400,Soybean,Madhya Pradesh,Kharif,11,Red Soil,Wholesale Market,408.9,18.2,42.7,18.04,149.9,158.31,99.4,266.03,15.26,5893.18
+401,Soybean,Tamil Nadu,Rabi,9,Sandy,APMC,1609.5,22.9,65.3,5.22,11.55,151.11,132.05,237.61,2.88,4771.7
+402,Sugarcane,Maharashtra,Kharif,10,Red Soil,APMC,1152.8,21.7,45.4,5.01,9.51,118.78,134.03,44.55,2.88,340.19
+403,Tomato,Uttar Pradesh,Rabi,9,Black Soil,Local Market,791.9,29.9,50.1,1.15,7.64,122.56,108.08,232.84,14.15,2858.13
+404,Soybean,Punjab,Rabi,5,Loamy,Local Market,1210.6,19.5,63.2,8.91,33.86,120.23,82.23,241.99,3.27,4974.6
+405,Wheat,Uttar Pradesh,Rabi,5,Silty,APMC,1020.7,37.0,51.5,0.97,4.39,63.3,145.39,94.58,16.2,1465.09
+406,Soybean,Maharashtra,Kharif,8,Clay,Wholesale Market,1026.0,36.2,43.1,16.33,51.12,75.68,118.34,194.36,15.59,3986.72
+407,Maize,Telangana,Summer,10,Black Soil,Wholesale Market,253.6,37.7,84.8,1.86,13.64,105.78,75.9,268.47,5.54,2277.04
+408,Cotton,Tamil Nadu,Kharif,12,Silty,Mandi,1057.4,27.4,38.9,20.55,79.11,117.46,101.48,173.45,3.93,7411.32
+409,Maize,Punjab,Summer,5,Black Soil,Mandi,401.3,21.3,85.8,20.63,82.08,125.58,103.73,216.05,14.29,2126.14
+410,Tomato,Tamil Nadu,Kharif,12,Loamy,Mandi,1132.7,34.6,89.5,4.51,28.6,127.43,148.0,296.26,14.36,2613.78
+411,Maize,Telangana,Rabi,3,Sandy,Local Market,1578.5,34.3,59.7,12.49,37.77,67.83,107.34,65.57,10.09,1761.25
+412,Cotton,Telangana,Rabi,9,Loamy,APMC,255.7,21.3,54.2,8.24,58.01,128.06,79.96,159.01,3.72,7866.61
+413,Onion,Madhya Pradesh,Summer,3,Red Soil,Wholesale Market,1596.3,21.5,37.5,14.7,115.96,77.74,50.7,249.43,3.38,2806.26
+414,Cotton,Maharashtra,Rabi,6,Silty,Local Market,1782.2,24.9,38.4,18.49,95.26,81.32,128.17,92.98,6.69,5078.75
+415,Sugarcane,Tamil Nadu,Rabi,4,Red Soil,Wholesale Market,895.0,21.3,89.2,20.61,71.52,67.01,55.66,71.3,12.45,363.93
+416,Groundnut,Tamil Nadu,Rabi,8,Silty,APMC,519.6,25.2,70.1,2.23,8.99,113.48,149.62,163.38,16.69,5055.35
+417,Groundnut,Punjab,Summer,1,Silty,APMC,1624.2,26.2,68.2,15.94,70.48,74.43,59.36,44.33,17.72,5710.82
+418,Potato,Tamil Nadu,Kharif,4,Loamy,Wholesale Market,1361.9,31.3,53.9,0.97,6.14,154.55,113.21,153.18,11.45,1998.56
+419,Wheat,Tamil Nadu,Kharif,1,Silty,Local Market,936.2,32.6,47.8,20.42,114.74,81.08,73.67,203.29,16.94,2196.4
+420,Rice,Andhra Pradesh,Summer,2,Loamy,Wholesale Market,566.6,30.5,54.7,24.89,121.0,108.59,106.59,278.36,16.41,2353.03
+421,Tomato,Tamil Nadu,Rabi,8,Sandy,Local Market,1209.1,19.6,47.0,6.63,48.55,106.32,98.68,283.07,13.47,2742.35
+422,Potato,Tamil Nadu,Kharif,9,Black Soil,Local Market,531.5,24.0,37.8,11.97,89.44,153.36,143.26,72.56,8.88,1907.65
+423,Soybean,Madhya Pradesh,Summer,1,Red Soil,Wholesale Market,1358.1,26.6,51.9,24.07,198.61,88.94,97.96,292.94,2.09,4189.3
+424,Sugarcane,Tamil Nadu,Kharif,8,Black Soil,Mandi,853.6,32.7,72.7,5.7,18.09,88.13,91.11,100.92,2.35,349.28
+425,Soybean,Karnataka,Summer,7,Clay,Mandi,1796.9,35.2,57.4,24.52,148.37,134.2,53.15,71.62,13.4,6113.47
+426,Groundnut,Karnataka,Kharif,10,Black Soil,Wholesale Market,465.9,28.4,37.0,2.48,15.39,128.92,84.15,96.06,16.65,6984.89
+427,Wheat,Madhya Pradesh,Rabi,5,Red Soil,Wholesale Market,698.2,37.0,37.7,4.17,21.95,117.58,114.52,44.41,19.29,2338.64
+428,Maize,Tamil Nadu,Summer,10,Black Soil,Local Market,270.6,28.8,60.3,12.72,25.51,128.44,100.32,238.94,10.74,2312.15
+429,Sugarcane,Andhra Pradesh,Kharif,5,Loamy,Wholesale Market,1602.2,30.3,43.6,24.08,123.5,67.29,112.68,105.83,16.47,236.52
+430,Tomato,Karnataka,Rabi,2,Silty,Mandi,654.0,23.9,35.0,24.1,190.94,136.46,57.91,156.35,3.83,3633.07
+431,Onion,Madhya Pradesh,Rabi,11,Black Soil,Mandi,1649.4,31.9,40.3,7.22,27.01,136.32,130.22,140.13,9.52,2370.92
+432,Onion,Maharashtra,Rabi,9,Loamy,Local Market,547.1,27.5,54.9,9.29,48.35,118.44,129.69,128.65,16.5,2346.14
+433,Rice,Uttar Pradesh,Rabi,6,Loamy,Local Market,1137.8,22.8,78.7,12.42,47.67,70.68,73.88,286.81,7.49,2262.39
+434,Rice,Madhya Pradesh,Summer,8,Sandy,APMC,377.1,24.0,72.0,8.55,29.47,78.44,99.75,111.75,15.16,2042.13
+435,Sugarcane,Telangana,Kharif,3,Black Soil,APMC,1008.4,23.7,74.8,23.66,187.38,118.34,96.26,252.76,14.3,386.58
+436,Potato,Andhra Pradesh,Summer,1,Black Soil,APMC,1054.8,22.7,41.8,3.53,19.71,133.48,82.15,49.01,4.29,2071.76
+437,Groundnut,Tamil Nadu,Kharif,8,Silty,Wholesale Market,660.8,31.4,37.9,3.28,5.01,159.95,130.23,244.55,11.18,6260.73
+438,Groundnut,Maharashtra,Summer,11,Black Soil,APMC,370.1,18.4,40.6,10.56,84.82,123.74,130.18,161.26,8.51,5401.83
+439,Potato,Maharashtra,Summer,7,Black Soil,APMC,397.6,18.5,57.2,24.84,67.67,127.26,67.34,228.44,11.1,2112.22
+440,Soybean,Andhra Pradesh,Summer,6,Sandy,Mandi,1014.9,36.5,35.9,18.38,141.92,66.17,95.01,93.23,12.2,4240.36
+441,Groundnut,Tamil Nadu,Rabi,3,Loamy,Mandi,683.0,25.4,43.8,22.2,34.86,148.24,107.17,126.23,15.02,6530.52
+442,Rice,Madhya Pradesh,Rabi,8,Red Soil,Wholesale Market,460.2,20.9,73.4,16.25,113.41,153.75,119.19,80.52,6.38,3068.01
+443,Sugarcane,Andhra Pradesh,Summer,11,Black Soil,APMC,1257.9,19.8,87.1,6.83,26.37,100.23,55.12,169.09,4.22,383.31
+444,Groundnut,Karnataka,Kharif,8,Clay,APMC,818.2,25.5,43.3,20.06,129.4,79.04,86.67,67.51,13.31,5226.57
+445,Wheat,Punjab,Rabi,9,Clay,Mandi,1146.8,36.2,65.5,4.78,19.84,144.31,114.42,209.19,17.6,2556.39
+446,Soybean,Karnataka,Summer,10,Clay,Local Market,266.4,19.8,65.6,22.35,78.45,92.77,61.56,141.04,2.67,5031.29
+447,Groundnut,Andhra Pradesh,Summer,10,Red Soil,Local Market,983.1,28.4,45.5,11.82,92.45,65.09,136.36,128.65,18.19,4054.55
+448,Wheat,Maharashtra,Kharif,12,Clay,APMC,1261.7,23.1,55.1,21.17,60.64,142.69,106.27,238.17,14.84,2579.82
+449,Rice,Punjab,Kharif,8,Loamy,APMC,1748.2,27.0,42.9,10.04,81.95,91.97,136.81,269.13,8.3,1874.56
+450,Tomato,Andhra Pradesh,Summer,1,Sandy,Wholesale Market,503.6,29.3,62.7,0.83,3.35,120.11,134.86,271.05,10.71,2570.46
+451,Tomato,Madhya Pradesh,Kharif,12,Loamy,Local Market,551.4,29.2,52.3,2.57,16.18,130.78,86.0,59.95,9.67,3493.99
+452,Sugarcane,Andhra Pradesh,Summer,9,Silty,APMC,618.1,37.6,56.3,7.05,31.38,69.44,62.57,147.75,15.72,362.83
+453,Potato,Andhra Pradesh,Kharif,6,Silty,Wholesale Market,1528.0,26.4,39.0,7.2,60.19,119.63,120.97,41.91,11.33,1718.4
+454,Soybean,Punjab,Rabi,2,Loamy,Local Market,1714.8,31.5,38.6,11.91,37.89,106.98,95.55,191.36,8.42,4637.99
+455,Potato,Uttar Pradesh,Kharif,12,Silty,APMC,1203.9,21.9,68.4,17.1,88.58,131.81,108.15,286.42,2.97,1969.28
+456,Onion,Uttar Pradesh,Rabi,7,Sandy,APMC,683.6,29.3,39.8,10.63,71.76,129.34,149.06,112.25,10.97,2409.27
+457,Potato,Uttar Pradesh,Rabi,11,Black Soil,Local Market,1484.2,29.7,87.8,16.68,86.05,62.36,91.37,117.8,15.47,1483.64
+458,Onion,Karnataka,Summer,10,Loamy,Wholesale Market,1623.2,33.5,75.4,20.03,67.82,148.74,63.73,127.45,12.56,3210.03
+459,Sugarcane,Punjab,Kharif,8,Clay,Mandi,1465.8,27.9,44.9,18.5,60.4,109.08,57.55,200.65,13.99,427.34
+460,Tomato,Punjab,Rabi,3,Sandy,Mandi,557.2,20.9,90.0,15.75,71.14,88.82,110.39,52.89,3.7,2474.36
+461,Tomato,Punjab,Summer,7,Red Soil,Mandi,346.8,32.4,47.7,17.29,144.77,129.11,138.32,286.53,10.76,2797.79
+462,Rice,Telangana,Summer,6,Clay,Wholesale Market,1484.5,28.9,70.7,18.97,111.05,114.01,124.96,229.17,13.34,2250.39
+463,Groundnut,Andhra Pradesh,Summer,8,Red Soil,Mandi,666.2,27.8,81.0,4.51,15.51,66.58,120.6,101.93,9.0,4685.87
+464,Onion,Karnataka,Summer,7,Clay,Local Market,374.1,27.5,35.5,2.58,18.46,137.15,141.51,262.17,14.3,2427.04
+465,Onion,Madhya Pradesh,Kharif,7,Silty,APMC,390.9,35.1,69.7,18.81,55.79,113.71,123.72,203.1,10.49,2429.95
+466,Groundnut,Karnataka,Kharif,3,Silty,Mandi,374.0,25.2,82.2,6.2,14.31,92.61,72.04,280.57,17.62,6268.18
+467,Onion,Tamil Nadu,Summer,6,Silty,APMC,1497.7,37.3,49.8,12.62,26.54,115.91,100.28,77.55,9.96,2632.77
+468,Cotton,Karnataka,Summer,11,Clay,Local Market,1108.7,18.0,50.6,22.09,124.93,120.79,90.34,215.88,5.42,6940.87
+469,Tomato,Telangana,Kharif,5,Black Soil,APMC,778.8,33.0,65.2,11.58,31.1,123.68,147.48,254.66,3.08,2587.5
+470,Maize,Karnataka,Summer,6,Loamy,APMC,384.3,31.4,57.6,12.03,22.18,79.11,129.05,158.03,7.43,1666.88
+471,Maize,Uttar Pradesh,Kharif,12,Red Soil,Wholesale Market,640.6,36.4,67.0,13.57,77.01,96.6,130.71,176.05,4.1,1830.0
+472,Potato,Telangana,Summer,9,Sandy,APMC,634.1,18.7,40.6,18.35,53.17,97.13,100.17,228.62,4.04,1643.54
+473,Tomato,Punjab,Summer,12,Clay,Local Market,1757.7,23.7,38.9,8.97,60.13,103.81,131.78,182.82,18.74,2581.93
+474,Sugarcane,Tamil Nadu,Rabi,3,Red Soil,Wholesale Market,1183.1,31.9,40.0,12.69,42.4,132.44,68.96,271.98,9.76,430.82
+475,Wheat,Tamil Nadu,Kharif,4,Clay,Mandi,897.9,23.0,52.6,3.81,13.61,117.23,94.19,130.15,15.44,2465.88
+476,Tomato,Telangana,Rabi,1,Loamy,APMC,1251.9,35.5,37.3,20.85,114.66,120.75,102.32,267.36,2.78,3006.81
+477,Tomato,Punjab,Kharif,3,Loamy,Wholesale Market,277.3,28.3,64.1,10.32,36.96,128.17,70.78,247.73,16.45,3255.4
+478,Soybean,Madhya Pradesh,Rabi,8,Sandy,Local Market,1195.6,25.6,51.7,1.11,1.7,82.72,90.64,261.33,16.37,4268.2
+479,Cotton,Maharashtra,Summer,8,Silty,Mandi,775.8,28.0,59.1,5.85,14.12,61.26,65.4,223.39,6.39,7442.27
+480,Maize,Maharashtra,Summer,5,Sandy,APMC,304.5,29.5,78.3,0.92,4.92,145.78,97.41,41.07,2.2,2435.96
+481,Soybean,Madhya Pradesh,Kharif,9,Silty,Local Market,525.7,35.8,59.3,4.0,27.4,139.0,113.93,261.9,15.27,5166.42
+482,Maize,Karnataka,Kharif,6,Loamy,APMC,1053.4,29.7,44.6,24.09,65.74,77.76,141.52,160.95,3.14,1601.21
+483,Rice,Andhra Pradesh,Rabi,2,Black Soil,Wholesale Market,1478.9,36.1,88.6,6.19,47.47,92.83,61.28,266.21,13.45,2625.49
+484,Potato,Punjab,Rabi,2,Black Soil,Local Market,1161.6,20.8,58.4,14.03,79.86,87.44,90.0,242.37,18.94,1617.04
+485,Rice,Tamil Nadu,Summer,6,Black Soil,APMC,443.7,20.1,72.9,6.86,22.52,159.82,68.79,78.5,3.78,3396.78
+486,Maize,Maharashtra,Summer,9,Loamy,Wholesale Market,910.8,24.7,52.4,19.46,36.28,61.28,129.55,164.06,4.36,1565.3
+487,Cotton,Telangana,Rabi,3,Clay,Local Market,1350.2,27.6,63.6,24.39,201.47,81.53,131.11,91.28,5.84,5110.16
+488,Wheat,Maharashtra,Summer,8,Black Soil,Mandi,1699.5,25.3,56.5,3.1,19.2,88.88,108.56,193.75,14.95,2158.03
+489,Wheat,Tamil Nadu,Rabi,3,Loamy,APMC,1548.0,24.2,62.9,10.33,77.33,103.19,88.61,219.35,12.84,2325.52
+490,Sugarcane,Madhya Pradesh,Summer,6,Clay,Mandi,1602.9,34.3,47.9,5.42,35.26,91.5,80.64,79.6,6.75,350.88
+491,Sugarcane,Maharashtra,Summer,6,Black Soil,Mandi,759.3,23.7,61.3,4.93,24.15,130.42,52.98,42.54,3.35,479.06
+492,Tomato,Telangana,Kharif,3,Loamy,Mandi,1040.5,27.2,84.5,23.29,97.47,109.17,139.62,249.74,2.07,2396.93
+493,Wheat,Punjab,Kharif,8,Black Soil,Wholesale Market,308.6,30.9,49.4,1.78,5.55,140.19,135.15,165.6,9.49,2288.03
+494,Cotton,Madhya Pradesh,Summer,6,Silty,Mandi,888.5,36.7,37.7,5.65,30.86,121.56,53.96,144.79,13.68,8602.88
+495,Soybean,Punjab,Rabi,12,Black Soil,Wholesale Market,496.3,19.1,59.5,1.71,9.38,98.27,125.72,119.47,12.67,4028.08
+496,Rice,Karnataka,Rabi,11,Red Soil,Local Market,1758.7,33.8,48.4,22.75,48.95,106.81,138.75,206.73,9.45,2010.17
+497,Rice,Uttar Pradesh,Rabi,3,Sandy,Local Market,744.5,37.4,86.3,21.83,97.2,129.13,140.28,261.11,9.46,2478.15
+498,Sugarcane,Punjab,Summer,9,Black Soil,Wholesale Market,798.0,20.6,72.0,12.96,84.86,95.27,82.57,162.87,17.79,381.03
+499,Sugarcane,Madhya Pradesh,Rabi,1,Black Soil,Mandi,621.9,19.7,86.1,14.7,90.69,151.16,84.56,201.59,2.7,451.73
+500,Onion,Andhra Pradesh,Kharif,3,Black Soil,Wholesale Market,1545.6,20.0,72.2,6.59,10.6,76.68,110.67,224.37,2.38,1977.42
+501,Sugarcane,Maharashtra,Summer,4,Sandy,Mandi,603.7,32.8,52.0,21.54,137.92,100.18,57.63,230.5,13.1,411.61
+502,Sugarcane,Maharashtra,Summer,2,Silty,APMC,1795.1,21.1,82.5,7.02,39.56,110.58,51.8,282.52,3.41,433.69
+503,Maize,Telangana,Kharif,1,Red Soil,Local Market,1005.0,35.6,64.0,23.28,113.76,109.04,61.97,248.69,6.45,2479.24
+504,Potato,Uttar Pradesh,Summer,2,Sandy,Mandi,625.6,36.5,63.7,0.83,1.36,157.3,72.15,249.46,3.05,2470.38
+505,Rice,Karnataka,Rabi,7,Loamy,Wholesale Market,649.6,26.1,60.3,7.79,13.48,119.01,102.42,113.58,2.68,2517.07
+506,Rice,Karnataka,Summer,5,Silty,APMC,1545.1,18.9,48.0,22.3,34.88,80.14,145.9,199.48,6.71,1647.56
+507,Onion,Tamil Nadu,Kharif,7,Clay,APMC,1372.2,22.2,40.8,17.37,45.32,138.77,81.1,124.99,2.19,2894.03
+508,Potato,Telangana,Rabi,10,Sandy,APMC,997.1,19.4,50.3,8.45,68.58,88.27,96.09,214.54,4.92,1694.3
+509,Tomato,Tamil Nadu,Summer,9,Loamy,Local Market,1775.4,32.7,77.6,16.58,79.61,117.16,54.64,202.23,13.27,3395.81
+510,Groundnut,Karnataka,Summer,5,Loamy,Mandi,1629.8,23.4,80.3,13.2,62.47,91.44,108.1,229.77,9.4,5341.12
+511,Onion,Andhra Pradesh,Kharif,8,Sandy,Local Market,454.7,33.1,50.2,22.67,163.79,94.63,130.77,132.66,3.82,2155.4
+512,Wheat,Telangana,Rabi,4,Black Soil,Local Market,884.8,33.6,77.4,6.09,48.45,119.26,87.99,170.5,12.89,2595.16
+513,Maize,Andhra Pradesh,Kharif,1,Clay,APMC,523.4,34.3,64.8,3.71,25.46,153.24,144.73,135.94,4.44,2092.99
+514,Sugarcane,Andhra Pradesh,Rabi,7,Black Soil,Wholesale Market,1428.5,26.4,86.9,22.61,171.95,67.13,135.43,243.23,3.86,247.92
+515,Groundnut,Karnataka,Kharif,11,Silty,Wholesale Market,1100.4,37.5,59.1,13.75,113.79,85.52,135.85,182.06,12.25,4762.76
+516,Rice,Maharashtra,Summer,9,Silty,APMC,1625.8,25.4,42.9,17.55,46.54,135.37,146.81,242.68,2.4,1988.65
+517,Cotton,Tamil Nadu,Summer,11,Black Soil,APMC,994.2,28.7,44.3,8.4,38.49,143.32,142.94,203.39,9.11,6668.86
+518,Rice,Punjab,Rabi,8,Black Soil,APMC,1404.5,19.6,37.7,11.47,52.99,149.56,62.62,72.05,4.65,3211.47
+519,Soybean,Madhya Pradesh,Rabi,5,Clay,Local Market,396.6,33.2,68.3,14.47,27.13,74.05,112.25,94.03,11.07,3670.42
+520,Potato,Karnataka,Kharif,1,Red Soil,Local Market,1013.8,21.2,88.8,4.38,21.52,96.41,113.94,73.55,9.75,1631.76
+521,Cotton,Maharashtra,Kharif,12,Loamy,Mandi,1666.3,34.7,51.4,19.84,34.09,156.69,102.66,118.85,8.53,8328.74
+522,Rice,Madhya Pradesh,Kharif,1,Red Soil,Mandi,1191.9,26.1,46.4,20.43,136.88,126.16,73.63,65.44,12.37,2793.14
+523,Sugarcane,Andhra Pradesh,Kharif,5,Sandy,Local Market,612.8,19.0,49.8,16.53,86.54,154.4,89.63,220.4,10.81,417.17
+524,Sugarcane,Punjab,Rabi,3,Black Soil,Wholesale Market,1112.9,30.9,35.7,4.47,37.52,67.6,117.88,85.78,14.9,281.19
+525,Onion,Tamil Nadu,Summer,12,Silty,Local Market,1087.9,35.0,61.4,9.64,47.74,117.91,68.91,274.24,14.14,2880.31
+526,Soybean,Maharashtra,Kharif,8,Loamy,Wholesale Market,1067.3,26.1,67.4,2.69,12.15,77.48,148.71,185.9,14.37,3269.58
+527,Rice,Punjab,Summer,7,Loamy,APMC,1257.3,18.5,79.6,13.65,47.06,66.16,66.25,272.71,14.35,2341.98
+528,Tomato,Punjab,Kharif,11,Sandy,Mandi,1287.9,37.4,44.7,15.13,67.62,104.67,75.41,254.54,10.73,3287.29
+529,Wheat,Andhra Pradesh,Summer,12,Black Soil,Local Market,430.1,30.3,59.4,5.11,31.03,74.85,105.43,177.06,15.22,1923.62
+530,Groundnut,Tamil Nadu,Summer,1,Sandy,Mandi,1640.0,22.2,47.5,7.35,17.58,123.93,57.51,74.89,13.61,7184.95
+531,Tomato,Madhya Pradesh,Summer,7,Black Soil,Local Market,510.7,34.7,45.7,22.37,105.37,127.7,99.72,64.44,7.23,3163.56
+532,Rice,Maharashtra,Rabi,7,Loamy,Mandi,1541.2,32.0,51.0,8.74,31.98,62.0,108.26,221.7,17.37,1982.01
+533,Potato,Tamil Nadu,Kharif,11,Black Soil,Wholesale Market,781.6,20.8,59.2,12.66,54.76,127.87,92.09,289.97,12.79,1991.72
+534,Tomato,Maharashtra,Kharif,2,Red Soil,Mandi,579.7,30.1,62.7,21.74,177.59,100.49,100.64,292.59,6.97,2788.68
+535,Tomato,Tamil Nadu,Rabi,4,Clay,Local Market,643.1,35.7,65.9,5.06,15.54,109.38,146.16,240.11,10.79,2461.63
+536,Rice,Tamil Nadu,Kharif,3,Sandy,Mandi,1367.8,31.2,87.8,23.31,163.77,132.34,77.4,259.95,9.7,2667.67
+537,Groundnut,Andhra Pradesh,Kharif,1,Red Soil,Wholesale Market,1552.7,32.0,78.4,9.1,39.43,99.37,69.19,55.92,12.64,6474.32
+538,Maize,Uttar Pradesh,Summer,8,Clay,APMC,1276.1,27.3,69.7,11.52,32.49,110.79,102.86,250.76,15.24,2051.55
+539,Maize,Maharashtra,Summer,7,Loamy,Wholesale Market,858.5,24.8,80.8,7.23,47.95,69.41,145.14,201.8,14.72,1348.24
+540,Cotton,Andhra Pradesh,Kharif,11,Sandy,Mandi,1343.5,31.4,56.7,0.53,1.24,113.46,117.51,148.54,15.15,6229.16
+541,Rice,Karnataka,Rabi,5,Loamy,Wholesale Market,1373.6,35.9,41.5,24.76,73.43,61.18,149.74,113.08,14.02,1532.71
+542,Rice,Uttar Pradesh,Rabi,7,Black Soil,Local Market,541.3,30.5,53.5,5.67,20.94,77.88,140.19,143.27,6.42,1670.5
+543,Cotton,Maharashtra,Kharif,11,Black Soil,Mandi,929.0,35.2,66.1,4.35,27.55,111.34,115.06,271.32,9.93,6913.4
+544,Cotton,Maharashtra,Kharif,3,Clay,APMC,1548.7,35.7,85.7,3.06,7.35,115.7,139.4,293.33,2.83,6272.76
+545,Onion,Madhya Pradesh,Kharif,1,Black Soil,APMC,1047.6,22.0,52.6,15.0,30.08,74.75,57.32,251.2,15.54,2663.5
+546,Sugarcane,Andhra Pradesh,Rabi,1,Black Soil,Local Market,740.7,31.4,36.7,18.3,134.51,101.52,126.49,85.4,7.8,334.61
+547,Potato,Andhra Pradesh,Rabi,10,Silty,APMC,1411.4,37.3,39.0,1.81,14.59,112.99,111.49,165.43,3.69,1833.7
+548,Rice,Telangana,Rabi,10,Loamy,Local Market,1394.4,20.8,83.5,14.77,35.27,106.19,134.48,273.37,6.76,2087.15
+549,Rice,Maharashtra,Kharif,7,Red Soil,Wholesale Market,800.7,19.0,36.7,14.08,96.23,113.74,134.08,48.69,8.6,2088.49
+550,Groundnut,Uttar Pradesh,Summer,2,Red Soil,APMC,910.1,37.7,65.5,23.31,35.84,134.82,140.31,76.33,3.73,5302.5
+551,Rice,Uttar Pradesh,Summer,8,Sandy,Mandi,528.5,37.2,56.2,8.87,67.61,116.39,101.64,229.01,12.44,2608.29
+552,Potato,Tamil Nadu,Summer,2,Sandy,Mandi,1179.1,21.4,75.8,7.91,48.54,75.83,118.81,73.33,9.66,1346.81
+553,Rice,Tamil Nadu,Kharif,9,Red Soil,APMC,1616.7,35.8,45.8,15.54,32.85,99.15,121.33,211.45,13.24,2044.16
+554,Sugarcane,Maharashtra,Summer,6,Red Soil,APMC,635.9,24.5,53.4,1.13,4.39,140.33,139.73,174.74,10.2,332.68
+555,Potato,Telangana,Kharif,8,Silty,Mandi,705.1,26.0,81.9,12.76,79.78,99.2,76.36,288.21,12.86,1859.06
+556,Rice,Madhya Pradesh,Summer,10,Black Soil,Local Market,738.6,20.3,40.9,18.13,135.65,85.7,52.09,98.0,3.02,2701.49
+557,Wheat,Karnataka,Kharif,12,Black Soil,Wholesale Market,1217.8,31.1,38.9,15.96,130.44,114.1,121.53,184.75,17.39,1988.7
+558,Cotton,Tamil Nadu,Summer,6,Silty,APMC,1068.8,31.2,46.4,22.69,167.22,107.11,91.11,101.51,15.14,6976.48
+559,Wheat,Madhya Pradesh,Summer,3,Black Soil,Mandi,1593.0,18.7,85.2,3.4,20.47,85.01,133.66,173.2,4.43,1537.52
+560,Potato,Karnataka,Summer,10,Sandy,Wholesale Market,699.3,18.3,66.6,10.36,42.71,78.29,93.01,295.95,7.36,1738.29
+561,Wheat,Madhya Pradesh,Summer,3,Loamy,Mandi,1196.8,35.4,35.8,11.18,34.32,98.86,91.6,234.13,3.69,2589.56
+562,Tomato,Andhra Pradesh,Summer,5,Sandy,APMC,870.2,21.0,62.7,20.14,92.46,109.06,134.88,223.58,10.83,2476.77
+563,Groundnut,Telangana,Summer,3,Clay,Local Market,1461.6,33.2,61.3,1.59,5.83,89.23,131.11,62.77,16.5,4948.27
+564,Rice,Uttar Pradesh,Kharif,9,Loamy,Mandi,1304.9,20.4,41.3,10.57,63.79,131.21,67.85,60.69,18.93,2976.28
+565,Cotton,Andhra Pradesh,Kharif,5,Clay,Wholesale Market,1447.4,21.4,80.2,19.35,109.85,93.72,76.25,71.69,11.18,6629.85
+566,Potato,Uttar Pradesh,Rabi,9,Red Soil,Local Market,504.1,25.6,42.7,15.81,104.38,153.19,77.89,287.05,3.14,2395.8
+567,Potato,Punjab,Summer,2,Red Soil,Wholesale Market,1613.9,38.0,48.4,19.2,107.62,86.12,148.19,273.45,4.31,1359.12
+568,Groundnut,Andhra Pradesh,Rabi,3,Sandy,Local Market,1654.1,28.3,43.5,23.08,157.0,133.17,120.92,92.09,5.8,5870.37
+569,Potato,Madhya Pradesh,Rabi,3,Black Soil,Wholesale Market,711.4,31.2,42.5,17.33,136.79,120.86,105.99,289.89,13.29,1827.59
+570,Wheat,Telangana,Kharif,10,Red Soil,APMC,785.3,37.8,40.6,10.41,20.17,142.11,59.23,215.24,3.02,2973.39
+571,Cotton,Karnataka,Kharif,12,Silty,Wholesale Market,1299.5,33.4,61.0,15.63,73.37,149.41,99.79,258.87,16.42,7834.75
+572,Wheat,Maharashtra,Kharif,7,Black Soil,Mandi,1499.4,25.1,70.3,6.52,14.77,139.44,59.9,110.56,17.39,2885.27
+573,Soybean,Andhra Pradesh,Summer,10,Loamy,Local Market,313.5,32.1,59.8,2.97,19.16,63.12,137.02,76.05,4.29,3516.21
+574,Rice,Andhra Pradesh,Rabi,9,Silty,Local Market,758.0,35.2,41.7,11.12,47.56,153.81,65.31,42.56,6.29,3303.88
+575,Rice,Telangana,Rabi,2,Clay,Wholesale Market,1358.9,19.4,53.2,7.42,39.96,133.04,103.29,282.07,19.13,2679.54
+576,Wheat,Telangana,Kharif,3,Silty,Mandi,1723.4,32.6,37.9,22.16,167.06,104.33,108.59,293.78,11.58,2120.12
+577,Maize,Telangana,Rabi,1,Black Soil,Mandi,633.7,34.1,77.0,9.96,81.48,151.06,146.23,151.26,5.55,2263.03
+578,Soybean,Madhya Pradesh,Rabi,1,Sandy,APMC,998.2,24.6,75.7,8.16,59.47,119.5,129.39,297.23,14.22,4560.05
+579,Onion,Karnataka,Kharif,11,Red Soil,Local Market,1697.1,35.3,47.8,19.57,112.72,157.09,87.36,217.18,3.14,3165.47
+580,Tomato,Andhra Pradesh,Rabi,10,Clay,Local Market,874.3,18.7,65.3,17.86,41.1,90.54,128.13,135.14,6.35,2259.26
+581,Wheat,Maharashtra,Summer,3,Sandy,Mandi,1353.6,25.7,57.1,19.69,162.24,72.67,92.06,165.04,8.77,1986.3
+582,Maize,Punjab,Summer,1,Black Soil,Wholesale Market,1514.9,34.1,61.8,7.81,46.6,88.82,73.6,229.93,2.73,2158.04
+583,Sugarcane,Uttar Pradesh,Summer,3,Loamy,Wholesale Market,596.9,24.8,89.5,13.33,39.1,93.48,83.03,45.13,4.43,358.28
+584,Soybean,Karnataka,Rabi,8,Black Soil,Local Market,1128.9,31.7,35.2,23.31,53.06,100.62,127.1,153.16,19.04,4174.28
+585,Sugarcane,Tamil Nadu,Summer,4,Clay,Mandi,1770.5,36.5,84.4,18.42,74.95,70.61,118.86,294.45,15.08,272.5
+586,Rice,Tamil Nadu,Summer,11,Loamy,APMC,445.0,29.8,63.9,5.47,25.51,139.69,109.04,65.2,11.86,2620.93
+587,Groundnut,Punjab,Rabi,1,Clay,Wholesale Market,758.5,31.2,75.2,11.6,72.97,95.99,116.78,50.55,9.03,5397.38
+588,Wheat,Tamil Nadu,Kharif,8,Clay,Mandi,530.0,20.6,53.0,5.65,28.16,107.6,140.15,49.03,7.76,1996.93
+589,Soybean,Uttar Pradesh,Kharif,4,Loamy,Wholesale Market,780.8,20.2,38.8,14.93,76.81,134.22,100.97,149.84,9.17,5338.25
+590,Soybean,Tamil Nadu,Kharif,5,Silty,Wholesale Market,1752.6,31.9,38.9,5.14,35.46,144.14,111.77,207.55,2.51,4799.11
+591,Sugarcane,Maharashtra,Summer,6,Clay,Local Market,583.0,18.8,46.1,4.88,18.86,101.84,100.85,163.96,6.87,351.85
+592,Soybean,Telangana,Summer,9,Sandy,Wholesale Market,1407.5,35.2,62.2,3.71,23.65,80.61,94.12,56.9,16.86,4274.0
+593,Potato,Telangana,Kharif,7,Silty,Mandi,422.0,21.5,58.6,3.6,19.67,99.84,78.46,84.2,8.04,2014.05
+594,Onion,Tamil Nadu,Kharif,6,Loamy,Wholesale Market,300.9,27.4,70.6,20.84,38.45,145.24,104.84,91.3,7.71,3082.39
+595,Sugarcane,Maharashtra,Kharif,9,Red Soil,Wholesale Market,1799.5,34.9,54.9,0.75,4.41,130.39,115.08,291.64,17.53,359.52
+596,Cotton,Uttar Pradesh,Rabi,2,Loamy,Wholesale Market,1150.1,25.8,44.4,6.06,33.5,102.34,101.49,84.38,13.93,6770.23
+597,Rice,Punjab,Summer,12,Silty,APMC,1339.8,23.8,60.9,23.93,164.33,156.96,124.63,85.66,3.16,2429.26
+598,Potato,Madhya Pradesh,Summer,6,Black Soil,Local Market,1693.9,29.7,64.6,11.63,34.48,60.37,74.15,172.53,8.84,1699.51
+599,Rice,Telangana,Summer,3,Silty,Wholesale Market,950.9,20.7,37.6,19.5,107.15,136.07,64.99,188.68,6.57,2955.5
+600,Maize,Andhra Pradesh,Kharif,1,Black Soil,Mandi,297.1,32.3,37.5,7.02,34.96,101.99,69.18,126.79,15.1,2323.5
+601,Cotton,Uttar Pradesh,Summer,5,Red Soil,Wholesale Market,332.2,28.9,49.3,14.9,49.61,158.5,80.97,102.91,7.01,9232.06
+602,Maize,Uttar Pradesh,Kharif,8,Loamy,Mandi,1395.4,22.0,81.4,5.49,36.78,128.56,125.89,178.5,13.5,2088.61
+603,Groundnut,Punjab,Kharif,3,Sandy,Wholesale Market,273.7,22.4,50.5,11.37,30.67,147.33,120.49,62.15,13.7,6430.52
+604,Tomato,Maharashtra,Kharif,8,Silty,Local Market,1694.8,32.4,77.1,2.74,13.97,83.16,68.12,250.68,4.43,2881.44
+605,Potato,Maharashtra,Kharif,1,Red Soil,Wholesale Market,1765.9,37.9,65.6,4.67,17.34,102.45,80.93,112.97,19.5,1940.09
+606,Rice,Maharashtra,Rabi,5,Black Soil,Local Market,1620.3,27.0,82.1,1.69,4.29,101.4,98.34,108.51,8.42,2254.83
+607,Maize,Telangana,Rabi,6,Black Soil,Local Market,417.1,27.8,73.4,13.48,57.18,122.19,146.86,64.68,9.02,2005.51
+608,Soybean,Uttar Pradesh,Kharif,5,Red Soil,Mandi,979.7,35.6,67.2,17.02,121.35,125.92,89.81,173.54,16.45,4994.77
+609,Onion,Telangana,Kharif,11,Silty,Mandi,1254.7,26.3,57.3,17.15,33.78,119.37,127.2,255.34,5.07,2363.15
+610,Potato,Telangana,Summer,5,Sandy,Wholesale Market,1674.5,36.0,59.6,7.22,30.7,98.78,78.69,109.83,17.5,1947.07
+611,Groundnut,Punjab,Summer,12,Black Soil,APMC,784.0,19.2,49.8,19.33,148.75,82.15,96.35,162.28,17.72,5285.34
+612,Maize,Andhra Pradesh,Summer,8,Red Soil,Mandi,1656.2,32.8,64.9,13.48,53.04,112.05,115.54,148.77,14.85,2133.54
+613,Onion,Punjab,Rabi,6,Silty,Local Market,1315.6,23.0,70.2,22.0,97.39,151.1,149.32,67.58,6.19,2410.19
+614,Maize,Tamil Nadu,Rabi,12,Black Soil,Local Market,652.4,26.6,60.7,6.38,49.52,114.25,147.84,250.6,12.0,1671.24
+615,Maize,Tamil Nadu,Summer,10,Sandy,Wholesale Market,1532.1,26.5,50.1,6.99,36.72,104.91,94.01,63.7,14.93,2049.26
+616,Maize,Tamil Nadu,Rabi,9,Clay,APMC,945.8,28.7,46.2,4.32,33.1,103.37,91.21,49.26,10.96,2108.91
+617,Potato,Punjab,Rabi,7,Sandy,APMC,640.9,34.2,87.1,3.83,19.09,81.42,56.01,124.63,4.59,2002.58
+618,Groundnut,Uttar Pradesh,Kharif,11,Black Soil,Wholesale Market,1616.6,25.9,72.8,10.71,64.69,90.94,110.62,176.18,2.44,5496.21
+619,Rice,Telangana,Rabi,10,Sandy,Mandi,259.2,25.5,38.5,22.88,100.9,105.95,84.99,203.15,16.12,2707.0
+620,Tomato,Punjab,Summer,12,Black Soil,APMC,698.7,31.3,58.5,22.28,165.24,112.54,119.15,269.67,10.92,2787.54
+621,Rice,Madhya Pradesh,Kharif,12,Clay,Wholesale Market,852.2,35.3,74.8,10.39,31.2,95.6,78.41,85.78,15.38,2524.23
+622,Potato,Karnataka,Summer,2,Red Soil,Mandi,374.0,19.8,67.5,15.18,67.27,103.18,55.39,174.3,11.09,1988.01
+623,Cotton,Telangana,Summer,9,Black Soil,Wholesale Market,406.6,30.2,45.8,6.66,18.08,155.78,135.46,99.93,7.9,7544.81
+624,Groundnut,Punjab,Summer,10,Loamy,Mandi,1165.1,19.4,36.4,6.9,36.34,150.76,134.64,167.52,2.67,5564.21
+625,Onion,Punjab,Kharif,9,Clay,Local Market,681.8,33.4,54.3,20.39,76.19,76.36,93.58,157.59,2.29,2307.15
+626,Maize,Madhya Pradesh,Rabi,1,Black Soil,Mandi,1039.3,30.6,54.6,8.43,14.01,110.03,98.36,81.04,15.76,2144.31
+627,Potato,Punjab,Summer,8,Clay,APMC,1554.1,26.3,77.2,1.49,3.52,80.31,90.2,259.89,8.23,1743.15
+628,Groundnut,Uttar Pradesh,Summer,8,Sandy,Wholesale Market,1788.8,20.5,39.0,22.02,79.55,125.03,82.9,141.78,6.72,6636.76
+629,Maize,Telangana,Summer,2,Red Soil,APMC,1712.5,18.8,62.7,14.81,117.61,64.92,107.35,261.94,6.35,1628.99
+630,Wheat,Punjab,Kharif,5,Black Soil,APMC,1064.6,27.9,42.9,23.05,105.69,159.46,92.01,198.07,3.89,2871.78
+631,Onion,Andhra Pradesh,Rabi,6,Clay,Mandi,1527.5,32.5,80.8,5.42,25.28,129.18,113.74,226.25,6.04,2460.3
+632,Soybean,Uttar Pradesh,Summer,1,Black Soil,APMC,1696.5,36.8,85.3,13.89,55.47,60.73,56.09,151.5,9.19,4697.19
+633,Cotton,Punjab,Rabi,8,Sandy,Wholesale Market,1015.5,18.2,42.7,8.39,46.57,67.51,144.34,134.92,18.43,4738.39
+634,Maize,Madhya Pradesh,Summer,8,Red Soil,APMC,423.0,21.0,58.5,5.29,8.97,140.5,51.95,255.98,4.59,2865.63
+635,Rice,Maharashtra,Summer,9,Silty,Mandi,309.2,30.3,80.5,4.36,24.68,119.36,66.42,72.1,19.64,2780.45
+636,Wheat,Punjab,Summer,2,Red Soil,Mandi,1247.5,19.8,84.1,10.04,37.08,106.24,89.01,264.53,18.73,2299.59
+637,Potato,Maharashtra,Summer,5,Sandy,APMC,1692.8,22.9,66.7,7.23,52.55,60.53,106.48,128.19,7.81,1439.87
+638,Wheat,Tamil Nadu,Summer,11,Red Soil,Mandi,948.3,18.2,65.6,16.71,94.3,133.63,107.13,57.36,4.1,2483.79
+639,Rice,Punjab,Rabi,1,Black Soil,Mandi,1109.2,24.6,74.6,16.27,62.31,135.49,114.87,205.74,11.96,2569.81
+640,Wheat,Maharashtra,Kharif,3,Sandy,Local Market,1303.7,29.2,69.4,2.87,23.43,139.08,87.39,186.33,2.85,2690.52
+641,Wheat,Uttar Pradesh,Kharif,2,Loamy,Local Market,1116.7,28.6,57.1,4.46,10.39,136.07,142.75,159.15,13.87,2231.11
+642,Maize,Uttar Pradesh,Rabi,3,Sandy,Wholesale Market,424.9,28.7,40.6,21.88,110.57,140.8,86.81,72.52,2.75,2654.45
+643,Cotton,Tamil Nadu,Rabi,9,Red Soil,Wholesale Market,283.7,28.4,56.5,14.64,93.94,123.41,148.46,75.95,9.74,5778.98
+644,Sugarcane,Andhra Pradesh,Rabi,12,Clay,Local Market,1727.3,28.3,80.1,13.9,24.82,91.5,107.55,287.15,17.46,296.95
+645,Tomato,Uttar Pradesh,Rabi,3,Red Soil,Wholesale Market,1679.9,35.1,77.6,10.12,50.91,106.43,75.34,171.31,2.55,3011.08
+646,Tomato,Andhra Pradesh,Summer,12,Clay,Mandi,1433.1,32.5,46.2,8.78,42.05,93.08,125.49,125.63,4.49,2530.17
+647,Tomato,Maharashtra,Summer,12,Black Soil,Mandi,360.1,27.8,73.6,13.07,99.39,88.89,58.62,283.51,8.81,3278.41
+648,Maize,Uttar Pradesh,Rabi,2,Red Soil,Mandi,1692.3,34.0,58.8,12.58,42.26,130.44,130.28,102.12,2.75,2062.74
+649,Potato,Punjab,Summer,7,Sandy,Mandi,1586.3,35.8,60.7,16.61,128.98,99.3,146.18,148.1,12.82,1425.74
+650,Rice,Telangana,Kharif,4,Silty,Wholesale Market,641.0,29.7,78.8,12.14,85.62,95.99,143.88,178.82,12.73,1922.91
+651,Soybean,Tamil Nadu,Kharif,8,Red Soil,Wholesale Market,800.5,26.1,57.5,13.83,73.36,109.72,63.48,168.98,5.04,5774.97
+652,Groundnut,Tamil Nadu,Kharif,3,Red Soil,APMC,766.9,22.4,62.3,7.29,38.23,94.85,63.21,109.13,9.89,6620.71
+653,Potato,Telangana,Rabi,5,Sandy,Local Market,1182.1,28.9,67.5,23.4,36.5,64.78,69.15,83.5,5.26,1685.05
+654,Potato,Andhra Pradesh,Kharif,1,Black Soil,Local Market,1512.0,36.1,35.9,23.38,167.6,143.72,59.33,232.08,19.28,2508.89
+655,Maize,Punjab,Kharif,7,Clay,Wholesale Market,445.4,35.5,63.2,10.41,27.42,130.08,142.68,137.6,6.35,2127.79
+656,Maize,Andhra Pradesh,Summer,3,Red Soil,Mandi,1661.7,34.9,42.0,2.78,15.64,113.21,76.64,273.86,18.69,2365.86
+657,Tomato,Madhya Pradesh,Summer,10,Loamy,Local Market,402.7,33.1,47.3,1.86,13.17,75.41,112.51,128.05,4.28,2369.21
+658,Tomato,Andhra Pradesh,Summer,5,Red Soil,Mandi,617.3,27.0,45.4,7.08,37.1,143.26,90.18,226.41,17.78,3349.12
+659,Maize,Tamil Nadu,Rabi,9,Sandy,Wholesale Market,657.0,23.1,77.5,11.15,42.54,77.87,126.53,244.44,12.2,1634.07
+660,Wheat,Tamil Nadu,Kharif,8,Red Soil,Local Market,771.1,23.8,64.8,1.08,2.22,101.8,144.29,227.59,3.59,1871.89
+661,Soybean,Karnataka,Kharif,12,Red Soil,Mandi,974.4,30.5,78.7,24.24,115.65,117.37,94.48,213.81,13.34,5050.42
+662,Cotton,Karnataka,Kharif,11,Black Soil,Wholesale Market,1033.0,33.0,42.6,6.68,44.24,76.47,85.14,108.87,8.3,6551.43
+663,Rice,Karnataka,Rabi,5,Silty,Mandi,1014.2,33.7,87.1,9.22,29.96,121.62,99.89,297.19,10.32,2545.11
+664,Tomato,Madhya Pradesh,Summer,11,Loamy,Wholesale Market,1360.5,25.7,46.6,16.0,133.31,91.06,96.1,215.24,11.75,2673.36
+665,Sugarcane,Karnataka,Summer,11,Clay,Mandi,1186.5,35.6,52.9,10.21,44.38,116.08,72.84,253.77,7.32,418.83
+666,Tomato,Madhya Pradesh,Rabi,11,Loamy,APMC,425.9,28.9,74.0,1.73,3.44,140.27,130.9,103.78,13.07,3101.63
+667,Onion,Madhya Pradesh,Rabi,8,Black Soil,Mandi,1014.2,29.3,71.0,23.1,43.82,62.95,67.83,296.48,14.87,2346.17
+668,Onion,Madhya Pradesh,Summer,2,Black Soil,APMC,1101.2,37.0,89.9,6.27,41.31,97.8,50.81,42.41,10.29,2960.08
+669,Potato,Uttar Pradesh,Summer,11,Clay,Wholesale Market,1554.3,18.2,52.2,0.81,1.76,89.71,55.43,195.12,3.56,1920.45
+670,Rice,Tamil Nadu,Summer,3,Black Soil,Mandi,1443.7,20.8,80.9,0.7,2.09,121.61,87.52,295.89,2.55,2613.95
+671,Groundnut,Telangana,Rabi,5,Silty,APMC,1525.5,21.8,73.6,7.62,27.3,89.63,122.56,99.75,2.02,4542.96
+672,Wheat,Uttar Pradesh,Rabi,12,Red Soil,Mandi,1754.4,32.3,52.8,8.31,38.56,122.62,64.64,89.12,17.47,2795.39
+673,Soybean,Karnataka,Summer,1,Black Soil,Wholesale Market,1784.8,19.5,71.4,11.48,53.11,105.76,75.87,226.05,14.99,5107.79
+674,Tomato,Maharashtra,Rabi,12,Loamy,Wholesale Market,1673.2,34.3,88.8,22.07,76.35,70.6,61.22,115.72,13.06,2758.9
+675,Maize,Punjab,Summer,7,Loamy,APMC,920.5,28.1,70.1,7.75,50.17,76.93,133.2,188.68,12.51,1773.83
+676,Wheat,Punjab,Rabi,5,Silty,Local Market,1722.6,21.6,36.4,1.47,8.25,66.16,145.85,76.9,7.49,1368.37
+677,Rice,Karnataka,Kharif,10,Sandy,Mandi,1245.6,23.5,47.0,6.73,33.21,156.61,133.22,114.0,8.54,2566.11
+678,Wheat,Maharashtra,Kharif,7,Loamy,APMC,1744.1,21.1,47.5,6.03,9.93,120.41,117.07,196.66,3.28,2189.72
+679,Maize,Telangana,Summer,2,Silty,Mandi,318.3,25.9,57.9,11.55,84.18,69.8,120.39,127.87,7.58,1546.12
+680,Soybean,Maharashtra,Rabi,4,Black Soil,APMC,362.0,31.8,64.4,9.79,38.0,122.08,139.1,169.01,16.85,4552.7
+681,Wheat,Karnataka,Summer,12,Clay,Local Market,839.2,24.7,74.5,18.7,34.71,82.11,77.43,182.38,4.6,2236.58
+682,Tomato,Telangana,Rabi,2,Black Soil,APMC,448.2,32.8,56.8,6.94,28.65,109.78,84.31,102.9,9.17,3146.02
+683,Sugarcane,Telangana,Summer,2,Black Soil,APMC,1009.8,25.2,80.5,1.05,3.37,75.26,135.92,161.56,9.28,268.42
+684,Wheat,Karnataka,Kharif,6,Red Soil,APMC,506.0,36.4,58.3,7.33,35.16,151.78,88.71,186.29,16.45,2893.3
+685,Tomato,Karnataka,Summer,8,Silty,Local Market,495.3,31.9,40.8,16.79,58.82,79.89,143.64,44.82,9.88,2081.43
+686,Rice,Madhya Pradesh,Rabi,7,Clay,Mandi,833.4,31.4,78.0,13.5,75.99,80.06,78.73,82.09,6.49,2343.4
+687,Soybean,Uttar Pradesh,Kharif,10,Clay,Wholesale Market,1648.3,36.3,86.2,7.13,30.68,147.04,85.92,196.07,4.12,5699.72
+688,Rice,Telangana,Rabi,3,Black Soil,Wholesale Market,1048.4,31.7,70.7,10.89,48.73,74.08,101.32,192.67,10.58,2035.58
+689,Onion,Maharashtra,Kharif,4,Silty,Local Market,282.0,37.2,60.4,10.61,34.96,61.01,77.48,68.44,13.88,2484.74
+690,Soybean,Andhra Pradesh,Summer,3,Silty,Mandi,1074.6,34.2,77.9,5.77,37.56,140.01,84.61,84.88,2.05,5536.96
+691,Rice,Punjab,Rabi,2,Black Soil,APMC,587.8,31.0,58.2,4.1,19.9,61.74,123.39,59.13,13.32,1757.24
+692,Soybean,Tamil Nadu,Kharif,10,Red Soil,Local Market,772.1,29.1,66.6,3.71,17.45,86.83,134.2,121.53,17.1,3797.54
+693,Maize,Tamil Nadu,Summer,9,Sandy,Local Market,733.3,30.8,35.5,1.31,9.78,128.4,76.54,218.87,16.26,2497.37
+694,Cotton,Tamil Nadu,Summer,3,Clay,Mandi,593.6,23.4,48.3,24.8,71.47,117.55,142.53,78.19,19.48,6306.48
+695,Sugarcane,Uttar Pradesh,Rabi,8,Sandy,Wholesale Market,1232.8,33.2,89.2,4.92,33.76,93.88,67.56,149.56,16.29,422.19
+696,Onion,Telangana,Kharif,4,Silty,Wholesale Market,816.1,25.9,73.3,23.48,124.36,136.84,58.92,94.9,11.04,3016.27
+697,Rice,Karnataka,Kharif,2,Silty,Local Market,309.1,27.8,74.2,21.79,175.15,92.74,63.58,101.6,15.97,2667.89
+698,Sugarcane,Telangana,Kharif,7,Clay,Wholesale Market,647.6,29.9,35.9,6.86,42.05,63.21,58.32,116.28,17.8,370.39
+699,Onion,Telangana,Kharif,4,Sandy,APMC,675.8,31.0,74.7,21.64,104.48,159.45,148.0,269.36,12.35,2427.65
+700,Wheat,Madhya Pradesh,Summer,5,Silty,Local Market,1793.1,20.4,35.8,22.31,71.72,132.97,131.1,263.34,19.85,2057.35
+701,Cotton,Tamil Nadu,Kharif,1,Silty,Mandi,1513.6,19.7,69.3,0.67,1.21,150.4,102.76,231.33,17.09,7355.05
+702,Onion,Punjab,Kharif,1,Black Soil,Local Market,1117.3,31.3,88.8,18.35,110.21,93.51,53.45,114.91,15.83,2826.98
+703,Soybean,Tamil Nadu,Kharif,6,Sandy,APMC,1178.6,19.8,38.2,9.62,62.96,115.48,92.29,187.1,8.58,5056.48
+704,Cotton,Uttar Pradesh,Summer,8,Black Soil,Mandi,1508.4,32.4,75.1,2.96,19.31,127.98,133.09,50.81,2.42,6733.23
+705,Maize,Telangana,Kharif,6,Clay,Local Market,1743.4,36.2,69.7,14.71,60.17,61.83,62.76,236.1,10.49,1990.8
+706,Rice,Telangana,Summer,5,Clay,Mandi,281.7,28.4,70.0,6.24,34.65,124.72,118.69,241.86,7.6,2388.49
+707,Rice,Karnataka,Summer,12,Clay,Wholesale Market,720.4,20.2,61.0,17.09,130.25,134.92,143.86,54.01,2.22,2117.93
+708,Potato,Maharashtra,Rabi,2,Clay,Mandi,932.2,28.2,72.0,9.98,32.53,76.62,84.95,232.87,15.62,1770.9
+709,Groundnut,Karnataka,Summer,1,Black Soil,APMC,1443.4,35.1,35.0,9.38,62.5,119.97,67.76,118.97,8.06,7161.24
+710,Onion,Karnataka,Kharif,3,Silty,APMC,854.2,25.9,68.9,3.54,19.67,126.51,93.89,287.82,12.95,2791.67
+711,Maize,Madhya Pradesh,Summer,7,Red Soil,Wholesale Market,948.1,24.5,60.9,20.56,48.77,145.77,139.75,286.14,9.15,2041.33
+712,Cotton,Tamil Nadu,Kharif,11,Red Soil,Wholesale Market,1696.7,24.3,86.7,9.53,17.9,136.3,120.35,195.46,10.82,6726.74
+713,Wheat,Andhra Pradesh,Summer,6,Sandy,Mandi,1118.3,26.6,88.1,15.3,103.19,153.63,109.16,43.14,2.62,2542.21
+714,Tomato,Madhya Pradesh,Kharif,11,Black Soil,Local Market,1610.6,35.9,71.3,8.95,69.41,89.15,106.27,65.93,18.6,2642.29
+715,Rice,Andhra Pradesh,Rabi,8,Clay,Wholesale Market,977.4,20.3,55.2,1.12,6.72,149.27,138.49,221.88,10.38,2302.1
+716,Soybean,Maharashtra,Rabi,3,Red Soil,APMC,740.9,23.2,37.1,14.79,45.99,74.81,115.38,217.11,15.54,3822.94
+717,Wheat,Andhra Pradesh,Summer,5,Sandy,Local Market,547.9,19.7,53.5,3.66,18.89,123.3,107.83,107.4,18.36,2466.7
+718,Tomato,Punjab,Rabi,2,Red Soil,Local Market,347.8,20.2,70.8,8.16,32.12,108.68,147.86,291.01,9.49,2391.54
+719,Rice,Karnataka,Kharif,2,Silty,Local Market,1756.7,30.4,89.0,8.78,56.38,82.26,76.12,173.09,7.75,2308.19
+720,Maize,Punjab,Summer,2,Sandy,Local Market,516.1,20.1,68.7,2.81,19.05,62.05,74.94,271.57,14.93,1877.07
+721,Potato,Tamil Nadu,Rabi,12,Red Soil,Local Market,923.9,22.0,40.9,11.28,26.66,108.64,112.52,255.12,14.22,1698.31
+722,Tomato,Madhya Pradesh,Summer,4,Black Soil,Mandi,1458.7,33.7,63.6,21.52,91.24,148.87,74.02,112.86,2.96,3518.64
+723,Potato,Telangana,Kharif,3,Silty,APMC,1647.2,34.7,65.4,15.59,75.15,99.17,141.55,72.66,9.53,1438.98
+724,Tomato,Karnataka,Rabi,9,Sandy,Local Market,987.2,26.5,82.3,13.78,87.19,106.93,93.97,156.03,9.4,2628.53
+725,Soybean,Telangana,Kharif,7,Red Soil,Mandi,1016.9,35.0,83.1,4.68,11.48,123.04,80.12,44.83,18.0,5636.71
+726,Maize,Uttar Pradesh,Summer,11,Clay,Wholesale Market,516.8,24.1,52.7,4.41,12.95,138.86,66.72,47.4,13.33,2735.92
+727,Onion,Karnataka,Rabi,7,Clay,APMC,1335.3,28.0,44.1,17.78,62.96,88.29,73.83,267.53,17.62,2513.05
+728,Rice,Andhra Pradesh,Rabi,12,Black Soil,Local Market,838.4,25.7,67.4,16.37,76.32,156.87,58.38,130.23,9.54,3504.44
+729,Sugarcane,Andhra Pradesh,Summer,12,Silty,APMC,771.4,32.5,63.0,3.68,24.84,69.92,133.9,282.17,7.8,268.22
+730,Onion,Madhya Pradesh,Rabi,11,Red Soil,APMC,580.2,23.4,51.7,13.1,85.07,152.62,58.84,288.14,18.58,3444.11
+731,Soybean,Tamil Nadu,Rabi,11,Red Soil,Mandi,920.1,37.6,39.9,23.09,112.26,122.37,133.02,133.72,9.75,4158.19
+732,Rice,Tamil Nadu,Kharif,9,Black Soil,Local Market,1355.5,21.3,87.6,16.86,32.29,125.76,138.31,190.03,8.37,2042.34
+733,Groundnut,Andhra Pradesh,Summer,12,Silty,Local Market,489.3,23.0,75.6,20.25,69.96,96.8,57.76,225.5,2.06,6357.36
+734,Wheat,Karnataka,Kharif,1,Black Soil,Mandi,853.5,36.8,58.5,14.09,29.06,139.02,92.28,248.13,6.57,2892.83
+735,Rice,Punjab,Rabi,10,Silty,Wholesale Market,891.8,22.7,62.0,21.88,141.88,118.0,58.9,220.44,5.0,2826.0
+736,Tomato,Telangana,Summer,6,Red Soil,APMC,1396.2,37.4,60.1,20.82,173.34,147.35,72.71,42.09,10.86,3676.49
+737,Cotton,Karnataka,Summer,8,Silty,Wholesale Market,979.0,24.3,69.2,16.49,113.55,75.67,124.15,195.85,3.04,5272.28
+738,Tomato,Tamil Nadu,Kharif,4,Silty,APMC,1182.4,30.1,55.1,22.66,113.81,106.48,149.75,168.31,5.21,2391.63
+739,Cotton,Tamil Nadu,Summer,1,Silty,APMC,1575.4,31.2,58.9,8.99,14.7,142.52,64.27,120.48,12.24,8941.78
+740,Groundnut,Tamil Nadu,Kharif,2,Silty,Mandi,1405.5,28.1,70.6,12.81,63.32,77.18,77.87,81.3,5.52,5193.59
+741,Wheat,Andhra Pradesh,Summer,12,Clay,Wholesale Market,1165.4,30.2,43.5,19.95,139.58,83.73,78.87,283.88,16.86,2241.61
+742,Cotton,Andhra Pradesh,Rabi,6,Sandy,Wholesale Market,993.6,32.9,46.3,7.68,30.13,134.67,134.69,137.86,7.34,6968.55
+743,Sugarcane,Punjab,Summer,6,Black Soil,APMC,812.9,23.7,62.5,11.67,45.64,129.37,125.96,261.78,19.51,368.36
+744,Sugarcane,Madhya Pradesh,Rabi,9,Loamy,Wholesale Market,251.6,30.0,50.6,22.07,83.66,88.97,76.95,77.66,12.47,363.98
+745,Sugarcane,Uttar Pradesh,Kharif,5,Black Soil,APMC,1759.7,36.2,43.9,9.54,42.62,96.05,129.85,176.25,12.3,305.31
+746,Maize,Punjab,Summer,10,Red Soil,Wholesale Market,706.7,19.0,61.8,9.21,30.03,129.47,126.95,103.65,2.89,2084.55
+747,Potato,Tamil Nadu,Rabi,10,Silty,APMC,468.8,18.5,78.8,15.2,98.44,90.38,100.95,234.27,10.33,1770.12
+748,Cotton,Andhra Pradesh,Rabi,7,Loamy,Local Market,346.3,33.3,74.6,22.1,132.09,66.72,75.32,250.06,5.01,6931.87
+749,Sugarcane,Uttar Pradesh,Summer,5,Loamy,Local Market,1211.4,28.9,75.7,17.8,93.26,127.89,137.36,152.39,9.43,342.69
+750,Groundnut,Punjab,Kharif,12,Red Soil,Local Market,1426.1,37.1,38.0,15.12,67.96,93.06,59.03,186.29,10.62,6822.24
+751,Tomato,Telangana,Summer,4,Silty,Local Market,732.2,24.4,71.2,15.77,78.25,81.13,88.2,181.33,10.42,2695.0
+752,Cotton,Telangana,Summer,2,Sandy,APMC,281.0,29.4,53.4,0.72,2.04,154.09,102.11,299.28,11.45,8214.69
+753,Tomato,Madhya Pradesh,Rabi,11,Clay,APMC,710.0,25.1,84.8,22.57,188.13,150.18,62.74,254.17,9.38,3718.6
+754,Rice,Telangana,Kharif,12,Black Soil,APMC,366.3,35.9,79.1,3.92,27.19,122.58,90.91,106.05,17.48,2754.95
+755,Tomato,Telangana,Rabi,2,Silty,Mandi,337.9,29.3,46.6,23.75,91.41,92.52,142.34,148.51,19.33,2320.98
+756,Maize,Andhra Pradesh,Kharif,11,Black Soil,Local Market,1491.6,25.9,46.7,22.83,183.37,109.76,50.65,68.54,12.31,2532.89
+757,Cotton,Uttar Pradesh,Summer,6,Clay,Local Market,1064.1,22.2,63.9,14.1,94.43,81.99,86.83,134.65,19.27,7042.58
+758,Sugarcane,Telangana,Summer,2,Sandy,Local Market,1636.2,27.5,87.0,5.75,11.61,149.15,134.77,298.07,14.23,359.86
+759,Wheat,Uttar Pradesh,Summer,9,Clay,Wholesale Market,1132.2,25.6,86.4,11.09,58.46,104.61,106.48,162.33,2.86,2193.96
+760,Sugarcane,Uttar Pradesh,Rabi,6,Red Soil,Local Market,403.8,36.2,46.8,5.51,15.27,61.4,127.18,267.51,13.05,283.47
+761,Onion,Madhya Pradesh,Summer,9,Red Soil,Local Market,1729.2,22.9,75.2,11.27,40.4,105.59,57.12,247.66,6.38,2815.69
+762,Wheat,Andhra Pradesh,Rabi,8,Black Soil,Local Market,1750.2,27.6,75.0,9.58,26.73,104.31,66.57,295.33,3.73,2552.25
+763,Groundnut,Andhra Pradesh,Summer,3,Red Soil,APMC,1276.4,20.3,65.5,7.54,60.93,136.21,147.25,49.76,7.13,5447.9
+764,Rice,Tamil Nadu,Kharif,10,Silty,APMC,1325.3,25.9,55.5,11.67,31.97,123.4,86.42,261.61,15.62,2556.17
+765,Wheat,Karnataka,Kharif,8,Sandy,Local Market,1003.9,22.5,45.7,4.55,31.58,82.9,102.66,157.4,12.43,2007.84
+766,Tomato,Tamil Nadu,Rabi,1,Clay,Mandi,1416.3,18.6,50.6,12.72,23.09,78.6,143.45,293.98,15.32,1915.23
+767,Rice,Andhra Pradesh,Summer,5,Loamy,Local Market,798.0,27.6,67.9,12.08,77.17,103.37,70.23,95.62,2.1,2773.8
+768,Soybean,Punjab,Summer,3,Clay,Mandi,742.2,25.2,71.8,16.0,50.01,149.75,136.28,172.36,9.8,4692.89
+769,Groundnut,Madhya Pradesh,Summer,10,Loamy,Local Market,778.4,26.2,54.2,19.21,41.85,95.12,133.72,57.37,18.96,4578.34
+770,Tomato,Andhra Pradesh,Rabi,11,Silty,Local Market,1424.1,20.4,80.8,17.79,98.58,148.97,120.03,92.44,9.74,2817.16
+771,Wheat,Telangana,Rabi,4,Sandy,Mandi,449.3,31.9,62.8,1.13,9.01,145.18,102.43,99.53,4.19,2571.77
+772,Sugarcane,Uttar Pradesh,Summer,5,Red Soil,APMC,1446.5,18.8,57.1,20.08,103.59,115.0,59.72,74.41,14.19,408.83
+773,Wheat,Tamil Nadu,Summer,2,Red Soil,Wholesale Market,1014.5,35.1,40.7,11.51,40.4,70.46,126.35,172.81,12.02,1666.19
+774,Sugarcane,Madhya Pradesh,Kharif,9,Clay,Mandi,554.2,22.1,70.5,21.23,102.02,132.7,149.93,297.47,15.4,293.47
+775,Groundnut,Maharashtra,Summer,12,Sandy,Local Market,877.9,37.2,39.5,11.18,60.27,100.52,71.06,194.18,15.61,6183.46
+776,Soybean,Maharashtra,Kharif,3,Red Soil,APMC,809.2,30.2,43.4,2.12,6.38,72.79,81.24,173.74,12.6,4603.56
+777,Onion,Telangana,Rabi,9,Silty,Local Market,984.4,26.3,81.3,6.14,9.46,125.13,70.25,271.43,17.46,3227.83
+778,Wheat,Punjab,Rabi,12,Clay,Wholesale Market,995.6,26.3,40.9,23.12,164.96,83.01,75.6,48.32,7.34,2295.44
+779,Potato,Andhra Pradesh,Kharif,6,Clay,Local Market,557.1,18.5,36.1,15.75,96.57,91.1,82.0,128.27,14.24,1848.71
+780,Sugarcane,Telangana,Kharif,12,Sandy,Wholesale Market,1684.9,21.3,57.4,20.86,127.81,99.48,124.42,273.23,18.67,294.35
+781,Soybean,Tamil Nadu,Rabi,12,Red Soil,Wholesale Market,551.7,25.8,87.1,6.54,40.41,134.01,94.81,283.76,15.26,5800.21
+782,Tomato,Punjab,Kharif,12,Black Soil,Mandi,803.2,24.0,46.8,1.43,2.58,147.01,117.84,211.74,13.06,2896.91
+783,Sugarcane,Uttar Pradesh,Kharif,8,Loamy,Wholesale Market,1686.4,32.0,49.1,14.32,74.91,73.79,109.12,121.84,2.94,298.09
+784,Maize,Punjab,Summer,11,Clay,Local Market,1044.7,31.5,87.8,6.71,51.16,152.41,117.04,282.13,9.16,2398.15
+785,Onion,Tamil Nadu,Summer,1,Silty,Mandi,1000.9,27.2,66.2,4.16,19.9,143.11,51.55,110.96,2.04,3510.73
+786,Tomato,Maharashtra,Rabi,12,Red Soil,APMC,1682.4,33.5,66.6,17.54,139.8,131.24,86.84,225.39,2.73,3137.73
+787,Rice,Punjab,Summer,1,Loamy,APMC,1592.1,20.6,67.8,11.51,51.29,85.26,87.23,68.12,6.53,2335.37
+788,Groundnut,Uttar Pradesh,Rabi,5,Clay,Local Market,768.9,28.2,64.3,7.06,55.64,96.83,54.56,118.06,11.56,6459.16
+789,Cotton,Andhra Pradesh,Kharif,11,Red Soil,Local Market,344.8,21.1,59.3,12.91,53.79,104.0,97.02,240.05,3.89,7276.84
+790,Onion,Karnataka,Kharif,3,Red Soil,APMC,1081.8,37.2,67.4,0.77,1.48,159.29,57.19,51.97,8.35,3606.99
+791,Tomato,Andhra Pradesh,Summer,11,Black Soil,Wholesale Market,1075.1,23.8,71.1,16.22,48.12,63.04,93.36,188.07,17.78,2369.26
+792,Groundnut,Madhya Pradesh,Kharif,5,Silty,Wholesale Market,1233.1,18.4,74.7,20.97,90.05,104.79,135.13,241.67,7.19,4985.91
+793,Maize,Tamil Nadu,Rabi,4,Red Soil,APMC,942.8,23.1,71.3,9.43,66.04,72.16,61.64,93.16,3.52,2034.71
+794,Sugarcane,Telangana,Summer,7,Red Soil,Wholesale Market,1509.1,21.2,75.7,11.12,35.33,122.14,67.85,236.79,2.86,424.18
+795,Cotton,Karnataka,Summer,3,Red Soil,Mandi,1430.8,24.6,64.4,2.01,5.95,108.58,58.6,259.27,14.92,8133.76
+796,Soybean,Tamil Nadu,Kharif,9,Sandy,APMC,297.7,32.5,84.8,19.99,111.68,127.13,149.02,63.57,14.01,4379.18
+797,Tomato,Uttar Pradesh,Kharif,12,Clay,APMC,795.0,19.3,69.2,5.12,28.07,133.95,128.36,118.48,11.22,2893.2
+798,Rice,Punjab,Rabi,6,Red Soil,Local Market,1453.8,22.6,36.4,9.9,24.66,131.04,116.11,51.43,17.06,2469.1
+799,Rice,Karnataka,Kharif,3,Clay,Mandi,351.7,26.0,77.1,22.92,100.72,102.36,120.26,285.12,6.81,2341.28
+800,Rice,Karnataka,Summer,3,Black Soil,Wholesale Market,298.2,27.2,60.5,13.82,85.64,61.93,100.2,192.96,8.18,1994.67
+801,Tomato,Andhra Pradesh,Kharif,6,Black Soil,Wholesale Market,1173.3,37.4,89.1,14.7,22.16,150.07,107.02,135.16,16.93,3205.1
+802,Potato,Karnataka,Summer,7,Silty,Wholesale Market,638.9,29.9,46.4,8.43,50.21,148.15,103.29,237.37,15.74,2099.51
+803,Onion,Madhya Pradesh,Summer,7,Sandy,Local Market,318.5,22.9,77.1,2.19,5.54,129.42,139.26,204.77,6.0,2381.4
+804,Wheat,Uttar Pradesh,Rabi,5,Sandy,APMC,742.8,29.1,75.2,1.54,2.43,105.81,63.18,212.73,5.85,2609.15
+805,Cotton,Punjab,Rabi,4,Clay,Wholesale Market,708.2,36.9,89.3,12.1,86.12,133.67,79.73,55.23,4.57,8669.17
+806,Cotton,Uttar Pradesh,Summer,1,Black Soil,Wholesale Market,1446.8,35.2,35.7,17.27,28.21,130.69,113.56,78.57,15.79,7524.88
+807,Tomato,Andhra Pradesh,Kharif,4,Red Soil,Mandi,1381.1,21.3,66.1,8.16,22.42,145.92,90.35,143.62,5.06,3392.39
+808,Cotton,Andhra Pradesh,Kharif,12,Sandy,Wholesale Market,474.6,21.5,82.4,10.12,15.49,87.39,109.76,247.81,4.4,6141.01
+809,Onion,Uttar Pradesh,Rabi,10,Clay,Wholesale Market,914.7,33.2,55.4,6.48,42.79,101.97,148.14,130.87,18.59,1979.97
+810,Cotton,Karnataka,Rabi,12,Red Soil,Wholesale Market,603.1,22.0,58.4,19.01,109.03,128.86,78.23,165.17,2.8,8632.34
+811,Cotton,Punjab,Summer,5,Clay,Wholesale Market,513.2,31.1,68.7,19.8,64.89,136.36,118.8,123.93,11.82,7425.79
+812,Wheat,Karnataka,Rabi,5,Sandy,Mandi,1225.7,27.8,83.9,21.21,75.9,139.15,59.95,253.92,14.16,2850.62
+813,Potato,Andhra Pradesh,Summer,3,Loamy,Wholesale Market,1424.7,28.6,73.7,6.87,55.6,113.01,133.13,134.91,3.8,1491.31
+814,Cotton,Karnataka,Summer,1,Black Soil,APMC,1517.1,28.2,62.3,23.3,180.1,138.58,79.63,181.7,6.03,8345.58
+815,Maize,Karnataka,Rabi,7,Sandy,Local Market,892.7,18.4,82.4,4.77,27.92,62.5,89.95,296.35,3.81,1638.92
+816,Wheat,Maharashtra,Summer,7,Loamy,Mandi,375.8,30.5,53.5,16.97,29.27,73.34,118.64,95.22,17.44,1819.1
+817,Soybean,Telangana,Summer,9,Silty,Local Market,921.3,32.1,45.0,15.44,101.64,91.45,132.89,196.89,9.0,4244.01
+818,Cotton,Andhra Pradesh,Rabi,10,Silty,Wholesale Market,1139.1,36.9,74.8,17.39,143.94,139.89,63.66,130.39,19.37,9493.81
+819,Maize,Karnataka,Rabi,5,Red Soil,APMC,728.0,35.7,72.2,8.85,46.95,144.05,138.34,81.7,8.11,2121.08
+820,Wheat,Tamil Nadu,Rabi,4,Sandy,Local Market,519.9,25.6,79.2,20.1,161.82,100.32,120.87,171.88,16.47,2067.6
+821,Wheat,Karnataka,Rabi,8,Clay,APMC,641.3,29.5,88.0,5.4,11.7,71.94,128.31,131.03,6.04,1879.32
+822,Onion,Telangana,Summer,4,Clay,Local Market,408.1,19.5,60.4,7.89,45.68,64.3,62.18,264.95,12.19,2329.39
+823,Onion,Uttar Pradesh,Kharif,7,Black Soil,Mandi,1063.1,22.5,53.6,12.51,46.51,93.55,83.74,71.94,3.52,2609.3
+824,Onion,Uttar Pradesh,Summer,10,Black Soil,APMC,1056.8,32.5,55.1,1.4,10.96,72.78,144.79,188.69,7.5,1565.93
+825,Maize,Telangana,Rabi,7,Red Soil,APMC,801.0,32.8,63.1,6.48,24.92,146.31,102.55,177.37,19.31,2430.63
+826,Groundnut,Telangana,Summer,1,Clay,APMC,1336.1,23.2,85.7,3.67,13.68,65.48,120.33,271.73,13.45,3808.51
+827,Maize,Punjab,Summer,5,Sandy,APMC,1549.5,35.1,80.7,20.07,80.99,81.75,142.88,119.82,9.17,1441.35
+828,Rice,Uttar Pradesh,Kharif,10,Silty,Mandi,429.1,19.4,76.8,12.4,48.36,101.84,142.89,276.8,14.88,2047.43
+829,Tomato,Karnataka,Rabi,12,Black Soil,Local Market,1326.3,33.4,81.0,3.51,25.47,110.46,138.55,270.51,2.44,2479.84
+830,Sugarcane,Telangana,Rabi,10,Sandy,Local Market,841.0,28.0,87.3,19.17,86.37,65.44,66.85,158.54,16.65,317.49
+831,Groundnut,Telangana,Summer,12,Clay,Local Market,800.8,29.5,80.8,17.36,28.61,93.67,64.45,100.57,18.3,6608.6
+832,Wheat,Madhya Pradesh,Kharif,2,Black Soil,APMC,617.0,28.1,49.9,23.72,112.6,65.88,122.93,125.5,13.76,1606.09
+833,Sugarcane,Maharashtra,Kharif,10,Silty,Mandi,1621.9,18.9,44.2,3.38,9.32,157.02,105.17,161.71,19.72,440.89
+834,Wheat,Maharashtra,Rabi,2,Loamy,APMC,1577.2,20.3,72.9,10.52,30.96,100.28,57.6,220.81,6.55,2625.75
+835,Cotton,Telangana,Rabi,12,Clay,Local Market,1014.8,29.4,66.3,10.56,30.07,134.51,62.71,67.01,14.78,8673.55
+836,Groundnut,Tamil Nadu,Kharif,2,Sandy,Mandi,1612.3,34.7,86.1,11.74,80.77,119.17,81.05,298.55,2.69,6284.96
+837,Groundnut,Punjab,Summer,7,Clay,Wholesale Market,427.2,28.7,82.2,18.55,55.82,99.93,100.79,250.65,17.1,5753.3
+838,Onion,Punjab,Summer,3,Black Soil,Wholesale Market,1241.1,27.0,71.4,17.81,138.05,155.59,101.43,247.61,19.36,3047.69
+839,Wheat,Madhya Pradesh,Summer,5,Clay,APMC,315.8,21.2,56.1,5.87,21.35,157.53,120.44,225.17,3.7,2686.05
+840,Sugarcane,Maharashtra,Kharif,3,Loamy,Mandi,533.5,27.4,83.0,6.01,29.07,73.26,89.51,86.06,8.55,345.33
+841,Onion,Punjab,Kharif,3,Silty,APMC,498.6,32.3,73.6,24.19,87.12,135.64,93.41,185.2,16.7,2855.51
+842,Cotton,Madhya Pradesh,Kharif,11,Silty,APMC,926.3,33.8,80.0,7.62,29.55,153.6,66.47,50.96,10.17,9041.88
+843,Wheat,Punjab,Rabi,10,Clay,APMC,1076.5,20.0,67.4,19.57,42.14,77.27,51.23,194.35,17.96,2389.72
+844,Potato,Uttar Pradesh,Summer,4,Black Soil,APMC,1123.4,20.4,64.3,9.24,65.1,135.81,141.06,43.86,16.56,1754.54
+845,Rice,Madhya Pradesh,Summer,7,Silty,Mandi,1376.2,32.0,74.4,11.63,56.05,106.79,53.33,102.68,4.78,2815.45
+846,Wheat,Karnataka,Rabi,4,Loamy,Mandi,513.1,18.0,74.5,3.22,10.33,89.79,106.04,143.47,14.14,2136.02
+847,Maize,Madhya Pradesh,Kharif,5,Loamy,Local Market,708.5,19.3,84.3,17.45,41.03,66.5,147.49,217.1,9.51,1437.39
+848,Cotton,Punjab,Summer,12,Black Soil,Mandi,1577.7,32.4,83.6,15.59,37.61,71.48,54.8,187.44,6.37,7465.66
+849,Tomato,Uttar Pradesh,Kharif,4,Loamy,APMC,408.7,32.7,59.8,8.43,63.2,119.36,101.8,233.28,16.68,2938.85
+850,Groundnut,Telangana,Rabi,10,Clay,Local Market,1000.7,19.8,42.1,6.37,47.88,152.46,132.63,126.86,6.9,6453.55
+851,Potato,Maharashtra,Rabi,11,Clay,Mandi,326.4,31.9,80.8,21.24,132.73,155.4,101.1,277.59,19.42,2164.73
+852,Cotton,Andhra Pradesh,Kharif,12,Silty,Wholesale Market,405.0,23.2,76.3,2.83,10.6,98.72,112.26,81.11,17.49,6747.95
+853,Tomato,Karnataka,Kharif,5,Silty,Local Market,676.3,20.8,35.2,13.54,30.47,99.17,108.93,111.68,5.15,2567.62
+854,Tomato,Karnataka,Rabi,3,Silty,Wholesale Market,625.6,33.5,64.1,23.24,104.61,146.98,94.9,294.6,19.28,3461.24
+855,Tomato,Punjab,Summer,9,Clay,APMC,658.3,22.1,49.5,22.79,180.25,92.9,120.54,215.69,16.52,2429.46
+856,Wheat,Madhya Pradesh,Summer,3,Sandy,APMC,641.5,37.2,36.7,23.97,72.33,64.88,79.25,244.43,15.54,2005.53
+857,Onion,Tamil Nadu,Summer,5,Clay,Mandi,960.0,33.8,36.3,15.46,102.26,159.34,117.88,100.28,3.95,2922.94
+858,Soybean,Telangana,Kharif,11,Red Soil,Wholesale Market,876.8,22.5,36.0,14.59,43.58,80.83,62.54,89.29,2.57,5312.04
+859,Maize,Tamil Nadu,Rabi,2,Loamy,APMC,355.8,26.4,48.5,12.18,96.75,132.4,116.19,154.72,14.08,2226.46
+860,Rice,Uttar Pradesh,Rabi,2,Clay,Mandi,1501.7,19.1,38.8,11.29,36.89,134.55,113.42,240.86,7.84,2424.09
+861,Maize,Tamil Nadu,Kharif,9,Sandy,Local Market,776.8,36.0,37.7,9.08,21.16,62.9,61.29,152.12,14.37,2175.57
+862,Maize,Maharashtra,Rabi,4,Loamy,Mandi,1448.6,36.6,73.9,22.44,70.81,94.54,125.29,150.39,17.07,1760.12
+863,Cotton,Punjab,Summer,1,Red Soil,Local Market,1759.6,24.6,85.8,7.1,59.81,127.03,96.35,199.48,6.91,7323.04
+864,Tomato,Andhra Pradesh,Summer,10,Red Soil,Mandi,1497.0,30.3,40.5,14.89,69.47,137.46,70.91,157.82,4.81,3411.68
+865,Rice,Madhya Pradesh,Kharif,6,Loamy,Mandi,915.8,27.7,42.6,17.0,96.44,89.45,51.37,60.19,9.05,2676.83
+866,Rice,Uttar Pradesh,Summer,4,Red Soil,Mandi,1201.7,35.2,76.4,14.06,56.75,96.51,137.94,50.2,19.78,1864.25
+867,Soybean,Andhra Pradesh,Kharif,10,Silty,Wholesale Market,1188.6,27.7,40.8,7.31,56.52,115.0,91.34,58.9,14.85,5163.74
+868,Cotton,Karnataka,Summer,9,Black Soil,Wholesale Market,611.8,36.8,67.4,8.12,37.74,140.57,66.16,116.14,14.23,9547.1
+869,Potato,Madhya Pradesh,Kharif,5,Black Soil,Local Market,1432.2,19.4,35.7,22.51,125.37,95.18,73.26,200.39,11.16,1798.18
+870,Wheat,Tamil Nadu,Summer,9,Clay,Local Market,763.0,21.4,60.7,2.96,11.4,97.92,96.56,161.32,6.63,2431.0
+871,Sugarcane,Punjab,Kharif,9,Silty,Local Market,522.5,24.5,38.7,1.31,7.51,121.91,102.96,238.19,2.7,369.4
+872,Potato,Punjab,Kharif,8,Loamy,Wholesale Market,1452.8,31.0,46.7,9.68,15.05,129.37,82.27,188.61,19.22,2110.48
+873,Onion,Telangana,Kharif,5,Silty,Local Market,625.2,26.7,75.7,11.44,22.65,76.86,129.13,208.58,12.26,1971.93
+874,Cotton,Uttar Pradesh,Summer,1,Red Soil,Mandi,1514.1,30.4,87.0,16.34,49.21,132.86,114.57,296.29,5.85,7178.76
+875,Soybean,Punjab,Kharif,3,Red Soil,APMC,1626.2,26.1,69.4,22.29,66.17,158.19,120.2,168.99,9.76,4983.85
+876,Tomato,Uttar Pradesh,Rabi,9,Sandy,Mandi,905.4,31.4,35.9,20.59,157.69,145.72,87.51,160.12,2.22,3288.34
+877,Onion,Maharashtra,Rabi,2,Black Soil,Wholesale Market,919.1,37.4,42.7,14.89,43.28,139.01,128.37,69.28,18.42,2644.92
+878,Cotton,Uttar Pradesh,Rabi,1,Red Soil,Mandi,781.0,20.1,45.4,12.76,89.99,75.02,115.97,124.13,8.14,5276.81
+879,Rice,Uttar Pradesh,Summer,1,Clay,Mandi,491.7,33.8,38.5,5.25,31.99,145.49,75.27,125.07,11.67,3138.01
+880,Soybean,Karnataka,Rabi,9,Red Soil,Wholesale Market,640.6,24.5,39.3,12.69,32.19,141.15,92.06,238.9,19.18,5424.28
+881,Groundnut,Maharashtra,Summer,1,Black Soil,Mandi,506.3,36.7,82.8,21.68,137.73,122.49,51.47,234.49,3.65,7577.25
+882,Potato,Karnataka,Kharif,4,Loamy,Mandi,1735.7,23.2,72.6,23.55,144.7,147.13,132.75,133.63,12.8,1684.65
+883,Rice,Maharashtra,Summer,1,Red Soil,APMC,1068.5,26.2,49.8,24.97,49.99,64.36,71.73,292.48,19.63,2337.05
+884,Cotton,Punjab,Summer,1,Silty,APMC,406.7,20.2,66.5,19.63,79.83,157.79,93.44,79.12,10.39,8743.08
+885,Tomato,Karnataka,Rabi,1,Black Soil,Mandi,1052.3,35.2,70.8,5.12,9.94,102.44,51.56,122.76,8.62,3359.81
+886,Tomato,Maharashtra,Rabi,4,Silty,APMC,1665.5,22.6,41.7,0.65,3.29,159.83,119.5,120.18,17.78,3092.85
+887,Tomato,Punjab,Kharif,11,Clay,Mandi,482.0,22.5,60.8,10.91,38.43,77.22,126.22,297.43,16.0,2082.61
+888,Tomato,Karnataka,Summer,4,Silty,Mandi,953.6,22.2,46.1,21.55,134.57,114.6,90.09,152.01,3.03,2887.48
+889,Potato,Uttar Pradesh,Summer,6,Clay,Wholesale Market,844.6,18.3,60.2,1.12,6.15,110.68,134.0,191.26,7.82,1699.62
+890,Wheat,Punjab,Summer,9,Silty,APMC,1266.2,28.8,77.1,21.08,150.66,61.65,68.68,210.28,8.76,2179.69
+891,Onion,Punjab,Summer,6,Sandy,Local Market,562.2,35.3,52.7,24.74,64.42,111.63,129.28,152.49,10.43,2328.99
+892,Cotton,Karnataka,Rabi,3,Black Soil,Wholesale Market,1639.2,23.5,85.4,20.8,173.97,92.43,73.58,126.03,19.18,7232.61
+893,Soybean,Andhra Pradesh,Rabi,5,Black Soil,Mandi,549.7,28.7,81.7,1.71,13.21,126.55,111.67,202.73,7.33,5186.21
+894,Groundnut,Karnataka,Kharif,8,Silty,Wholesale Market,897.4,28.5,41.3,24.8,89.71,123.5,108.12,244.12,7.29,5954.08
+895,Maize,Tamil Nadu,Rabi,5,Black Soil,Wholesale Market,1292.7,33.7,71.7,22.55,78.84,150.06,63.09,211.48,11.86,2620.08
+896,Sugarcane,Andhra Pradesh,Kharif,8,Black Soil,Wholesale Market,851.2,20.0,79.1,22.92,155.77,142.24,71.65,108.53,5.75,448.05
+897,Potato,Andhra Pradesh,Kharif,8,Sandy,Local Market,1008.9,25.8,39.9,15.83,78.62,87.52,97.37,241.58,16.43,1644.44
+898,Maize,Punjab,Rabi,3,Loamy,Mandi,1185.6,35.9,82.6,22.32,75.67,63.5,76.11,112.46,18.37,2143.89
+899,Potato,Punjab,Kharif,7,Silty,Local Market,1604.8,32.4,70.4,14.35,94.15,101.97,59.66,50.4,10.62,1991.32
+900,Maize,Madhya Pradesh,Rabi,4,Sandy,Mandi,1083.8,32.4,46.8,18.19,130.51,101.19,124.64,145.05,14.21,1880.48
+901,Potato,Madhya Pradesh,Kharif,5,Red Soil,Local Market,506.7,22.1,73.1,22.97,97.9,77.98,78.51,158.31,7.23,1814.05
+902,Soybean,Uttar Pradesh,Rabi,7,Sandy,Wholesale Market,1286.8,31.1,59.5,8.99,66.09,135.84,82.13,66.78,3.29,5421.54
+903,Tomato,Karnataka,Kharif,2,Silty,APMC,1417.5,23.9,77.0,18.76,60.42,132.88,124.78,143.34,5.79,2857.66
+904,Tomato,Andhra Pradesh,Rabi,3,Silty,Mandi,602.8,37.7,65.8,17.54,40.85,85.07,63.97,141.44,7.11,3061.46
+905,Maize,Karnataka,Summer,1,Clay,Mandi,1368.5,20.8,83.2,4.93,34.91,105.7,82.83,81.14,5.02,2240.21
+906,Soybean,Punjab,Kharif,1,Sandy,Wholesale Market,1063.8,19.7,81.1,15.52,42.01,62.07,53.16,171.92,15.22,5041.0
+907,Soybean,Tamil Nadu,Kharif,2,Silty,APMC,588.0,25.8,65.8,17.28,142.5,153.08,107.01,230.88,19.12,5502.23
+908,Rice,Tamil Nadu,Kharif,10,Loamy,APMC,1050.4,19.9,52.7,0.98,2.23,141.19,132.94,248.51,15.08,2335.51
+909,Cotton,Karnataka,Kharif,10,Silty,APMC,1284.4,28.3,55.0,18.39,66.03,114.29,93.34,111.92,19.54,7120.96
+910,Wheat,Andhra Pradesh,Summer,3,Loamy,Wholesale Market,526.7,25.5,60.7,10.78,29.62,152.44,126.23,165.15,14.24,2406.45
+911,Groundnut,Telangana,Summer,5,Silty,Local Market,853.8,31.8,73.2,11.04,69.97,112.11,147.69,82.24,12.81,4579.49
+912,Tomato,Karnataka,Kharif,7,Sandy,Wholesale Market,831.0,22.9,58.7,12.1,81.19,136.51,65.86,194.12,18.13,3505.21
+913,Tomato,Andhra Pradesh,Rabi,2,Black Soil,Mandi,405.9,25.9,62.9,24.9,68.48,158.24,87.61,92.08,9.45,3417.3
+914,Cotton,Telangana,Kharif,10,Silty,APMC,480.7,33.9,68.0,2.96,24.06,67.8,112.54,150.22,12.02,5914.87
+915,Maize,Punjab,Rabi,12,Sandy,Wholesale Market,1060.6,22.8,84.1,24.29,170.13,114.28,145.68,80.0,10.61,1703.64
+916,Onion,Telangana,Kharif,6,Sandy,Wholesale Market,572.2,34.0,69.3,11.97,36.18,93.42,145.98,175.22,9.21,2289.64
+917,Potato,Madhya Pradesh,Kharif,5,Black Soil,Wholesale Market,1156.7,31.3,74.2,22.11,90.61,67.54,145.83,153.1,13.22,1236.52
+918,Wheat,Madhya Pradesh,Rabi,12,Red Soil,Local Market,1742.2,19.4,49.8,2.47,16.69,74.08,59.99,186.03,9.41,2466.36
+919,Tomato,Madhya Pradesh,Summer,2,Clay,Mandi,1601.4,25.9,53.3,8.79,25.28,146.07,64.66,276.24,7.1,3596.7
+920,Soybean,Madhya Pradesh,Rabi,12,Silty,Local Market,703.2,26.0,77.1,6.48,47.77,97.59,103.22,284.91,14.26,4537.57
+921,Tomato,Maharashtra,Rabi,7,Black Soil,APMC,1200.5,26.0,35.7,3.57,13.48,116.5,138.15,245.69,11.96,2440.4
+922,Potato,Andhra Pradesh,Kharif,10,Red Soil,Mandi,1071.8,36.0,73.8,20.03,125.62,80.66,61.05,255.67,14.52,1894.92
+923,Potato,Andhra Pradesh,Kharif,6,Silty,APMC,434.2,24.2,59.4,3.45,8.07,132.59,106.97,178.77,10.14,1993.94
+924,Wheat,Uttar Pradesh,Summer,3,Red Soil,Wholesale Market,1755.1,35.7,87.0,3.28,24.85,72.91,113.29,227.22,4.9,1757.58
+925,Groundnut,Karnataka,Summer,2,Loamy,APMC,516.2,19.3,59.4,21.34,43.46,95.55,139.98,70.72,7.59,4667.18
+926,Tomato,Punjab,Rabi,4,Sandy,Local Market,1699.1,21.1,36.9,24.75,120.68,117.21,111.59,245.31,16.62,2866.02
+927,Potato,Tamil Nadu,Rabi,3,Clay,APMC,1746.7,21.2,45.0,14.36,85.6,133.94,68.11,289.34,13.5,2175.86
+928,Cotton,Madhya Pradesh,Kharif,10,Red Soil,Wholesale Market,1407.1,29.2,69.7,6.43,29.12,85.54,138.44,69.26,14.24,5615.21
+929,Groundnut,Karnataka,Rabi,7,Loamy,Local Market,1294.6,28.7,59.4,16.04,116.99,102.77,114.11,287.93,17.11,5792.5
+930,Sugarcane,Tamil Nadu,Rabi,5,Clay,Mandi,1687.8,26.1,89.9,14.69,26.38,118.68,77.46,48.45,16.78,388.02
+931,Sugarcane,Punjab,Rabi,8,Black Soil,Mandi,1759.6,25.2,68.1,15.44,83.74,151.47,117.44,144.97,17.52,392.77
+932,Cotton,Maharashtra,Summer,10,Clay,APMC,1323.7,23.1,54.6,5.19,38.89,148.26,79.69,254.13,8.45,8247.41
+933,Wheat,Maharashtra,Rabi,7,Red Soil,Local Market,548.5,25.1,44.3,3.1,24.33,159.77,66.41,54.18,7.94,2990.12
+934,Wheat,Telangana,Rabi,1,Black Soil,Wholesale Market,1354.5,30.7,56.3,22.77,188.69,77.36,72.3,176.66,3.64,2262.24
+935,Potato,Karnataka,Rabi,9,Black Soil,Mandi,554.5,31.1,72.7,23.34,58.99,129.23,141.14,170.41,8.51,1719.09
+936,Potato,Uttar Pradesh,Summer,10,Black Soil,APMC,1139.6,18.5,49.5,17.9,111.79,95.34,130.86,101.32,10.3,1447.8
+937,Rice,Punjab,Summer,4,Red Soil,Wholesale Market,1376.4,36.9,68.6,18.04,123.28,86.28,54.52,40.49,8.31,2646.42
+938,Cotton,Uttar Pradesh,Kharif,8,Red Soil,Mandi,1092.4,20.0,52.5,1.76,7.51,78.86,106.16,220.13,11.58,5895.14
+939,Maize,Maharashtra,Kharif,8,Red Soil,Local Market,850.6,30.5,65.4,24.05,67.53,95.13,107.28,265.67,18.73,1923.83
+940,Rice,Andhra Pradesh,Rabi,11,Red Soil,Wholesale Market,723.9,25.3,56.8,20.63,42.64,91.65,146.63,79.81,15.37,1802.63
+941,Rice,Uttar Pradesh,Kharif,6,Loamy,Mandi,724.9,28.0,47.7,13.78,41.87,125.01,140.44,62.23,5.9,2251.89
+942,Soybean,Punjab,Rabi,4,Clay,Wholesale Market,558.6,36.8,76.9,17.56,55.71,71.86,137.08,41.53,8.99,3699.89
+943,Rice,Telangana,Summer,2,Clay,Mandi,669.2,18.9,58.8,20.77,34.74,127.53,143.25,101.6,14.49,2138.95
+944,Rice,Tamil Nadu,Kharif,6,Sandy,Wholesale Market,1230.6,20.4,50.0,12.94,47.99,159.11,93.14,266.15,18.14,2900.96
+945,Onion,Punjab,Rabi,8,Silty,Local Market,892.3,21.9,45.1,7.55,24.45,128.48,68.68,181.21,19.76,3209.8
+946,Sugarcane,Uttar Pradesh,Summer,7,Clay,Wholesale Market,1695.1,30.0,42.9,22.59,61.47,95.29,87.55,156.3,16.22,343.11
+947,Potato,Madhya Pradesh,Kharif,6,Sandy,Local Market,939.2,36.9,80.3,16.13,31.24,125.23,141.16,138.66,17.09,1725.91
+948,Sugarcane,Madhya Pradesh,Rabi,6,Red Soil,Local Market,1232.4,28.8,86.0,23.33,118.73,90.58,95.96,88.51,13.45,315.84
+949,Soybean,Madhya Pradesh,Summer,7,Clay,Local Market,927.8,32.6,72.6,7.37,45.81,152.77,84.75,125.57,12.29,6058.61
+950,Potato,Punjab,Summer,3,Black Soil,Wholesale Market,1040.3,35.3,57.9,18.72,140.3,91.0,89.28,132.7,16.99,1703.77
+951,Tomato,Madhya Pradesh,Kharif,12,Loamy,Mandi,1126.4,26.7,64.7,5.34,24.11,110.17,140.12,107.82,17.62,2263.05
+952,Groundnut,Maharashtra,Rabi,4,Clay,Mandi,1638.6,31.0,75.6,0.56,3.3,118.85,103.72,244.33,12.01,5734.06
+953,Rice,Madhya Pradesh,Rabi,7,Loamy,Local Market,1753.4,30.7,77.0,2.55,6.69,133.32,93.14,155.95,7.55,2570.83
+954,Groundnut,Tamil Nadu,Rabi,1,Red Soil,Mandi,1703.9,32.5,65.3,19.38,79.38,133.05,91.07,112.71,12.98,6660.06
+955,Cotton,Uttar Pradesh,Kharif,9,Clay,Mandi,1325.8,33.4,84.3,9.19,74.99,123.73,128.77,221.94,5.7,6744.26
+956,Groundnut,Tamil Nadu,Kharif,12,Sandy,Local Market,1382.3,23.5,74.3,9.91,68.34,74.28,70.5,218.34,12.08,5557.28
+957,Potato,Karnataka,Summer,5,Black Soil,Mandi,902.7,22.0,56.3,12.55,44.76,136.91,89.39,229.67,5.73,2129.46
+958,Wheat,Punjab,Summer,5,Clay,APMC,1253.8,18.1,49.0,12.6,73.47,66.56,120.51,181.32,11.46,1808.42
+959,Rice,Madhya Pradesh,Summer,3,Sandy,Local Market,1387.5,24.4,54.1,5.61,25.91,65.2,80.04,177.05,10.38,2162.17
+960,Groundnut,Karnataka,Rabi,3,Red Soil,APMC,1479.8,18.7,89.0,21.7,120.6,71.13,71.53,112.65,6.34,4894.68
+961,Maize,Karnataka,Summer,2,Red Soil,Local Market,661.6,26.9,74.2,9.71,77.62,69.45,87.08,224.33,6.07,1834.8
+962,Cotton,Madhya Pradesh,Rabi,2,Red Soil,Local Market,1105.2,33.9,53.3,15.02,74.57,154.57,124.76,229.94,2.83,7856.69
+963,Wheat,Madhya Pradesh,Summer,12,Loamy,APMC,668.2,26.2,48.4,3.67,27.53,115.83,136.14,256.1,7.08,1995.97
+964,Sugarcane,Telangana,Kharif,10,Silty,Wholesale Market,1775.4,21.7,82.6,10.07,41.99,86.27,54.47,109.68,2.97,385.61
+965,Maize,Karnataka,Kharif,11,Red Soil,APMC,1361.8,20.6,86.7,22.55,88.77,71.15,120.42,229.37,18.14,1722.35
+966,Potato,Tamil Nadu,Kharif,6,Black Soil,APMC,740.0,27.7,79.8,23.87,74.29,85.3,143.98,142.94,14.93,1446.58
+967,Onion,Andhra Pradesh,Summer,7,Sandy,Mandi,1266.1,29.8,40.5,24.88,107.06,123.83,138.58,150.06,15.93,2274.48
+968,Cotton,Tamil Nadu,Kharif,11,Loamy,Mandi,294.3,36.2,80.2,24.33,46.41,75.62,60.53,217.69,12.91,7583.65
+969,Soybean,Andhra Pradesh,Kharif,8,Red Soil,Local Market,425.0,36.2,45.9,18.72,144.06,117.95,74.68,120.4,17.94,5754.28
+970,Wheat,Maharashtra,Kharif,4,Silty,Local Market,1784.9,25.5,48.9,3.3,8.2,145.36,108.87,267.16,16.21,2436.47
+971,Soybean,Madhya Pradesh,Summer,3,Red Soil,Local Market,284.0,36.7,84.7,13.81,76.52,130.5,76.47,97.7,14.13,5765.01
+972,Cotton,Tamil Nadu,Rabi,3,Clay,Mandi,1055.6,31.6,59.7,6.42,9.69,116.0,109.07,292.73,8.51,6799.41
+973,Soybean,Madhya Pradesh,Summer,11,Sandy,Wholesale Market,591.1,21.6,35.9,5.66,29.03,113.85,75.44,58.79,15.4,5397.59
+974,Soybean,Tamil Nadu,Kharif,3,Red Soil,Local Market,738.6,36.8,81.7,21.17,107.67,138.94,67.94,189.04,19.71,6275.98
+975,Potato,Tamil Nadu,Summer,12,Loamy,Local Market,813.5,37.9,66.4,12.08,60.06,140.92,84.07,141.18,15.61,2347.43
+976,Potato,Uttar Pradesh,Rabi,8,Red Soil,Local Market,1702.3,18.0,84.2,8.12,29.89,82.81,81.7,95.51,18.31,1574.44
+977,Wheat,Madhya Pradesh,Rabi,5,Loamy,Mandi,593.6,22.4,87.1,23.88,201.39,140.77,68.82,95.12,8.12,2931.51
+978,Maize,Karnataka,Rabi,6,Clay,Local Market,1659.8,34.6,44.0,21.84,74.38,68.09,115.68,209.99,3.71,1627.82
+979,Soybean,Punjab,Kharif,11,Silty,Mandi,372.1,23.5,48.7,6.25,17.81,117.48,82.81,253.29,5.31,5225.87
+980,Onion,Maharashtra,Kharif,9,Clay,Local Market,1475.4,27.8,39.8,15.01,102.24,79.07,106.82,251.69,15.83,2123.55
+981,Rice,Andhra Pradesh,Summer,1,Clay,Local Market,416.4,31.9,46.4,23.19,69.8,85.56,79.7,239.82,9.7,2509.82
+982,Rice,Maharashtra,Summer,12,Loamy,APMC,1704.0,37.9,41.9,15.53,44.98,86.25,124.56,294.19,12.71,2027.99
+983,Groundnut,Karnataka,Rabi,9,Silty,APMC,447.2,25.9,49.9,7.65,18.08,140.58,50.92,121.25,5.14,7461.4
+984,Cotton,Tamil Nadu,Summer,4,Black Soil,APMC,633.1,37.5,56.8,15.18,48.44,109.05,57.41,49.03,10.44,8641.61
+985,Rice,Uttar Pradesh,Kharif,1,Loamy,APMC,918.7,20.3,40.7,18.98,57.84,62.81,147.96,294.9,8.81,1514.86
+986,Onion,Maharashtra,Summer,9,Sandy,APMC,399.2,23.7,82.8,2.27,17.32,112.43,90.83,120.52,7.35,2654.8
+987,Potato,Tamil Nadu,Summer,5,Black Soil,Local Market,272.1,36.1,37.4,8.4,46.07,111.78,115.45,177.16,6.12,1733.87
+988,Maize,Telangana,Summer,12,Silty,APMC,1280.8,33.7,74.1,4.12,19.33,63.86,51.78,154.43,6.55,2075.63
+989,Sugarcane,Madhya Pradesh,Rabi,7,Loamy,Wholesale Market,826.0,23.5,56.2,4.42,9.65,112.1,122.04,222.5,10.12,364.66
+990,Maize,Madhya Pradesh,Rabi,11,Sandy,Local Market,465.8,29.6,83.8,12.1,81.38,140.47,123.65,280.59,10.04,2461.86
+991,Tomato,Andhra Pradesh,Rabi,2,Loamy,Wholesale Market,1220.4,26.3,88.1,18.51,35.78,134.46,52.4,209.08,5.79,3502.79
+992,Wheat,Andhra Pradesh,Summer,9,Loamy,Mandi,1585.5,21.0,50.3,2.79,8.3,83.87,141.76,60.31,9.69,1742.3
+993,Onion,Telangana,Kharif,3,Sandy,Wholesale Market,384.5,20.3,74.3,2.33,18.45,134.15,83.55,134.36,11.12,3075.41
+994,Soybean,Madhya Pradesh,Kharif,3,Clay,Mandi,1312.6,31.7,36.5,22.53,87.12,134.42,125.98,209.14,9.11,4624.31
+995,Rice,Maharashtra,Summer,10,Red Soil,Wholesale Market,865.0,20.1,81.0,13.98,88.59,128.26,134.16,74.47,13.88,2214.7
+996,Tomato,Andhra Pradesh,Summer,3,Silty,Local Market,907.7,36.3,62.4,10.27,69.35,67.32,58.95,209.51,10.76,2888.79
+997,Soybean,Karnataka,Rabi,9,Red Soil,Wholesale Market,1489.9,37.6,86.2,18.55,117.94,93.68,60.4,189.17,12.37,5219.63
+998,Wheat,Punjab,Rabi,3,Black Soil,Local Market,586.0,29.7,54.1,16.61,26.73,66.44,59.97,148.94,16.67,2396.2
+999,Soybean,Punjab,Rabi,1,Loamy,Mandi,1441.0,23.8,57.5,13.34,32.6,62.6,65.28,202.98,3.33,4331.21
+1000,Tomato,Telangana,Kharif,8,Black Soil,APMC,661.3,24.6,65.2,5.39,8.85,116.21,96.53,210.75,4.64,2844.11
